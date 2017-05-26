@@ -12986,13 +12986,7 @@
     }
 
 
-    public class Test
-    {
-        public Test()
-        {
-            TeklaProperties.Assembly.attributes;
-        }
-    }
+   
 
 
 

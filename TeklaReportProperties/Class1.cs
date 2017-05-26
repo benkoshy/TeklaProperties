@@ -2237,7 +2237,6 @@
             public static string HISTORY_TOUCHED { get { return "HISTORY.TOUCHED"; } }
             public static string HISTORY_TOUCHED_ACTION { get { return "HISTORY.TOUCHED_ACTION"; } }
             public static string HISTORY_TOUCHED_BY { get { return "HISTORY.TOUCHED_BY"; } }
-
             public static string PRIMARY_ACN { get { return "PRIMARY.ACN"; } }
             public static string PRIMARY_AREA { get { return "PRIMARY.AREA"; } }
             public static string PRIMARY_AREA_GROSS { get { return "PRIMARY.AREA_GROSS"; } }
@@ -2440,7 +2439,6 @@
             public static string PRIMARY_VOLUME { get { return "PRIMARY.VOLUME"; } }
             public static string PRIMARY_VOLUME_GROSS { get { return "PRIMARY.VOLUME_GROSS"; } }
             public static string PRIMARY_VOLUME_NET { get { return "PRIMARY.VOLUME_NET"; } }
-
             public static string PRIMARY_ASSEMBLY_AREA { get { return "PRIMARY.ASSEMBLY.AREA"; } }
             public static string PRIMARY_ASSEMBLY_AREA_PLAN { get { return "PRIMARY.ASSEMBLY.AREA_PLAN"; } }
             public static string PRIMARY_ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "PRIMARY.ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
@@ -2512,7 +2510,6 @@
             public static string PRIMARY_ASSEMBLY_WEIGHT_GROSS { get { return "PRIMARY.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string PRIMARY_ASSEMBLY_WEIGHT_NET { get { return "PRIMARY.ASSEMBLY.WEIGHT_NET"; } }
             public static string PRIMARY_ASSEMBLY_VOLUME { get { return "PRIMARY.ASSEMBLY.VOLUME"; } }
-
             public static string PRIMARY_ASSEMBLY_MAINPART_ACN { get { return "PRIMARY.ASSEMBLY.MAINPART.ACN"; } }
             public static string PRIMARY_ASSEMBLY_MAINPART_AREA { get { return "PRIMARY.ASSEMBLY.MAINPART.AREA"; } }
             public static string PRIMARY_ASSEMBLY_MAINPART_AREA_GROSS { get { return "PRIMARY.ASSEMBLY.MAINPART.AREA_GROSS"; } }
@@ -2698,7 +2695,6 @@
             public static string PRIMARY_ASSEMBLY_MAINPART_VOLUME { get { return "PRIMARY.ASSEMBLY.MAINPART.VOLUME"; } }
             public static string PRIMARY_ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "PRIMARY.ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
             public static string PRIMARY_ASSEMBLY_MAINPART_VOLUME_NET { get { return "PRIMARY.ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
             public static string PRIMARY_CAST_UNIT_AREA { get { return "PRIMARY.CAST_UNIT.AREA"; } }
             public static string PRIMARY_CAST_UNIT_AREA_PLAN { get { return "PRIMARY.CAST_UNIT.AREA_PLAN"; } }
             public static string PRIMARY_CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "PRIMARY.CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
@@ -2782,7 +2778,6 @@
             public static string PRIMARY_CAST_UNIT_WEIGHT_ONLY_CONCRETE_PARTS { get { return "PRIMARY.CAST_UNIT.WEIGHT_ONLY_CONCRETE_PARTS"; } }
             public static string PRIMARY_CAST_UNIT_VOLUME { get { return "PRIMARY.CAST_UNIT.VOLUME"; } }
             public static string PRIMARY_CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "PRIMARY.CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
             public static string PRIMARY_CAST_UNIT_MAINPART_ACN { get { return "PRIMARY.CAST_UNIT.MAINPART.ACN"; } }
             public static string PRIMARY_CAST_UNIT_MAINPART_AREA { get { return "PRIMARY.CAST_UNIT.MAINPART.AREA"; } }
             public static string PRIMARY_CAST_UNIT_MAINPART_AREA_GROSS { get { return "PRIMARY.CAST_UNIT.MAINPART.AREA_GROSS"; } }
@@ -2968,7 +2963,6 @@
             public static string PRIMARY_CAST_UNIT_MAINPART_VOLUME { get { return "PRIMARY.CAST_UNIT.MAINPART.VOLUME"; } }
             public static string PRIMARY_CAST_UNIT_MAINPART_VOLUME_GROSS { get { return "PRIMARY.CAST_UNIT.MAINPART.VOLUME_GROSS"; } }
             public static string PRIMARY_CAST_UNIT_MAINPART_VOLUME_NET { get { return "PRIMARY.CAST_UNIT.MAINPART.VOLUME_NET"; } }
-
             public static string PRIMARY_DRAWING_CONTENTTYPE { get { return "PRIMARY.DRAWING.CONTENTTYPE"; } }
             public static string PRIMARY_DRAWING_DATE_CREATE { get { return "PRIMARY.DRAWING.DATE_CREATE"; } }
             public static string PRIMARY_DRAWING_DATE_ISSUE { get { return "PRIMARY.DRAWING.DATE_ISSUE"; } }
@@ -2995,7 +2989,6 @@
             public static string PRIMARY_DRAWING_TYPE { get { return "PRIMARY.DRAWING.TYPE"; } }
             public static string PRIMARY_DRAWING_WELD_DEFAULT { get { return "PRIMARY.DRAWING.WELD_DEFAULT"; } }
             public static string PRIMARY_DRAWING_WIDTH { get { return "PRIMARY.DRAWING.WIDTH"; } }
-
             public static string PRIMARY_DRAWING_REVISION_CHECKED_BY { get { return "PRIMARY.DRAWING.REVISION.CHECKED_BY"; } }
             public static string PRIMARY_DRAWING_REVISION_CREATED_BY { get { return "PRIMARY.DRAWING.REVISION.CREATED_BY"; } }
             public static string PRIMARY_DRAWING_REVISION_DATE_CHECKED { get { return "PRIMARY.DRAWING.REVISION.DATE_CHECKED"; } }
@@ -3020,7 +3013,6 @@
             public static string PRIMARY_DRAWING_REVISION_MARK { get { return "PRIMARY.DRAWING.REVISION.MARK"; } }
             public static string PRIMARY_DRAWING_REVISION_NUMBER_1 { get { return "PRIMARY.DRAWING.REVISION.NUMBER#1"; } }
             public static string PRIMARY_DRAWING_REVISION_APPROVED_BY { get { return "PRIMARY.DRAWING.REVISION.APPROVED_BY"; } }
-
             public static string SECONDARY_1_ACN { get { return "SECONDARY_1.ACN"; } }
             public static string SECONDARY_1_AREA { get { return "SECONDARY_1.AREA"; } }
             public static string SECONDARY_1_AREA_GROSS { get { return "SECONDARY_1.AREA_GROSS"; } }
@@ -3222,7 +3214,6 @@
             public static string SECONDARY_1_VOLUME { get { return "SECONDARY_1.VOLUME"; } }
             public static string SECONDARY_1_VOLUME_GROSS { get { return "SECONDARY_1.VOLUME_GROSS"; } }
             public static string SECONDARY_1_VOLUME_NET { get { return "SECONDARY_1.VOLUME_NET"; } }
-
             public static string SECONDARY_1_ASSEMBLY_AREA { get { return "SECONDARY_1.ASSEMBLY.AREA"; } }
             public static string SECONDARY_1_ASSEMBLY_AREA_PLAN { get { return "SECONDARY_1.ASSEMBLY.AREA_PLAN"; } }
             public static string SECONDARY_1_ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_1.ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
@@ -3294,7 +3285,6 @@
             public static string SECONDARY_1_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_1.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_1_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_1.ASSEMBLY.WEIGHT_NET"; } }
             public static string SECONDARY_1_ASSEMBLY_VOLUME { get { return "SECONDARY_1.ASSEMBLY.VOLUME"; } }
-
             public static string SECONDARY_1_ASSEMBLY_MAINPART_ACN { get { return "SECONDARY_1.ASSEMBLY.MAINPART.ACN"; } }
             public static string SECONDARY_1_ASSEMBLY_MAINPART_AREA { get { return "SECONDARY_1.ASSEMBLY.MAINPART.AREA"; } }
             public static string SECONDARY_1_ASSEMBLY_MAINPART_AREA_GROSS { get { return "SECONDARY_1.ASSEMBLY.MAINPART.AREA_GROSS"; } }
@@ -3480,7 +3470,6 @@
             public static string SECONDARY_1_ASSEMBLY_MAINPART_VOLUME { get { return "SECONDARY_1.ASSEMBLY.MAINPART.VOLUME"; } }
             public static string SECONDARY_1_ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "SECONDARY_1.ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_1_ASSEMBLY_MAINPART_VOLUME_NET { get { return "SECONDARY_1.ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_1_CAST_UNIT_AREA { get { return "SECONDARY_1.CAST_UNIT.AREA"; } }
             public static string SECONDARY_1_CAST_UNIT_AREA_PLAN { get { return "SECONDARY_1.CAST_UNIT.AREA_PLAN"; } }
             public static string SECONDARY_1_CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_1.CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
@@ -3564,7 +3553,6 @@
             public static string SECONDARY_1_CAST_UNIT_WEIGHT_ONLY_CONCRETE_PARTS { get { return "SECONDARY_1.CAST_UNIT.WEIGHT_ONLY_CONCRETE_PARTS"; } }
             public static string SECONDARY_1_CAST_UNIT_VOLUME { get { return "SECONDARY_1.CAST_UNIT.VOLUME"; } }
             public static string SECONDARY_1_CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "SECONDARY_1.CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
             public static string SECONDARY_1_CAST_UNIT_MAINPART_ACN { get { return "SECONDARY_1.CAST_UNIT.MAINPART.ACN"; } }
             public static string SECONDARY_1_CAST_UNIT_MAINPART_AREA { get { return "SECONDARY_1.CAST_UNIT.MAINPART.AREA"; } }
             public static string SECONDARY_1_CAST_UNIT_MAINPART_AREA_GROSS { get { return "SECONDARY_1.CAST_UNIT.MAINPART.AREA_GROSS"; } }
@@ -3750,7 +3738,6 @@
             public static string SECONDARY_1_CAST_UNIT_MAINPART_VOLUME { get { return "SECONDARY_1.CAST_UNIT.MAINPART.VOLUME"; } }
             public static string SECONDARY_1_CAST_UNIT_MAINPART_VOLUME_GROSS { get { return "SECONDARY_1.CAST_UNIT.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_1_CAST_UNIT_MAINPART_VOLUME_NET { get { return "SECONDARY_1.CAST_UNIT.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_1_DRAWING_CONTENTTYPE { get { return "SECONDARY_1.DRAWING.CONTENTTYPE"; } }
             public static string SECONDARY_1_DRAWING_DATE_CREATE { get { return "SECONDARY_1.DRAWING.DATE_CREATE"; } }
             public static string SECONDARY_1_DRAWING_DATE_ISSUE { get { return "SECONDARY_1.DRAWING.DATE_ISSUE"; } }
@@ -3777,7 +3764,6 @@
             public static string SECONDARY_1_DRAWING_TYPE { get { return "SECONDARY_1.DRAWING.TYPE"; } }
             public static string SECONDARY_1_DRAWING_WELD_DEFAULT { get { return "SECONDARY_1.DRAWING.WELD_DEFAULT"; } }
             public static string SECONDARY_1_DRAWING_WIDTH { get { return "SECONDARY_1.DRAWING.WIDTH"; } }
-
             public static string SECONDARY_1_DRAWING_REVISION_CHECKED_BY { get { return "SECONDARY_1.DRAWING.REVISION.CHECKED_BY"; } }
             public static string SECONDARY_1_DRAWING_REVISION_CREATED_BY { get { return "SECONDARY_1.DRAWING.REVISION.CREATED_BY"; } }
             public static string SECONDARY_1_DRAWING_REVISION_DATE_CHECKED { get { return "SECONDARY_1.DRAWING.REVISION.DATE_CHECKED"; } }
@@ -3802,7 +3788,6 @@
             public static string SECONDARY_1_DRAWING_REVISION_MARK { get { return "SECONDARY_1.DRAWING.REVISION.MARK"; } }
             public static string SECONDARY_1_DRAWING_REVISION_NUMBER_1 { get { return "SECONDARY_1.DRAWING.REVISION.NUMBER#1"; } }
             public static string SECONDARY_1_DRAWING_REVISION_APPROVED_BY { get { return "SECONDARY_1.DRAWING.REVISION.APPROVED_BY"; } }
-
             public static string SECONDARY_2_ACN { get { return "SECONDARY_2.ACN"; } }
             public static string SECONDARY_2_AREA { get { return "SECONDARY_2.AREA"; } }
             public static string SECONDARY_2_AREA_GROSS { get { return "SECONDARY_2.AREA_GROSS"; } }
@@ -4004,7 +3989,6 @@
             public static string SECONDARY_2_VOLUME { get { return "SECONDARY_2.VOLUME"; } }
             public static string SECONDARY_2_VOLUME_GROSS { get { return "SECONDARY_2.VOLUME_GROSS"; } }
             public static string SECONDARY_2_VOLUME_NET { get { return "SECONDARY_2.VOLUME_NET"; } }
-
             public static string SECONDARY_2_ASSEMBLY_AREA { get { return "SECONDARY_2.ASSEMBLY.AREA"; } }
             public static string SECONDARY_2_ASSEMBLY_AREA_PLAN { get { return "SECONDARY_2.ASSEMBLY.AREA_PLAN"; } }
             public static string SECONDARY_2_ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_2.ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
@@ -4076,7 +4060,6 @@
             public static string SECONDARY_2_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_2.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_2_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_2.ASSEMBLY.WEIGHT_NET"; } }
             public static string SECONDARY_2_ASSEMBLY_VOLUME { get { return "SECONDARY_2.ASSEMBLY.VOLUME"; } }
-
             public static string SECONDARY_2_ASSEMBLY_MAINPART_ACN { get { return "SECONDARY_2.ASSEMBLY.MAINPART.ACN"; } }
             public static string SECONDARY_2_ASSEMBLY_MAINPART_AREA { get { return "SECONDARY_2.ASSEMBLY.MAINPART.AREA"; } }
             public static string SECONDARY_2_ASSEMBLY_MAINPART_AREA_GROSS { get { return "SECONDARY_2.ASSEMBLY.MAINPART.AREA_GROSS"; } }
@@ -4262,7 +4245,6 @@
             public static string SECONDARY_2_ASSEMBLY_MAINPART_VOLUME { get { return "SECONDARY_2.ASSEMBLY.MAINPART.VOLUME"; } }
             public static string SECONDARY_2_ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "SECONDARY_2.ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_2_ASSEMBLY_MAINPART_VOLUME_NET { get { return "SECONDARY_2.ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_2_CAST_UNIT_AREA { get { return "SECONDARY_2.CAST_UNIT.AREA"; } }
             public static string SECONDARY_2_CAST_UNIT_AREA_PLAN { get { return "SECONDARY_2.CAST_UNIT.AREA_PLAN"; } }
             public static string SECONDARY_2_CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_2.CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
@@ -4346,7 +4328,6 @@
             public static string SECONDARY_2_CAST_UNIT_WEIGHT_NET { get { return "SECONDARY_2.CAST_UNIT.WEIGHT_NET"; } }
             public static string SECONDARY_2_CAST_UNIT_VOLUME { get { return "SECONDARY_2.CAST_UNIT.VOLUME"; } }
             public static string SECONDARY_2_CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "SECONDARY_2.CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
             public static string SECONDARY_2_CAST_UNIT_MAINPART_ACN { get { return "SECONDARY_2.CAST_UNIT.MAINPART.ACN"; } }
             public static string SECONDARY_2_CAST_UNIT_MAINPART_AREA { get { return "SECONDARY_2.CAST_UNIT.MAINPART.AREA"; } }
             public static string SECONDARY_2_CAST_UNIT_MAINPART_AREA_GROSS { get { return "SECONDARY_2.CAST_UNIT.MAINPART.AREA_GROSS"; } }
@@ -4532,7 +4513,6 @@
             public static string SECONDARY_2_CAST_UNIT_MAINPART_VOLUME { get { return "SECONDARY_2.CAST_UNIT.MAINPART.VOLUME"; } }
             public static string SECONDARY_2_CAST_UNIT_MAINPART_VOLUME_GROSS { get { return "SECONDARY_2.CAST_UNIT.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_2_CAST_UNIT_MAINPART_VOLUME_NET { get { return "SECONDARY_2.CAST_UNIT.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_2_DRAWING_CONTENTTYPE { get { return "SECONDARY_2.DRAWING.CONTENTTYPE"; } }
             public static string SECONDARY_2_DRAWING_DATE_CREATE { get { return "SECONDARY_2.DRAWING.DATE_CREATE"; } }
             public static string SECONDARY_2_DRAWING_DATE_ISSUE { get { return "SECONDARY_2.DRAWING.DATE_ISSUE"; } }
@@ -4559,7 +4539,6 @@
             public static string SECONDARY_2_DRAWING_TYPE { get { return "SECONDARY_2.DRAWING.TYPE"; } }
             public static string SECONDARY_2_DRAWING_WELD_DEFAULT { get { return "SECONDARY_2.DRAWING.WELD_DEFAULT"; } }
             public static string SECONDARY_2_DRAWING_WIDTH { get { return "SECONDARY_2.DRAWING.WIDTH"; } }
-
             public static string SECONDARY_2_DRAWING_REVISION_CHECKED_BY { get { return "SECONDARY_2.DRAWING.REVISION.CHECKED_BY"; } }
             public static string SECONDARY_2_DRAWING_REVISION_CREATED_BY { get { return "SECONDARY_2.DRAWING.REVISION.CREATED_BY"; } }
             public static string SECONDARY_2_DRAWING_REVISION_DATE_CHECKED { get { return "SECONDARY_2.DRAWING.REVISION.DATE_CHECKED"; } }
@@ -4584,7 +4563,6 @@
             public static string SECONDARY_2_DRAWING_REVISION_MARK { get { return "SECONDARY_2.DRAWING.REVISION.MARK"; } }
             public static string SECONDARY_2_DRAWING_REVISION_NUMBER_1 { get { return "SECONDARY_2.DRAWING.REVISION.NUMBER#1"; } }
             public static string SECONDARY_2_DRAWING_REVISION_APPROVED_BY { get { return "SECONDARY_2.DRAWING.REVISION.APPROVED_BY"; } }
-
             public static string SECONDARY_3_ACN { get { return "SECONDARY_3.ACN"; } }
             public static string SECONDARY_3_AREA { get { return "SECONDARY_3.AREA"; } }
             public static string SECONDARY_3_AREA_GROSS { get { return "SECONDARY_3.AREA_GROSS"; } }
@@ -4786,7 +4764,6 @@
             public static string SECONDARY_3_VOLUME { get { return "SECONDARY_3.VOLUME"; } }
             public static string SECONDARY_3_VOLUME_GROSS { get { return "SECONDARY_3.VOLUME_GROSS"; } }
             public static string SECONDARY_3_VOLUME_NET { get { return "SECONDARY_3.VOLUME_NET"; } }
-
             public static string SECONDARY_3_ASSEMBLY_AREA { get { return "SECONDARY_3.ASSEMBLY.AREA"; } }
             public static string SECONDARY_3_ASSEMBLY_AREA_PLAN { get { return "SECONDARY_3.ASSEMBLY.AREA_PLAN"; } }
             public static string SECONDARY_3_ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_3.ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
@@ -4858,7 +4835,6 @@
             public static string SECONDARY_3_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_3.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_3_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_3.ASSEMBLY.WEIGHT_NET"; } }
             public static string SECONDARY_3_ASSEMBLY_VOLUME { get { return "SECONDARY_3.ASSEMBLY.VOLUME"; } }
-
             public static string SECONDARY_3_ASSEMBLY_MAINPART_ACN { get { return "SECONDARY_3.ASSEMBLY.MAINPART.ACN"; } }
             public static string SECONDARY_3_ASSEMBLY_MAINPART_AREA { get { return "SECONDARY_3.ASSEMBLY.MAINPART.AREA"; } }
             public static string SECONDARY_3_ASSEMBLY_MAINPART_AREA_GROSS { get { return "SECONDARY_3.ASSEMBLY.MAINPART.AREA_GROSS"; } }
@@ -5044,7 +5020,6 @@
             public static string SECONDARY_3_ASSEMBLY_MAINPART_VOLUME { get { return "SECONDARY_3.ASSEMBLY.MAINPART.VOLUME"; } }
             public static string SECONDARY_3_ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "SECONDARY_3.ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_3_ASSEMBLY_MAINPART_VOLUME_NET { get { return "SECONDARY_3.ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_3_CAST_UNIT_AREA { get { return "SECONDARY_3.CAST_UNIT.AREA"; } }
             public static string SECONDARY_3_CAST_UNIT_AREA_PLAN { get { return "SECONDARY_3.CAST_UNIT.AREA_PLAN"; } }
             public static string SECONDARY_3_CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_3.CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
@@ -5128,7 +5103,6 @@
             public static string SECONDARY_3_CAST_UNIT_WEIGHT_NET { get { return "SECONDARY_3.CAST_UNIT.WEIGHT_NET"; } }
             public static string SECONDARY_3_CAST_UNIT_VOLUME { get { return "SECONDARY_3.CAST_UNIT.VOLUME"; } }
             public static string SECONDARY_3_CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "SECONDARY_3.CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
             public static string SECONDARY_3_CAST_UNIT_MAINPART_ACN { get { return "SECONDARY_3.CAST_UNIT.MAINPART.ACN"; } }
             public static string SECONDARY_3_CAST_UNIT_MAINPART_AREA { get { return "SECONDARY_3.CAST_UNIT.MAINPART.AREA"; } }
             public static string SECONDARY_3_CAST_UNIT_MAINPART_AREA_GROSS { get { return "SECONDARY_3.CAST_UNIT.MAINPART.AREA_GROSS"; } }
@@ -5314,7 +5288,6 @@
             public static string SECONDARY_3_CAST_UNIT_MAINPART_VOLUME { get { return "SECONDARY_3.CAST_UNIT.MAINPART.VOLUME"; } }
             public static string SECONDARY_3_CAST_UNIT_MAINPART_VOLUME_GROSS { get { return "SECONDARY_3.CAST_UNIT.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_3_CAST_UNIT_MAINPART_VOLUME_NET { get { return "SECONDARY_3.CAST_UNIT.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_3_DRAWING_CONTENTTYPE { get { return "SECONDARY_3.DRAWING.CONTENTTYPE"; } }
             public static string SECONDARY_3_DRAWING_DATE_CREATE { get { return "SECONDARY_3.DRAWING.DATE_CREATE"; } }
             public static string SECONDARY_3_DRAWING_DATE_ISSUE { get { return "SECONDARY_3.DRAWING.DATE_ISSUE"; } }
@@ -5341,7 +5314,6 @@
             public static string SECONDARY_3_DRAWING_TYPE { get { return "SECONDARY_3.DRAWING.TYPE"; } }
             public static string SECONDARY_3_DRAWING_WELD_DEFAULT { get { return "SECONDARY_3.DRAWING.WELD_DEFAULT"; } }
             public static string SECONDARY_3_DRAWING_WIDTH { get { return "SECONDARY_3.DRAWING.WIDTH"; } }
-
             public static string SECONDARY_3_DRAWING_REVISION_CHECKED_BY { get { return "SECONDARY_3.DRAWING.REVISION.CHECKED_BY"; } }
             public static string SECONDARY_3_DRAWING_REVISION_CREATED_BY { get { return "SECONDARY_3.DRAWING.REVISION.CREATED_BY"; } }
             public static string SECONDARY_3_DRAWING_REVISION_DATE_CHECKED { get { return "SECONDARY_3.DRAWING.REVISION.DATE_CHECKED"; } }
@@ -5366,7 +5338,6 @@
             public static string SECONDARY_3_DRAWING_REVISION_MARK { get { return "SECONDARY_3.DRAWING.REVISION.MARK"; } }
             public static string SECONDARY_3_DRAWING_REVISION_NUMBER_1 { get { return "SECONDARY_3.DRAWING.REVISION.NUMBER#1"; } }
             public static string SECONDARY_3_DRAWING_REVISION_APPROVED_BY { get { return "SECONDARY_3.DRAWING.REVISION.APPROVED_BY"; } }
-
             public static string SECONDARY_4_ACN { get { return "SECONDARY_4.ACN"; } }
             public static string SECONDARY_4_AREA { get { return "SECONDARY_4.AREA"; } }
             public static string SECONDARY_4_AREA_GROSS { get { return "SECONDARY_4.AREA_GROSS"; } }
@@ -5568,7 +5539,6 @@
             public static string SECONDARY_4_VOLUME { get { return "SECONDARY_4.VOLUME"; } }
             public static string SECONDARY_4_VOLUME_GROSS { get { return "SECONDARY_4.VOLUME_GROSS"; } }
             public static string SECONDARY_4_VOLUME_NET { get { return "SECONDARY_4.VOLUME_NET"; } }
-
             public static string SECONDARY_4_ASSEMBLY_AREA { get { return "SECONDARY_4.ASSEMBLY.AREA"; } }
             public static string SECONDARY_4_ASSEMBLY_AREA_PLAN { get { return "SECONDARY_4.ASSEMBLY.AREA_PLAN"; } }
             public static string SECONDARY_4_ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_4.ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
@@ -5640,7 +5610,6 @@
             public static string SECONDARY_4_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_4.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_4_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_4.ASSEMBLY.WEIGHT_NET"; } }
             public static string SECONDARY_4_ASSEMBLY_VOLUME { get { return "SECONDARY_4.ASSEMBLY.VOLUME"; } }
-
             public static string SECONDARY_4_ASSEMBLY_MAINPART_ACN { get { return "SECONDARY_4.ASSEMBLY.MAINPART.ACN"; } }
             public static string SECONDARY_4_ASSEMBLY_MAINPART_AREA { get { return "SECONDARY_4.ASSEMBLY.MAINPART.AREA"; } }
             public static string SECONDARY_4_ASSEMBLY_MAINPART_AREA_GROSS { get { return "SECONDARY_4.ASSEMBLY.MAINPART.AREA_GROSS"; } }
@@ -5826,7 +5795,6 @@
             public static string SECONDARY_4_ASSEMBLY_MAINPART_VOLUME { get { return "SECONDARY_4.ASSEMBLY.MAINPART.VOLUME"; } }
             public static string SECONDARY_4_ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "SECONDARY_4.ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_4_ASSEMBLY_MAINPART_VOLUME_NET { get { return "SECONDARY_4.ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_4_CAST_UNIT_AREA { get { return "SECONDARY_4.CAST_UNIT.AREA"; } }
             public static string SECONDARY_4_CAST_UNIT_AREA_PLAN { get { return "SECONDARY_4.CAST_UNIT.AREA_PLAN"; } }
             public static string SECONDARY_4_CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_4.CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
@@ -5910,7 +5878,6 @@
             public static string SECONDARY_4_CAST_UNIT_WEIGHT_NET { get { return "SECONDARY_4.CAST_UNIT.WEIGHT_NET"; } }
             public static string SECONDARY_4_CAST_UNIT_VOLUME { get { return "SECONDARY_4.CAST_UNIT.VOLUME"; } }
             public static string SECONDARY_4_CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "SECONDARY_4.CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
             public static string SECONDARY_4_CAST_UNIT_MAINPART_ACN { get { return "SECONDARY_4.CAST_UNIT.MAINPART.ACN"; } }
             public static string SECONDARY_4_CAST_UNIT_MAINPART_AREA { get { return "SECONDARY_4.CAST_UNIT.MAINPART.AREA"; } }
             public static string SECONDARY_4_CAST_UNIT_MAINPART_AREA_GROSS { get { return "SECONDARY_4.CAST_UNIT.MAINPART.AREA_GROSS"; } }
@@ -6096,7 +6063,6 @@
             public static string SECONDARY_4_CAST_UNIT_MAINPART_VOLUME { get { return "SECONDARY_4.CAST_UNIT.MAINPART.VOLUME"; } }
             public static string SECONDARY_4_CAST_UNIT_MAINPART_VOLUME_GROSS { get { return "SECONDARY_4.CAST_UNIT.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_4_CAST_UNIT_MAINPART_VOLUME_NET { get { return "SECONDARY_4.CAST_UNIT.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_4_DRAWING_CONTENTTYPE { get { return "SECONDARY_4.DRAWING.CONTENTTYPE"; } }
             public static string SECONDARY_4_DRAWING_DATE_CREATE { get { return "SECONDARY_4.DRAWING.DATE_CREATE"; } }
             public static string SECONDARY_4_DRAWING_DATE_ISSUE { get { return "SECONDARY_4.DRAWING.DATE_ISSUE"; } }
@@ -6123,7 +6089,6 @@
             public static string SECONDARY_4_DRAWING_TYPE { get { return "SECONDARY_4.DRAWING.TYPE"; } }
             public static string SECONDARY_4_DRAWING_WELD_DEFAULT { get { return "SECONDARY_4.DRAWING.WELD_DEFAULT"; } }
             public static string SECONDARY_4_DRAWING_WIDTH { get { return "SECONDARY_4.DRAWING.WIDTH"; } }
-
             public static string SECONDARY_4_DRAWING_REVISION_CHECKED_BY { get { return "SECONDARY_4.DRAWING.REVISION.CHECKED_BY"; } }
             public static string SECONDARY_4_DRAWING_REVISION_CREATED_BY { get { return "SECONDARY_4.DRAWING.REVISION.CREATED_BY"; } }
             public static string SECONDARY_4_DRAWING_REVISION_DATE_CHECKED { get { return "SECONDARY_4.DRAWING.REVISION.DATE_CHECKED"; } }
@@ -6148,7 +6113,6 @@
             public static string SECONDARY_4_DRAWING_REVISION_MARK { get { return "SECONDARY_4.DRAWING.REVISION.MARK"; } }
             public static string SECONDARY_4_DRAWING_REVISION_NUMBER_1 { get { return "SECONDARY_4.DRAWING.REVISION.NUMBER#1"; } }
             public static string SECONDARY_4_DRAWING_REVISION_APPROVED_BY { get { return "SECONDARY_4.DRAWING.REVISION.APPROVED_BY"; } }
-
             public static string SECONDARY_5_ACN { get { return "SECONDARY_5.ACN"; } }
             public static string SECONDARY_5_AREA { get { return "SECONDARY_5.AREA"; } }
             public static string SECONDARY_5_AREA_GROSS { get { return "SECONDARY_5.AREA_GROSS"; } }
@@ -6350,7 +6314,6 @@
             public static string SECONDARY_5_VOLUME { get { return "SECONDARY_5.VOLUME"; } }
             public static string SECONDARY_5_VOLUME_GROSS { get { return "SECONDARY_5.VOLUME_GROSS"; } }
             public static string SECONDARY_5_VOLUME_NET { get { return "SECONDARY_5.VOLUME_NET"; } }
-
             public static string SECONDARY_5_ASSEMBLY_AREA { get { return "SECONDARY_5.ASSEMBLY.AREA"; } }
             public static string SECONDARY_5_ASSEMBLY_AREA_PLAN { get { return "SECONDARY_5.ASSEMBLY.AREA_PLAN"; } }
             public static string SECONDARY_5_ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_5.ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
@@ -6422,7 +6385,6 @@
             public static string SECONDARY_5_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_5.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_5_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_5.ASSEMBLY.WEIGHT_NET"; } }
             public static string SECONDARY_5_ASSEMBLY_VOLUME { get { return "SECONDARY_5.ASSEMBLY.VOLUME"; } }
-
             public static string SECONDARY_5_ASSEMBLY_MAINPART_ACN { get { return "SECONDARY_5.ASSEMBLY.MAINPART.ACN"; } }
             public static string SECONDARY_5_ASSEMBLY_MAINPART_AREA { get { return "SECONDARY_5.ASSEMBLY.MAINPART.AREA"; } }
             public static string SECONDARY_5_ASSEMBLY_MAINPART_AREA_GROSS { get { return "SECONDARY_5.ASSEMBLY.MAINPART.AREA_GROSS"; } }
@@ -6608,7 +6570,6 @@
             public static string SECONDARY_5_ASSEMBLY_MAINPART_VOLUME { get { return "SECONDARY_5.ASSEMBLY.MAINPART.VOLUME"; } }
             public static string SECONDARY_5_ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "SECONDARY_5.ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_5_ASSEMBLY_MAINPART_VOLUME_NET { get { return "SECONDARY_5.ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_5_CAST_UNIT_AREA { get { return "SECONDARY_5.CAST_UNIT.AREA"; } }
             public static string SECONDARY_5_CAST_UNIT_AREA_PLAN { get { return "SECONDARY_5.CAST_UNIT.AREA_PLAN"; } }
             public static string SECONDARY_5_CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_5.CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
@@ -6692,7 +6653,6 @@
             public static string SECONDARY_5_CAST_UNIT_WEIGHT_NET { get { return "SECONDARY_5.CAST_UNIT.WEIGHT_NET"; } }
             public static string SECONDARY_5_CAST_UNIT_VOLUME { get { return "SECONDARY_5.CAST_UNIT.VOLUME"; } }
             public static string SECONDARY_5_CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "SECONDARY_5.CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
             public static string SECONDARY_5_CAST_UNIT_MAINPART_ACN { get { return "SECONDARY_5.CAST_UNIT.MAINPART.ACN"; } }
             public static string SECONDARY_5_CAST_UNIT_MAINPART_AREA { get { return "SECONDARY_5.CAST_UNIT.MAINPART.AREA"; } }
             public static string SECONDARY_5_CAST_UNIT_MAINPART_AREA_GROSS { get { return "SECONDARY_5.CAST_UNIT.MAINPART.AREA_GROSS"; } }
@@ -6878,7 +6838,6 @@
             public static string SECONDARY_5_CAST_UNIT_MAINPART_VOLUME { get { return "SECONDARY_5.CAST_UNIT.MAINPART.VOLUME"; } }
             public static string SECONDARY_5_CAST_UNIT_MAINPART_VOLUME_GROSS { get { return "SECONDARY_5.CAST_UNIT.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_5_CAST_UNIT_MAINPART_VOLUME_NET { get { return "SECONDARY_5.CAST_UNIT.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_5_DRAWING_CONTENTTYPE { get { return "SECONDARY_5.DRAWING.CONTENTTYPE"; } }
             public static string SECONDARY_5_DRAWING_DATE_CREATE { get { return "SECONDARY_5.DRAWING.DATE_CREATE"; } }
             public static string SECONDARY_5_DRAWING_DATE_ISSUE { get { return "SECONDARY_5.DRAWING.DATE_ISSUE"; } }
@@ -6905,7 +6864,6 @@
             public static string SECONDARY_5_DRAWING_TYPE { get { return "SECONDARY_5.DRAWING.TYPE"; } }
             public static string SECONDARY_5_DRAWING_WELD_DEFAULT { get { return "SECONDARY_5.DRAWING.WELD_DEFAULT"; } }
             public static string SECONDARY_5_DRAWING_WIDTH { get { return "SECONDARY_5.DRAWING.WIDTH"; } }
-
             public static string SECONDARY_5_DRAWING_REVISION_CHECKED_BY { get { return "SECONDARY_5.DRAWING.REVISION.CHECKED_BY"; } }
             public static string SECONDARY_5_DRAWING_REVISION_CREATED_BY { get { return "SECONDARY_5.DRAWING.REVISION.CREATED_BY"; } }
             public static string SECONDARY_5_DRAWING_REVISION_DATE_CHECKED { get { return "SECONDARY_5.DRAWING.REVISION.DATE_CHECKED"; } }
@@ -6930,7 +6888,6 @@
             public static string SECONDARY_5_DRAWING_REVISION_MARK { get { return "SECONDARY_5.DRAWING.REVISION.MARK"; } }
             public static string SECONDARY_5_DRAWING_REVISION_NUMBER_1 { get { return "SECONDARY_5.DRAWING.REVISION.NUMBER#1"; } }
             public static string SECONDARY_5_DRAWING_REVISION_APPROVED_BY { get { return "SECONDARY_5.DRAWING.REVISION.APPROVED_BY"; } }
-
             public static string SECONDARY_6_ACN { get { return "SECONDARY_6.ACN"; } }
             public static string SECONDARY_6_AREA { get { return "SECONDARY_6.AREA"; } }
             public static string SECONDARY_6_AREA_GROSS { get { return "SECONDARY_6.AREA_GROSS"; } }
@@ -7132,7 +7089,6 @@
             public static string SECONDARY_6_VOLUME { get { return "SECONDARY_6.VOLUME"; } }
             public static string SECONDARY_6_VOLUME_GROSS { get { return "SECONDARY_6.VOLUME_GROSS"; } }
             public static string SECONDARY_6_VOLUME_NET { get { return "SECONDARY_6.VOLUME_NET"; } }
-
             public static string SECONDARY_6_ASSEMBLY_AREA { get { return "SECONDARY_6.ASSEMBLY.AREA"; } }
             public static string SECONDARY_6_ASSEMBLY_AREA_PLAN { get { return "SECONDARY_6.ASSEMBLY.AREA_PLAN"; } }
             public static string SECONDARY_6_ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_6.ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
@@ -7204,7 +7160,6 @@
             public static string SECONDARY_6_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_6.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_6_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_6.ASSEMBLY.WEIGHT_NET"; } }
             public static string SECONDARY_6_ASSEMBLY_VOLUME { get { return "SECONDARY_6.ASSEMBLY.VOLUME"; } }
-
             public static string SECONDARY_6_ASSEMBLY_MAINPART_ACN { get { return "SECONDARY_6.ASSEMBLY.MAINPART.ACN"; } }
             public static string SECONDARY_6_ASSEMBLY_MAINPART_AREA { get { return "SECONDARY_6.ASSEMBLY.MAINPART.AREA"; } }
             public static string SECONDARY_6_ASSEMBLY_MAINPART_AREA_GROSS { get { return "SECONDARY_6.ASSEMBLY.MAINPART.AREA_GROSS"; } }
@@ -7390,7 +7345,6 @@
             public static string SECONDARY_6_ASSEMBLY_MAINPART_VOLUME { get { return "SECONDARY_6.ASSEMBLY.MAINPART.VOLUME"; } }
             public static string SECONDARY_6_ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "SECONDARY_6.ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_6_ASSEMBLY_MAINPART_VOLUME_NET { get { return "SECONDARY_6.ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_6_CAST_UNIT_AREA { get { return "SECONDARY_6.CAST_UNIT.AREA"; } }
             public static string SECONDARY_6_CAST_UNIT_AREA_PLAN { get { return "SECONDARY_6.CAST_UNIT.AREA_PLAN"; } }
             public static string SECONDARY_6_CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_6.CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
@@ -7474,7 +7428,6 @@
             public static string SECONDARY_6_CAST_UNIT_WEIGHT_NET { get { return "SECONDARY_6.CAST_UNIT.WEIGHT_NET"; } }
             public static string SECONDARY_6_CAST_UNIT_VOLUME { get { return "SECONDARY_6.CAST_UNIT.VOLUME"; } }
             public static string SECONDARY_6_CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "SECONDARY_6.CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
             public static string SECONDARY_6_CAST_UNIT_MAINPART_ACN { get { return "SECONDARY_6.CAST_UNIT.MAINPART.ACN"; } }
             public static string SECONDARY_6_CAST_UNIT_MAINPART_AREA { get { return "SECONDARY_6.CAST_UNIT.MAINPART.AREA"; } }
             public static string SECONDARY_6_CAST_UNIT_MAINPART_AREA_GROSS { get { return "SECONDARY_6.CAST_UNIT.MAINPART.AREA_GROSS"; } }
@@ -7660,7 +7613,6 @@
             public static string SECONDARY_6_CAST_UNIT_MAINPART_VOLUME { get { return "SECONDARY_6.CAST_UNIT.MAINPART.VOLUME"; } }
             public static string SECONDARY_6_CAST_UNIT_MAINPART_VOLUME_GROSS { get { return "SECONDARY_6.CAST_UNIT.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_6_CAST_UNIT_MAINPART_VOLUME_NET { get { return "SECONDARY_6.CAST_UNIT.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_6_DRAWING_CONTENTTYPE { get { return "SECONDARY_6.DRAWING.CONTENTTYPE"; } }
             public static string SECONDARY_6_DRAWING_DATE_CREATE { get { return "SECONDARY_6.DRAWING.DATE_CREATE"; } }
             public static string SECONDARY_6_DRAWING_DATE_ISSUE { get { return "SECONDARY_6.DRAWING.DATE_ISSUE"; } }
@@ -7687,7 +7639,6 @@
             public static string SECONDARY_6_DRAWING_TYPE { get { return "SECONDARY_6.DRAWING.TYPE"; } }
             public static string SECONDARY_6_DRAWING_WELD_DEFAULT { get { return "SECONDARY_6.DRAWING.WELD_DEFAULT"; } }
             public static string SECONDARY_6_DRAWING_WIDTH { get { return "SECONDARY_6.DRAWING.WIDTH"; } }
-
             public static string SECONDARY_6_DRAWING_REVISION_CHECKED_BY { get { return "SECONDARY_6.DRAWING.REVISION.CHECKED_BY"; } }
             public static string SECONDARY_6_DRAWING_REVISION_CREATED_BY { get { return "SECONDARY_6.DRAWING.REVISION.CREATED_BY"; } }
             public static string SECONDARY_6_DRAWING_REVISION_DATE_CHECKED { get { return "SECONDARY_6.DRAWING.REVISION.DATE_CHECKED"; } }
@@ -7712,7 +7663,6 @@
             public static string SECONDARY_6_DRAWING_REVISION_MARK { get { return "SECONDARY_6.DRAWING.REVISION.MARK"; } }
             public static string SECONDARY_6_DRAWING_REVISION_NUMBER_1 { get { return "SECONDARY_6.DRAWING.REVISION.NUMBER#1"; } }
             public static string SECONDARY_6_DRAWING_REVISION_APPROVED_BY { get { return "SECONDARY_6.DRAWING.REVISION.APPROVED_BY"; } }
-
             public static string SECONDARY_7_ACN { get { return "SECONDARY_7.ACN"; } }
             public static string SECONDARY_7_AREA { get { return "SECONDARY_7.AREA"; } }
             public static string SECONDARY_7_AREA_GROSS { get { return "SECONDARY_7.AREA_GROSS"; } }
@@ -7914,7 +7864,6 @@
             public static string SECONDARY_7_VOLUME { get { return "SECONDARY_7.VOLUME"; } }
             public static string SECONDARY_7_VOLUME_GROSS { get { return "SECONDARY_7.VOLUME_GROSS"; } }
             public static string SECONDARY_7_VOLUME_NET { get { return "SECONDARY_7.VOLUME_NET"; } }
-
             public static string SECONDARY_7_ASSEMBLY_AREA { get { return "SECONDARY_7.ASSEMBLY.AREA"; } }
             public static string SECONDARY_7_ASSEMBLY_AREA_PLAN { get { return "SECONDARY_7.ASSEMBLY.AREA_PLAN"; } }
             public static string SECONDARY_7_ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_7.ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
@@ -7986,7 +7935,6 @@
             public static string SECONDARY_7_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_7.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_7_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_7.ASSEMBLY.WEIGHT_NET"; } }
             public static string SECONDARY_7_ASSEMBLY_VOLUME { get { return "SECONDARY_7.ASSEMBLY.VOLUME"; } }
-
             public static string SECONDARY_7_ASSEMBLY_MAINPART_ACN { get { return "SECONDARY_7.ASSEMBLY.MAINPART.ACN"; } }
             public static string SECONDARY_7_ASSEMBLY_MAINPART_AREA { get { return "SECONDARY_7.ASSEMBLY.MAINPART.AREA"; } }
             public static string SECONDARY_7_ASSEMBLY_MAINPART_AREA_GROSS { get { return "SECONDARY_7.ASSEMBLY.MAINPART.AREA_GROSS"; } }
@@ -8172,7 +8120,6 @@
             public static string SECONDARY_7_ASSEMBLY_MAINPART_VOLUME { get { return "SECONDARY_7.ASSEMBLY.MAINPART.VOLUME"; } }
             public static string SECONDARY_7_ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "SECONDARY_7.ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_7_ASSEMBLY_MAINPART_VOLUME_NET { get { return "SECONDARY_7.ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_7_CAST_UNIT_AREA { get { return "SECONDARY_7.CAST_UNIT.AREA"; } }
             public static string SECONDARY_7_CAST_UNIT_AREA_PLAN { get { return "SECONDARY_7.CAST_UNIT.AREA_PLAN"; } }
             public static string SECONDARY_7_CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_7.CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
@@ -8256,7 +8203,6 @@
             public static string SECONDARY_7_CAST_UNIT_WEIGHT_NET { get { return "SECONDARY_7.CAST_UNIT.WEIGHT_NET"; } }
             public static string SECONDARY_7_CAST_UNIT_VOLUME { get { return "SECONDARY_7.CAST_UNIT.VOLUME"; } }
             public static string SECONDARY_7_CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "SECONDARY_7.CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
             public static string SECONDARY_7_CAST_UNIT_MAINPART_ACN { get { return "SECONDARY_7.CAST_UNIT.MAINPART.ACN"; } }
             public static string SECONDARY_7_CAST_UNIT_MAINPART_AREA { get { return "SECONDARY_7.CAST_UNIT.MAINPART.AREA"; } }
             public static string SECONDARY_7_CAST_UNIT_MAINPART_AREA_GROSS { get { return "SECONDARY_7.CAST_UNIT.MAINPART.AREA_GROSS"; } }
@@ -8442,7 +8388,6 @@
             public static string SECONDARY_7_CAST_UNIT_MAINPART_VOLUME { get { return "SECONDARY_7.CAST_UNIT.MAINPART.VOLUME"; } }
             public static string SECONDARY_7_CAST_UNIT_MAINPART_VOLUME_GROSS { get { return "SECONDARY_7.CAST_UNIT.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_7_CAST_UNIT_MAINPART_VOLUME_NET { get { return "SECONDARY_7.CAST_UNIT.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_7_DRAWING_CONTENTTYPE { get { return "SECONDARY_7.DRAWING.CONTENTTYPE"; } }
             public static string SECONDARY_7_DRAWING_DATE_CREATE { get { return "SECONDARY_7.DRAWING.DATE_CREATE"; } }
             public static string SECONDARY_7_DRAWING_DATE_ISSUE { get { return "SECONDARY_7.DRAWING.DATE_ISSUE"; } }
@@ -8469,7 +8414,6 @@
             public static string SECONDARY_7_DRAWING_TYPE { get { return "SECONDARY_7.DRAWING.TYPE"; } }
             public static string SECONDARY_7_DRAWING_WELD_DEFAULT { get { return "SECONDARY_7.DRAWING.WELD_DEFAULT"; } }
             public static string SECONDARY_7_DRAWING_WIDTH { get { return "SECONDARY_7.DRAWING.WIDTH"; } }
-
             public static string SECONDARY_7_DRAWING_REVISION_CHECKED_BY { get { return "SECONDARY_7.DRAWING.REVISION.CHECKED_BY"; } }
             public static string SECONDARY_7_DRAWING_REVISION_CREATED_BY { get { return "SECONDARY_7.DRAWING.REVISION.CREATED_BY"; } }
             public static string SECONDARY_7_DRAWING_REVISION_DATE_CHECKED { get { return "SECONDARY_7.DRAWING.REVISION.DATE_CHECKED"; } }
@@ -8494,7 +8438,6 @@
             public static string SECONDARY_7_DRAWING_REVISION_MARK { get { return "SECONDARY_7.DRAWING.REVISION.MARK"; } }
             public static string SECONDARY_7_DRAWING_REVISION_NUMBER_1 { get { return "SECONDARY_7.DRAWING.REVISION.NUMBER#1"; } }
             public static string SECONDARY_7_DRAWING_REVISION_APPROVED_BY { get { return "SECONDARY_7.DRAWING.REVISION.APPROVED_BY"; } }
-
             public static string SECONDARY_8_ACN { get { return "SECONDARY_8.ACN"; } }
             public static string SECONDARY_8_AREA { get { return "SECONDARY_8.AREA"; } }
             public static string SECONDARY_8_AREA_GROSS { get { return "SECONDARY_8.AREA_GROSS"; } }
@@ -8696,7 +8639,6 @@
             public static string SECONDARY_8_VOLUME { get { return "SECONDARY_8.VOLUME"; } }
             public static string SECONDARY_8_VOLUME_GROSS { get { return "SECONDARY_8.VOLUME_GROSS"; } }
             public static string SECONDARY_8_VOLUME_NET { get { return "SECONDARY_8.VOLUME_NET"; } }
-
             public static string SECONDARY_8_ASSEMBLY_AREA { get { return "SECONDARY_8.ASSEMBLY.AREA"; } }
             public static string SECONDARY_8_ASSEMBLY_AREA_PLAN { get { return "SECONDARY_8.ASSEMBLY.AREA_PLAN"; } }
             public static string SECONDARY_8_ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_8.ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
@@ -8760,7 +8702,6 @@
             public static string SECONDARY_8_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_8.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_8_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_8.ASSEMBLY.WEIGHT_NET"; } }
             public static string SECONDARY_8_ASSEMBLY_VOLUME { get { return "SECONDARY_8.ASSEMBLY.VOLUME"; } }
-
             public static string SECONDARY_8_ASSEMBLY_MAINPART_ACN { get { return "SECONDARY_8.ASSEMBLY.MAINPART.ACN"; } }
             public static string SECONDARY_8_ASSEMBLY_MAINPART_AREA { get { return "SECONDARY_8.ASSEMBLY.MAINPART.AREA"; } }
             public static string SECONDARY_8_ASSEMBLY_MAINPART_AREA_GROSS { get { return "SECONDARY_8.ASSEMBLY.MAINPART.AREA_GROSS"; } }
@@ -8946,7 +8887,6 @@
             public static string SECONDARY_8_ASSEMBLY_MAINPART_VOLUME { get { return "SECONDARY_8.ASSEMBLY.MAINPART.VOLUME"; } }
             public static string SECONDARY_8_ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "SECONDARY_8.ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_8_ASSEMBLY_MAINPART_VOLUME_NET { get { return "SECONDARY_8.ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_8_CAST_UNIT_AREA { get { return "SECONDARY_8.CAST_UNIT.AREA"; } }
             public static string SECONDARY_8_CAST_UNIT_AREA_PLAN { get { return "SECONDARY_8.CAST_UNIT.AREA_PLAN"; } }
             public static string SECONDARY_8_CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_8.CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
@@ -9030,7 +8970,6 @@
             public static string SECONDARY_8_CAST_UNIT_WEIGHT_NET { get { return "SECONDARY_8.CAST_UNIT.WEIGHT_NET"; } }
             public static string SECONDARY_8_CAST_UNIT_VOLUME { get { return "SECONDARY_8.CAST_UNIT.VOLUME"; } }
             public static string SECONDARY_8_CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "SECONDARY_8.CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
             public static string SECONDARY_8_CAST_UNIT_MAINPART_ACN { get { return "SECONDARY_8.CAST_UNIT.MAINPART.ACN"; } }
             public static string SECONDARY_8_CAST_UNIT_MAINPART_AREA { get { return "SECONDARY_8.CAST_UNIT.MAINPART.AREA"; } }
             public static string SECONDARY_8_CAST_UNIT_MAINPART_AREA_GROSS { get { return "SECONDARY_8.CAST_UNIT.MAINPART.AREA_GROSS"; } }
@@ -9216,7 +9155,6 @@
             public static string SECONDARY_8_CAST_UNIT_MAINPART_VOLUME { get { return "SECONDARY_8.CAST_UNIT.MAINPART.VOLUME"; } }
             public static string SECONDARY_8_CAST_UNIT_MAINPART_VOLUME_GROSS { get { return "SECONDARY_8.CAST_UNIT.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_8_CAST_UNIT_MAINPART_VOLUME_NET { get { return "SECONDARY_8.CAST_UNIT.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_8_DRAWING_CONTENTTYPE { get { return "SECONDARY_8.DRAWING.CONTENTTYPE"; } }
             public static string SECONDARY_8_DRAWING_DATE_CREATE { get { return "SECONDARY_8.DRAWING.DATE_CREATE"; } }
             public static string SECONDARY_8_DRAWING_DATE_ISSUE { get { return "SECONDARY_8.DRAWING.DATE_ISSUE"; } }
@@ -9243,7 +9181,6 @@
             public static string SECONDARY_8_DRAWING_TYPE { get { return "SECONDARY_8.DRAWING.TYPE"; } }
             public static string SECONDARY_8_DRAWING_WELD_DEFAULT { get { return "SECONDARY_8.DRAWING.WELD_DEFAULT"; } }
             public static string SECONDARY_8_DRAWING_WIDTH { get { return "SECONDARY_8.DRAWING.WIDTH"; } }
-
             public static string SECONDARY_8_DRAWING_REVISION_CHECKED_BY { get { return "SECONDARY_8.DRAWING.REVISION.CHECKED_BY"; } }
             public static string SECONDARY_8_DRAWING_REVISION_CREATED_BY { get { return "SECONDARY_8.DRAWING.REVISION.CREATED_BY"; } }
             public static string SECONDARY_8_DRAWING_REVISION_DATE_CHECKED { get { return "SECONDARY_8.DRAWING.REVISION.DATE_CHECKED"; } }
@@ -9268,7 +9205,6 @@
             public static string SECONDARY_8_DRAWING_REVISION_MARK { get { return "SECONDARY_8.DRAWING.REVISION.MARK"; } }
             public static string SECONDARY_8_DRAWING_REVISION_NUMBER_1 { get { return "SECONDARY_8.DRAWING.REVISION.NUMBER#1"; } }
             public static string SECONDARY_8_DRAWING_REVISION_APPROVED_BY { get { return "SECONDARY_8.DRAWING.REVISION.APPROVED_BY"; } }
-
             public static string SECONDARY_9_ACN { get { return "SECONDARY_9.ACN"; } }
             public static string SECONDARY_9_AREA { get { return "SECONDARY_9.AREA"; } }
             public static string SECONDARY_9_AREA_GROSS { get { return "SECONDARY_9.AREA_GROSS"; } }
@@ -9470,7 +9406,6 @@
             public static string SECONDARY_9_VOLUME { get { return "SECONDARY_9.VOLUME"; } }
             public static string SECONDARY_9_VOLUME_GROSS { get { return "SECONDARY_9.VOLUME_GROSS"; } }
             public static string SECONDARY_9_VOLUME_NET { get { return "SECONDARY_9.VOLUME_NET"; } }
-
             public static string SECONDARY_9_ASSEMBLY_AREA { get { return "SECONDARY_9.ASSEMBLY.AREA"; } }
             public static string SECONDARY_9_ASSEMBLY_AREA_PLAN { get { return "SECONDARY_9.ASSEMBLY.AREA_PLAN"; } }
             public static string SECONDARY_9_ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_9.ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
@@ -9534,7 +9469,6 @@
             public static string SECONDARY_9_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_9.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_9_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_9.ASSEMBLY.WEIGHT_NET"; } }
             public static string SECONDARY_9_ASSEMBLY_VOLUME { get { return "SECONDARY_9.ASSEMBLY.VOLUME"; } }
-
             public static string SECONDARY_9_ASSEMBLY_MAINPART_ACN { get { return "SECONDARY_9.ASSEMBLY.MAINPART.ACN"; } }
             public static string SECONDARY_9_ASSEMBLY_MAINPART_AREA { get { return "SECONDARY_9.ASSEMBLY.MAINPART.AREA"; } }
             public static string SECONDARY_9_ASSEMBLY_MAINPART_AREA_GROSS { get { return "SECONDARY_9.ASSEMBLY.MAINPART.AREA_GROSS"; } }
@@ -9720,7 +9654,6 @@
             public static string SECONDARY_9_ASSEMBLY_MAINPART_VOLUME { get { return "SECONDARY_9.ASSEMBLY.MAINPART.VOLUME"; } }
             public static string SECONDARY_9_ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "SECONDARY_9.ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_9_ASSEMBLY_MAINPART_VOLUME_NET { get { return "SECONDARY_9.ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_9_CAST_UNIT_AREA { get { return "SECONDARY_9.CAST_UNIT.AREA"; } }
             public static string SECONDARY_9_CAST_UNIT_AREA_PLAN { get { return "SECONDARY_9.CAST_UNIT.AREA_PLAN"; } }
             public static string SECONDARY_9_CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_9.CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
@@ -9804,7 +9737,6 @@
             public static string SECONDARY_9_CAST_UNIT_WEIGHT_NET { get { return "SECONDARY_9.CAST_UNIT.WEIGHT_NET"; } }
             public static string SECONDARY_9_CAST_UNIT_VOLUME { get { return "SECONDARY_9.CAST_UNIT.VOLUME"; } }
             public static string SECONDARY_9_CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "SECONDARY_9.CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
             public static string SECONDARY_9_CAST_UNIT_MAINPART_ACN { get { return "SECONDARY_9.CAST_UNIT.MAINPART.ACN"; } }
             public static string SECONDARY_9_CAST_UNIT_MAINPART_AREA { get { return "SECONDARY_9.CAST_UNIT.MAINPART.AREA"; } }
             public static string SECONDARY_9_CAST_UNIT_MAINPART_AREA_GROSS { get { return "SECONDARY_9.CAST_UNIT.MAINPART.AREA_GROSS"; } }
@@ -9990,7 +9922,6 @@
             public static string SECONDARY_9_CAST_UNIT_MAINPART_VOLUME { get { return "SECONDARY_9.CAST_UNIT.MAINPART.VOLUME"; } }
             public static string SECONDARY_9_CAST_UNIT_MAINPART_VOLUME_GROSS { get { return "SECONDARY_9.CAST_UNIT.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_9_CAST_UNIT_MAINPART_VOLUME_NET { get { return "SECONDARY_9.CAST_UNIT.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_9_DRAWING_CONTENTTYPE { get { return "SECONDARY_9.DRAWING.CONTENTTYPE"; } }
             public static string SECONDARY_9_DRAWING_DATE_CREATE { get { return "SECONDARY_9.DRAWING.DATE_CREATE"; } }
             public static string SECONDARY_9_DRAWING_DATE_ISSUE { get { return "SECONDARY_9.DRAWING.DATE_ISSUE"; } }
@@ -10017,7 +9948,6 @@
             public static string SECONDARY_9_DRAWING_TYPE { get { return "SECONDARY_9.DRAWING.TYPE"; } }
             public static string SECONDARY_9_DRAWING_WELD_DEFAULT { get { return "SECONDARY_9.DRAWING.WELD_DEFAULT"; } }
             public static string SECONDARY_9_DRAWING_WIDTH { get { return "SECONDARY_9.DRAWING.WIDTH"; } }
-
             public static string SECONDARY_9_DRAWING_REVISION_CHECKED_BY { get { return "SECONDARY_9.DRAWING.REVISION.CHECKED_BY"; } }
             public static string SECONDARY_9_DRAWING_REVISION_CREATED_BY { get { return "SECONDARY_9.DRAWING.REVISION.CREATED_BY"; } }
             public static string SECONDARY_9_DRAWING_REVISION_DATE_CHECKED { get { return "SECONDARY_9.DRAWING.REVISION.DATE_CHECKED"; } }
@@ -10042,7 +9972,6 @@
             public static string SECONDARY_9_DRAWING_REVISION_MARK { get { return "SECONDARY_9.DRAWING.REVISION.MARK"; } }
             public static string SECONDARY_9_DRAWING_REVISION_NUMBER_1 { get { return "SECONDARY_9.DRAWING.REVISION.NUMBER#1"; } }
             public static string SECONDARY_9_DRAWING_REVISION_APPROVED_BY { get { return "SECONDARY_9.DRAWING.REVISION.APPROVED_BY"; } }
-
             public static string SECONDARY_10_ACN { get { return "SECONDARY_10.ACN"; } }
             public static string SECONDARY_10_AREA { get { return "SECONDARY_10.AREA"; } }
             public static string SECONDARY_10_AREA_GROSS { get { return "SECONDARY_10.AREA_GROSS"; } }
@@ -10244,7 +10173,6 @@
             public static string SECONDARY_10_VOLUME { get { return "SECONDARY_10.VOLUME"; } }
             public static string SECONDARY_10_VOLUME_GROSS { get { return "SECONDARY_10.VOLUME_GROSS"; } }
             public static string SECONDARY_10_VOLUME_NET { get { return "SECONDARY_10.VOLUME_NET"; } }
-
             public static string SECONDARY_10_ASSEMBLY_AREA { get { return "SECONDARY_10.ASSEMBLY.AREA"; } }
             public static string SECONDARY_10_ASSEMBLY_AREA_PLAN { get { return "SECONDARY_10.ASSEMBLY.AREA_PLAN"; } }
             public static string SECONDARY_10_ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_10.ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
@@ -10308,7 +10236,6 @@
             public static string SECONDARY_10_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_10.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_10_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_10.ASSEMBLY.WEIGHT_NET"; } }
             public static string SECONDARY_10_ASSEMBLY_VOLUME { get { return "SECONDARY_10.ASSEMBLY.VOLUME"; } }
-
             public static string SECONDARY_10_ASSEMBLY_MAINPART_ACN { get { return "SECONDARY_10.ASSEMBLY.MAINPART.ACN"; } }
             public static string SECONDARY_10_ASSEMBLY_MAINPART_AREA { get { return "SECONDARY_10.ASSEMBLY.MAINPART.AREA"; } }
             public static string SECONDARY_10_ASSEMBLY_MAINPART_AREA_GROSS { get { return "SECONDARY_10.ASSEMBLY.MAINPART.AREA_GROSS"; } }
@@ -10494,7 +10421,6 @@
             public static string SECONDARY_10_ASSEMBLY_MAINPART_VOLUME { get { return "SECONDARY_10.ASSEMBLY.MAINPART.VOLUME"; } }
             public static string SECONDARY_10_ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "SECONDARY_10.ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_10_ASSEMBLY_MAINPART_VOLUME_NET { get { return "SECONDARY_10.ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_10_CAST_UNIT_AREA { get { return "SECONDARY_10.CAST_UNIT.AREA"; } }
             public static string SECONDARY_10_CAST_UNIT_AREA_PLAN { get { return "SECONDARY_10.CAST_UNIT.AREA_PLAN"; } }
             public static string SECONDARY_10_CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "SECONDARY_10.CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
@@ -10578,7 +10504,6 @@
             public static string SECONDARY_10_CAST_UNIT_WEIGHT_NET { get { return "SECONDARY_10.CAST_UNIT.WEIGHT_NET"; } }
             public static string SECONDARY_10_CAST_UNIT_VOLUME { get { return "SECONDARY_10.CAST_UNIT.VOLUME"; } }
             public static string SECONDARY_10_CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "SECONDARY_10.CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
             public static string SECONDARY_10_CAST_UNIT_MAINPART_ACN { get { return "SECONDARY_10.CAST_UNIT.MAINPART.ACN"; } }
             public static string SECONDARY_10_CAST_UNIT_MAINPART_AREA { get { return "SECONDARY_10.CAST_UNIT.MAINPART.AREA"; } }
             public static string SECONDARY_10_CAST_UNIT_MAINPART_AREA_GROSS { get { return "SECONDARY_10.CAST_UNIT.MAINPART.AREA_GROSS"; } }
@@ -10764,7 +10689,6 @@
             public static string SECONDARY_10_CAST_UNIT_MAINPART_VOLUME { get { return "SECONDARY_10.CAST_UNIT.MAINPART.VOLUME"; } }
             public static string SECONDARY_10_CAST_UNIT_MAINPART_VOLUME_GROSS { get { return "SECONDARY_10.CAST_UNIT.MAINPART.VOLUME_GROSS"; } }
             public static string SECONDARY_10_CAST_UNIT_MAINPART_VOLUME_NET { get { return "SECONDARY_10.CAST_UNIT.MAINPART.VOLUME_NET"; } }
-
             public static string SECONDARY_10_DRAWING_CONTENTTYPE { get { return "SECONDARY_10.DRAWING.CONTENTTYPE"; } }
             public static string SECONDARY_10_DRAWING_DATE_CREATE { get { return "SECONDARY_10.DRAWING.DATE_CREATE"; } }
             public static string SECONDARY_10_DRAWING_DATE_ISSUE { get { return "SECONDARY_10.DRAWING.DATE_ISSUE"; } }
@@ -10791,7 +10715,6 @@
             public static string SECONDARY_10_DRAWING_TYPE { get { return "SECONDARY_10.DRAWING.TYPE"; } }
             public static string SECONDARY_10_DRAWING_WELD_DEFAULT { get { return "SECONDARY_10.DRAWING.WELD_DEFAULT"; } }
             public static string SECONDARY_10_DRAWING_WIDTH { get { return "SECONDARY_10.DRAWING.WIDTH"; } }
-
             public static string SECONDARY_10_DRAWING_REVISION_CHECKED_BY { get { return "SECONDARY_10.DRAWING.REVISION.CHECKED_BY"; } }
             public static string SECONDARY_10_DRAWING_REVISION_CREATED_BY { get { return "SECONDARY_10.DRAWING.REVISION.CREATED_BY"; } }
             public static string SECONDARY_10_DRAWING_REVISION_DATE_CHECKED { get { return "SECONDARY_10.DRAWING.REVISION.DATE_CHECKED"; } }
@@ -10816,7 +10739,6 @@
             public static string SECONDARY_10_DRAWING_REVISION_MARK { get { return "SECONDARY_10.DRAWING.REVISION.MARK"; } }
             public static string SECONDARY_10_DRAWING_REVISION_NUMBER_1 { get { return "SECONDARY_10.DRAWING.REVISION.NUMBER#1"; } }
             public static string SECONDARY_10_DRAWING_REVISION_APPROVED_BY { get { return "SECONDARY_10.DRAWING.REVISION.APPROVED_BY"; } }
-
             public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
             public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
             public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
@@ -10829,13 +10751,7 @@
             public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
             public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
             public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-
-
-
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
             public static string CURRENT_USER { get { return "CURRENT_USER"; } }
-            public static string DATE { get { return "DATE"; } }
             public static string DATE_CREATE { get { return "DATE_CREATE"; } }
             public static string DATE_ISSUE { get { return "DATE_ISSUE"; } }
             public static string DATE_MODIFY { get { return "DATE_MODIFY"; } }
@@ -10844,27 +10760,18 @@
             public static string DR_DEFAULT_WELD_SIZE { get { return "DR_DEFAULT_WELD_SIZE"; } }
             public static string DR_PART_POS { get { return "DR_PART_POS"; } }
             public static string HEIGHT { get { return "HEIGHT"; } }
-            public static string ID { get { return "ID"; } }
-            public static string NAME { get { return "NAME"; } }
             public static string NAME_BASE { get { return "NAME_BASE"; } }
-            public static string PAGE { get { return "PAGE"; } }
             public static string PLOTFILE { get { return "PLOTFILE"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
             public static string SCALE1 { get { return "SCALE1"; } }
             public static string SCALE2 { get { return "SCALE2"; } }
             public static string SCALE3 { get { return "SCALE3"; } }
             public static string SCALE4 { get { return "SCALE4"; } }
             public static string SCALE5 { get { return "SCALE5"; } }
             public static string SIZE { get { return "SIZE"; } }
-            public static string TIME { get { return "TIME"; } }
             public static string TITLE { get { return "TITLE"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
             public static string TYPE { get { return "TYPE"; } }
             public static string WELD_DEFAULT { get { return "WELD_DEFAULT"; } }
             public static string WIDTH { get { return "WIDTH"; } }
-
             public static string ASSEMBLY_AREA { get { return "ASSEMBLY.AREA"; } }
             public static string ASSEMBLY_AREA_PLAN { get { return "ASSEMBLY.AREA_PLAN"; } }
             public static string ASSEMBLY_ASSEMBLY_BOTTOM_LEVEL { get { return "ASSEMBLY.ASSEMBLY_BOTTOM_LEVEL"; } }
@@ -10913,7 +10820,6 @@
             public static string ASSEMBLY_WEIGHT_GROSS { get { return "ASSEMBLY.WEIGHT_GROSS"; } }
             public static string ASSEMBLY_WEIGHT_NET { get { return "ASSEMBLY.WEIGHT_NET"; } }
             public static string ASSEMBLY_VOLUME { get { return "ASSEMBLY.VOLUME"; } }
-
             public static string MAINPART_ACN { get { return "MAINPART.ACN"; } }
             public static string MAINPART_AREA { get { return "MAINPART.AREA"; } }
             public static string MAINPART_AREA_GROSS { get { return "MAINPART.AREA_GROSS"; } }
@@ -11103,34 +11009,9 @@
             public static string MAINPART_VOLUME { get { return "MAINPART.VOLUME"; } }
             public static string MAINPART_VOLUME_GROSS { get { return "MAINPART.VOLUME_GROSS"; } }
             public static string MAINPART_VOLUME_NET { get { return "MAINPART.VOLUME_NET"; } }
-
-            public static string HISTORY_CREATED { get { return "HISTORY.CREATED"; } }
-            public static string HISTORY_CREATED_BY { get { return "HISTORY.CREATED_BY"; } }
-            public static string HISTORY_MODIFIED { get { return "HISTORY.MODIFIED"; } }
-            public static string HISTORY_MODIFIED_ACTION { get { return "HISTORY.MODIFIED_ACTION"; } }
-            public static string HISTORY_MODIFIED_BY { get { return "HISTORY.MODIFIED_BY"; } }
-            public static string HISTORY_OWNER { get { return "HISTORY.OWNER"; } }
-            public static string HISTORY_TOUCHED { get { return "HISTORY.TOUCHED"; } }
-            public static string HISTORY_TOUCHED_ACTION { get { return "HISTORY.TOUCHED_ACTION"; } }
-            public static string HISTORY_TOUCHED_BY { get { return "HISTORY.TOUCHED_BY"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
             public static string REPORT_TITLE1 { get { return "REPORT.TITLE1"; } }
             public static string REPORT_TITLE2 { get { return "REPORT.TITLE2"; } }
             public static string REPORT_TITLE3 { get { return "REPORT.TITLE3"; } }
-
             public static string REVISION_CHECKED_BY { get { return "REVISION.CHECKED_BY"; } }
             public static string REVISION_CREATED_BY { get { return "REVISION.CREATED_BY"; } }
             public static string REVISION_DATE_CHECKED { get { return "REVISION.DATE_CHECKED"; } }
@@ -11155,25 +11036,11 @@
             public static string REVISION_MARK { get { return "REVISION.MARK"; } }
             public static string REVISION_NUMBER_1 { get { return "REVISION.NUMBER#1"; } }
             public static string REVISION_APPROVED_BY { get { return "REVISION.APPROVED_BY"; } }
-
-
-
-
             public static string ADDRESS { get { return "ADDRESS"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string CURRENT_USER { get { return "CURRENT_USER"; } }
-            public static string DATE { get { return "DATE"; } }
             public static string MODEL_PATH { get { return "MODEL_PATH"; } }
-            public static string PAGE { get { return "PAGE"; } }
             public static string PHASE { get { return "PHASE"; } }
             public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
             public static string PHASE_NAME { get { return "PHASE.NAME"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-
             public static string DRAWING_DATE_CREATE { get { return "DRAWING.DATE_CREATE"; } }
             public static string DRAWING_DATE_ISSUE { get { return "DRAWING.DATE_ISSUE"; } }
             public static string DRAWING_DATE_MODIFY { get { return "DRAWING.DATE_MODIFY"; } }
@@ -11196,131 +11063,6 @@
             public static string DRAWING_TITLE3 { get { return "DRAWING.TITLE3"; } }
             public static string DRAWING_TYPE { get { return "DRAWING.TYPE"; } }
             public static string DRAWING_WIDTH { get { return "DRAWING.WIDTH"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-            public static string REVISION_CHECKED_BY { get { return "REVISION.CHECKED_BY"; } }
-            public static string REVISION_CREATED_BY { get { return "REVISION.CREATED_BY"; } }
-            public static string REVISION_DATE_CHECKED { get { return "REVISION.DATE_CHECKED"; } }
-            public static string REVISION_DATE_CREATE { get { return "REVISION.DATE_CREATE"; } }
-            public static string REVISION_DATE_APPROVED { get { return "REVISION.DATE_APPROVED"; } }
-            public static string REVISION_DELIVERY { get { return "REVISION.DELIVERY"; } }
-            public static string REVISION_DESCRIPTION { get { return "REVISION.DESCRIPTION"; } }
-            public static string REVISION_INFO1 { get { return "REVISION.INFO1"; } }
-            public static string REVISION_INFO2 { get { return "REVISION.INFO2"; } }
-            public static string REVISION_LAST { get { return "REVISION.LAST"; } }
-            public static string REVISION_LAST_CHECKED_BY { get { return "REVISION.LAST_CHECKED_BY"; } }
-            public static string REVISION_LAST_CREATED_BY { get { return "REVISION.LAST_CREATED_BY"; } }
-            public static string REVISION_LAST_DATE_CHECKED { get { return "REVISION.LAST_DATE_CHECKED"; } }
-            public static string REVISION_LAST_DATE_CREATE { get { return "REVISION.LAST_DATE_CREATE"; } }
-            public static string REVISION_LAST_DATE_APPROVED { get { return "REVISION.LAST_DATE_APPROVED"; } }
-            public static string REVISION_LAST_DELIVERY { get { return "REVISION.LAST_DELIVERY"; } }
-            public static string REVISION_LAST_DESCRIPTION { get { return "REVISION.LAST_DESCRIPTION"; } }
-            public static string REVISION_LAST_INFO1 { get { return "REVISION.LAST_INFO1"; } }
-            public static string REVISION_LAST_INFO2 { get { return "REVISION.LAST_INFO2"; } }
-            public static string REVISION_LAST_MARK { get { return "REVISION.LAST_MARK"; } }
-            public static string REVISION_LAST_APPROVED_BY { get { return "REVISION.LAST_APPROVED_BY"; } }
-            public static string REVISION_MARK { get { return "REVISION.MARK"; } }
-            public static string REVISION_NUMBER_1 { get { return "REVISION.NUMBER#1"; } }
-            public static string REVISION_APPROVED_BY { get { return "REVISION.APPROVED_BY"; } }
-
-
-
-
-            public static string ADDRESS { get { return "ADDRESS"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string CURRENT_USER { get { return "CURRENT_USER"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string MODEL_PATH { get { return "MODEL_PATH"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-
-            public static string DRAWING_DATE_CREATE { get { return "DRAWING.DATE_CREATE"; } }
-            public static string DRAWING_DATE_ISSUE { get { return "DRAWING.DATE_ISSUE"; } }
-            public static string DRAWING_DATE_MODIFY { get { return "DRAWING.DATE_MODIFY"; } }
-            public static string DRAWING_DATE_PLOT { get { return "DRAWING.DATE_PLOT"; } }
-            public static string DRAWING_DR_PART_POS { get { return "DRAWING.DR_PART_POS"; } }
-            public static string DRAWING_HEIGHT { get { return "DRAWING.HEIGHT"; } }
-            public static string DRAWING_ID { get { return "DRAWING.ID"; } }
-            public static string DRAWING_NAME { get { return "DRAWING.NAME"; } }
-            public static string DRAWING_NAME_BASE { get { return "DRAWING.NAME_BASE"; } }
-            public static string DRAWING_PLOTFILE { get { return "DRAWING.PLOTFILE"; } }
-            public static string DRAWING_SCALE1 { get { return "DRAWING.SCALE1"; } }
-            public static string DRAWING_SCALE2 { get { return "DRAWING.SCALE2"; } }
-            public static string DRAWING_SCALE3 { get { return "DRAWING.SCALE3"; } }
-            public static string DRAWING_SCALE4 { get { return "DRAWING.SCALE4"; } }
-            public static string DRAWING_SCALE5 { get { return "DRAWING.SCALE5"; } }
-            public static string DRAWING_SIZE { get { return "DRAWING.SIZE"; } }
-            public static string DRAWING_TITLE { get { return "DRAWING.TITLE"; } }
-            public static string DRAWING_TITLE1 { get { return "DRAWING.TITLE1"; } }
-            public static string DRAWING_TITLE2 { get { return "DRAWING.TITLE2"; } }
-            public static string DRAWING_TITLE3 { get { return "DRAWING.TITLE3"; } }
-            public static string DRAWING_TYPE { get { return "DRAWING.TYPE"; } }
-            public static string DRAWING_WIDTH { get { return "DRAWING.WIDTH"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-            public static string REVISION_CHECKED_BY { get { return "REVISION.CHECKED_BY"; } }
-            public static string REVISION_CREATED_BY { get { return "REVISION.CREATED_BY"; } }
-            public static string REVISION_DATE_CHECKED { get { return "REVISION.DATE_CHECKED"; } }
-            public static string REVISION_DATE_CREATE { get { return "REVISION.DATE_CREATE"; } }
-            public static string REVISION_DATE_APPROVED { get { return "REVISION.DATE_APPROVED"; } }
-            public static string REVISION_DELIVERY { get { return "REVISION.DELIVERY"; } }
-            public static string REVISION_DESCRIPTION { get { return "REVISION.DESCRIPTION"; } }
-            public static string REVISION_INFO1 { get { return "REVISION.INFO1"; } }
-            public static string REVISION_INFO2 { get { return "REVISION.INFO2"; } }
-            public static string REVISION_LAST { get { return "REVISION.LAST"; } }
-            public static string REVISION_LAST_CHECKED_BY { get { return "REVISION.LAST_CHECKED_BY"; } }
-            public static string REVISION_LAST_CREATED_BY { get { return "REVISION.LAST_CREATED_BY"; } }
-            public static string REVISION_LAST_DATE_CHECKED { get { return "REVISION.LAST_DATE_CHECKED"; } }
-            public static string REVISION_LAST_DATE_CREATE { get { return "REVISION.LAST_DATE_CREATE"; } }
-            public static string REVISION_LAST_DATE_APPROVED { get { return "REVISION.LAST_DATE_APPROVED"; } }
-            public static string REVISION_LAST_DELIVERY { get { return "REVISION.LAST_DELIVERY"; } }
-            public static string REVISION_LAST_DESCRIPTION { get { return "REVISION.LAST_DESCRIPTION"; } }
-            public static string REVISION_LAST_INFO1 { get { return "REVISION.LAST_INFO1"; } }
-            public static string REVISION_LAST_INFO2 { get { return "REVISION.LAST_INFO2"; } }
-            public static string REVISION_LAST_MARK { get { return "REVISION.LAST_MARK"; } }
-            public static string REVISION_LAST_APPROVED_BY { get { return "REVISION.LAST_APPROVED_BY"; } }
-            public static string REVISION_MARK { get { return "REVISION.MARK"; } }
-            public static string REVISION_NUMBER_1 { get { return "REVISION.NUMBER#1"; } }
-            public static string REVISION_APPROVED_BY { get { return "REVISION.APPROVED_BY"; } }
-
-
-
-
-
-            public static string ID { get { return "ID"; } }
-            public static string NAME { get { return "NAME"; } }
-            public static string GUID { get { return "GUID"; } }
             public static string HIERARCHY_TYPE { get { return "HIERARCHY_TYPE"; } }
             public static string DEFINITION_NAME { get { return "DEFINITION_NAME"; } }
             public static string HIERARCHY_LEVEL { get { return "HIERARCHY_LEVEL"; } }
@@ -11329,50 +11071,18 @@
             public static string LBA_BUILDING { get { return "LBA_BUILDING"; } }
             public static string LBA_SECTION { get { return "LBA_SECTION"; } }
             public static string LBA_STOREY { get { return "LBA_STOREY"; } }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string DATE { get { return "DATE"; } }
             public static string DIAMETER { get { return "DIAMETER"; } }
             public static string DIAMETER_X { get { return "DIAMETER_X"; } }
             public static string DIAMETER_Y { get { return "DIAMETER_Y"; } }
-            public static string GUID { get { return "GUID"; } }
             public static string HOLE_TOLERANCE { get { return "HOLE_TOLERANCE"; } }
-            public static string ID { get { return "ID"; } }
             public static string LONGHOLE_MAX { get { return "LONGHOLE_MAX"; } }
             public static string LONGHOLE_MIN { get { return "LONGHOLE_MIN"; } }
             public static string LONG_HOLE_X { get { return "LONG_HOLE_X"; } }
             public static string LONG_HOLE_Y { get { return "LONG_HOLE_Y"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
             public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
             public static string OBJECT_LOCKED { get { return "OBJECT_LOCKED"; } }
             public static string OBJECT_TYPE { get { return "OBJECT_TYPE"; } }
             public static string OWNER { get { return "OWNER"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-
             public static string BOLT_BOLT_EDGE_DISTANCE { get { return "BOLT.BOLT_EDGE_DISTANCE"; } }
             public static string BOLT_BOLT_EDGE_DISTANCE_MIN { get { return "BOLT.BOLT_EDGE_DISTANCE_MIN"; } }
             public static string BOLT_BOLT_MATERIAL_LENGTH { get { return "BOLT.BOLT_MATERIAL_LENGTH"; } }
@@ -11410,7 +11120,6 @@
             public static string BOLT_TYPE3 { get { return "BOLT.TYPE3"; } }
             public static string BOLT_TYPE4 { get { return "BOLT.TYPE4"; } }
             public static string BOLT_WEIGHT { get { return "BOLT.WEIGHT"; } }
-
             public static string NUT_DIAMETER { get { return "NUT.DIAMETER"; } }
             public static string NUT_GUID { get { return "NUT.GUID"; } }
             public static string NUT_ID { get { return "NUT.ID"; } }
@@ -11427,7 +11136,6 @@
             public static string NUT_PHASE_NAME { get { return "NUT.PHASE.NAME"; } }
             public static string NUT_TYPE { get { return "NUT.TYPE"; } }
             public static string NUT_WEIGHT { get { return "NUT.WEIGHT"; } }
-
             public static string WASHER_DIAMETER { get { return "WASHER.DIAMETER"; } }
             public static string WASHER_GUID { get { return "WASHER.GUID"; } }
             public static string WASHER_ID { get { return "WASHER.ID"; } }
@@ -11445,25 +11153,6 @@
             public static string WASHER_PHASE_NAME { get { return "WASHER.PHASE.NAME"; } }
             public static string WASHER_TYPE { get { return "WASHER.TYPE"; } }
             public static string WASHER_WEIGHT { get { return "WASHER.WEIGHT"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-
-
-
-            public static string ID { get { return "ID"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
             public static string TYPENUMBER { get { return "TYPENUMBER"; } }
             public static string TYPENAME { get { return "TYPENAME"; } }
             public static string MAGNITUDEINFO { get { return "MAGNITUDEINFO"; } }
@@ -11497,23 +11186,10 @@
             public static string PRIMARYWEIGHT { get { return "PRIMARYWEIGHT"; } }
             public static string DISPERSIONANGLE { get { return "DISPERSIONANGLE"; } }
             public static string CONTINUOUSBEAMMODE { get { return "CONTINUOUSBEAMMODE"; } }
-
-
-
-
-            public static string ID { get { return "ID"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string NAME { get { return "NAME"; } }
-            public static string TYPENUMBER { get { return "TYPENUMBER"; } }
-            public static string TYPENAME { get { return "TYPENAME"; } }
             public static string DIRECTION { get { return "DIRECTION"; } }
             public static string COMPATIBLE { get { return "COMPATIBLE"; } }
             public static string INCOMPATIBLE { get { return "INCOMPATIBLE"; } }
             public static string COLOR { get { return "COLOR"; } }
-
-
-
-
             public static string AREA { get { return "AREA"; } }
             public static string AREA_GROSS { get { return "AREA_GROSS"; } }
             public static string AREA_NET { get { return "AREA_NET"; } }
@@ -11536,9 +11212,6 @@
             public static string CC_MIN_LONG { get { return "CC_MIN_LONG"; } }
             public static string CLASS { get { return "CLASS"; } }
             public static string CLASS_ATTR { get { return "CLASS_ATTR"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string DATE { get { return "DATE"; } }
             public static string DIM_A { get { return "DIM_A"; } }
             public static string DIM_B { get { return "DIM_B"; } }
             public static string DIM_C { get { return "DIM_C"; } }
@@ -11560,51 +11233,18 @@
             public static string DIM_Y { get { return "DIM_Y"; } }
             public static string FATHER_ID { get { return "FATHER_ID"; } }
             public static string GRADE { get { return "GRADE"; } }
-            public static string ID { get { return "ID"; } }
-            public static string IS_CONCEPTUAL { get { return "IS_CONCEPTUAL"; } }
             public static string LENGTH { get { return "LENGTH"; } }
             public static string MATERIAL { get { return "MATERIAL"; } }
             public static string MESH_POS { get { return "MESH_POS"; } }
             public static string MODEL_TOTAL { get { return "MODEL_TOTAL"; } }
-            public static string NAME { get { return "NAME"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
-            public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
-            public static string OBJECT_LOCKED { get { return "OBJECT_LOCKED"; } }
-            public static string OBJECT_TYPE { get { return "OBJECT_TYPE"; } }
-            public static string OWNER { get { return "OWNER"; } }
-            public static string PAGE { get { return "PAGE"; } }
             public static string PCS { get { return "PCS"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
             public static string PULLOUT { get { return "PULLOUT"; } }
             public static string REBAR_MESH_LEFT_OVERHANG_LONG { get { return "REBAR_MESH_LEFT_OVERHANG_LONG"; } }
             public static string REBAR_MESH_RIGHT_OVERHANG_LONG { get { return "REBAR_MESH_RIGHT_OVERHANG_LONG"; } }
             public static string REBAR_MESH_LEFT_OVERHANG_CROSS { get { return "REBAR_MESH_LEFT_OVERHANG_CROSS"; } }
             public static string REBAR_MESH_RIGHT_OVERHANG_CROSS { get { return "REBAR_MESH_RIGHT_OVERHANG_CROSS"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
             public static string SHAPE { get { return "SHAPE"; } }
-            public static string SIZE { get { return "SIZE"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-            public static string TYPE { get { return "TYPE"; } }
             public static string WEIGHT { get { return "WEIGHT"; } }
-            public static string WIDTH { get { return "WIDTH"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
             public static string building { get { return "building"; } }
             public static string LOGICAL_BUILDING_AREA_ID { get { return "LOGICAL_BUILDING_AREA.ID"; } }
             public static string LOGICAL_BUILDING_AREA_NAME { get { return "LOGICAL_BUILDING_AREA.NAME"; } }
@@ -11615,75 +11255,9 @@
             public static string LOGICAL_BUILDING_AREA_LBA_BUILDING { get { return "LOGICAL_BUILDING_AREA.LBA_BUILDING"; } }
             public static string LOGICAL_BUILDING_AREA_LBA_SECTION { get { return "LOGICAL_BUILDING_AREA.LBA_SECTION"; } }
             public static string LOGICAL_BUILDING_AREA_LBA_STOREY { get { return "LOGICAL_BUILDING_AREA.LBA_STOREY"; } }
-
-
-
-
             public static string BOLT_STANDARD { get { return "BOLT_STANDARD"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string DIAMETER { get { return "DIAMETER"; } }
-            public static string GUID { get { return "GUID"; } }
-            public static string ID { get { return "ID"; } }
             public static string INNER_DIAMETER { get { return "INNER_DIAMETER"; } }
-            public static string NAME { get { return "NAME"; } }
             public static string NAME_SHORT { get { return "NAME_SHORT"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
-            public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
-            public static string OBJECT_LOCKED { get { return "OBJECT_LOCKED"; } }
-            public static string OBJECT_TYPE { get { return "OBJECT_TYPE"; } }
-            public static string OWNER { get { return "OWNER"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-            public static string TYPE { get { return "TYPE"; } }
-            public static string WEIGHT { get { return "WEIGHT"; } }
-
-            public static string BOLT_BOLT_EDGE_DISTANCE { get { return "BOLT.BOLT_EDGE_DISTANCE"; } }
-            public static string BOLT_BOLT_EDGE_DISTANCE_MIN { get { return "BOLT.BOLT_EDGE_DISTANCE_MIN"; } }
-            public static string BOLT_BOLT_MATERIAL_LENGTH { get { return "BOLT.BOLT_MATERIAL_LENGTH"; } }
-            public static string BOLT_BOLT_NPARTS { get { return "BOLT.BOLT_NPARTS"; } }
-            public static string BOLT_BOLT_STANDARD { get { return "BOLT.BOLT_STANDARD"; } }
-            public static string BOLT_CONNECTED_ASSEMBLIES { get { return "BOLT.CONNECTED_ASSEMBLIES"; } }
-            public static string BOLT_CONNECTED_PARTS { get { return "BOLT.CONNECTED_PARTS"; } }
-            public static string BOLT_CURRENT_PHASE { get { return "BOLT.CURRENT_PHASE"; } }
-            public static string BOLT_DIAMETER { get { return "BOLT.DIAMETER"; } }
-            public static string BOLT_FINISH { get { return "BOLT.FINISH"; } }
-            public static string BOLT_GRADE { get { return "BOLT.GRADE"; } }
-            public static string BOLT_GUID { get { return "BOLT.GUID"; } }
-            public static string BOLT_ID { get { return "BOLT.ID"; } }
-            public static string BOLT_LENGTH { get { return "BOLT.LENGTH"; } }
-            public static string BOLT_LENGTH_GROSS { get { return "BOLT.LENGTH_GROSS"; } }
-            public static string BOLT_MATERIAL { get { return "BOLT.MATERIAL"; } }
-            public static string BOLT_MODEL_TOTAL { get { return "BOLT.MODEL_TOTAL"; } }
-            public static string BOLT_NAME { get { return "BOLT.NAME"; } }
-            public static string BOLT_NAME_FULL { get { return "BOLT.NAME_FULL"; } }
-            public static string BOLT_NAME_SHORT { get { return "BOLT.NAME_SHORT"; } }
-            public static string BOLT_NUMBER_1 { get { return "BOLT.NUMBER#1"; } }
-            public static string BOLT_NUMBER_IN_PHASE_X_ { get { return "BOLT.NUMBER_IN_PHASE(X)"; } }
-            public static string BOLT_OBJECT_DESCRIPTION { get { return "BOLT.OBJECT_DESCRIPTION"; } }
-            public static string BOLT_OBJECT_LOCKED { get { return "BOLT.OBJECT_LOCKED"; } }
-            public static string BOLT_OBJECT_TYPE { get { return "BOLT.OBJECT_TYPE"; } }
-            public static string BOLT_OWNER { get { return "BOLT.OWNER"; } }
-            public static string BOLT_PHASE { get { return "BOLT.PHASE"; } }
-            public static string BOLT_PHASE_COMMENT { get { return "BOLT.PHASE.COMMENT"; } }
-            public static string BOLT_PHASE_NAME { get { return "BOLT.PHASE.NAME"; } }
-            public static string BOLT_SITE_WORKSHOP { get { return "BOLT.SITE_WORKSHOP"; } }
-            public static string BOLT_THREAD_IN_MATERIAL { get { return "BOLT.THREAD_IN_MATERIAL"; } }
-            public static string BOLT_TYPE { get { return "BOLT.TYPE"; } }
-            public static string BOLT_TYPE1 { get { return "BOLT.TYPE1"; } }
-            public static string BOLT_TYPE2 { get { return "BOLT.TYPE2"; } }
-            public static string BOLT_TYPE3 { get { return "BOLT.TYPE3"; } }
-            public static string BOLT_TYPE4 { get { return "BOLT.TYPE4"; } }
-            public static string BOLT_WEIGHT { get { return "BOLT.WEIGHT"; } }
-
             public static string HOLE_DIAMETER { get { return "HOLE.DIAMETER"; } }
             public static string HOLE_DIAMETER_X { get { return "HOLE.DIAMETER_X"; } }
             public static string HOLE_DIAMETER_Y { get { return "HOLE.DIAMETER_Y"; } }
@@ -11702,199 +11276,7 @@
             public static string HOLE_PHASE { get { return "HOLE.PHASE"; } }
             public static string HOLE_PHASE_COMMENT { get { return "HOLE.PHASE.COMMENT"; } }
             public static string HOLE_PHASE_NAME { get { return "HOLE.PHASE.NAME"; } }
-
-            public static string WASHER_DIAMETER { get { return "WASHER.DIAMETER"; } }
-            public static string WASHER_GUID { get { return "WASHER.GUID"; } }
-            public static string WASHER_ID { get { return "WASHER.ID"; } }
-            public static string WASHER_INNER_DIAMETER { get { return "WASHER.INNER_DIAMETER"; } }
-            public static string WASHER_MATERIAL { get { return "WASHER.MATERIAL"; } }
-            public static string WASHER_NAME { get { return "WASHER.NAME"; } }
-            public static string WASHER_NAME_SHORT { get { return "WASHER.NAME_SHORT"; } }
-            public static string WASHER_NUMBER_1 { get { return "WASHER.NUMBER#1"; } }
-            public static string WASHER_OBJECT_DESCRIPTION { get { return "WASHER.OBJECT_DESCRIPTION"; } }
-            public static string WASHER_OBJECT_LOCKED { get { return "WASHER.OBJECT_LOCKED"; } }
-            public static string WASHER_OBJECT_TYPE { get { return "WASHER.OBJECT_TYPE"; } }
-            public static string WASHER_OWNER { get { return "WASHER.OWNER"; } }
-            public static string WASHER_PHASE { get { return "WASHER.PHASE"; } }
-            public static string WASHER_PHASE_COMMENT { get { return "WASHER.PHASE.COMMENT"; } }
-            public static string WASHER_PHASE_NAME { get { return "WASHER.PHASE.NAME"; } }
-            public static string WASHER_TYPE { get { return "WASHER.TYPE"; } }
-            public static string WASHER_WEIGHT { get { return "WASHER.WEIGHT"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-
-
-
-            public static string ADDRESS { get { return "ADDRESS"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string CURRENT_USER { get { return "CURRENT_USER"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string MODEL_PATH { get { return "MODEL_PATH"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-
-            public static string DRAWING_DATE_CREATE { get { return "DRAWING.DATE_CREATE"; } }
-            public static string DRAWING_DATE_ISSUE { get { return "DRAWING.DATE_ISSUE"; } }
-            public static string DRAWING_DATE_MODIFY { get { return "DRAWING.DATE_MODIFY"; } }
-            public static string DRAWING_DATE_PLOT { get { return "DRAWING.DATE_PLOT"; } }
-            public static string DRAWING_DR_PART_POS { get { return "DRAWING.DR_PART_POS"; } }
-            public static string DRAWING_HEIGHT { get { return "DRAWING.HEIGHT"; } }
-            public static string DRAWING_ID { get { return "DRAWING.ID"; } }
-            public static string DRAWING_NAME { get { return "DRAWING.NAME"; } }
-            public static string DRAWING_NAME_BASE { get { return "DRAWING.NAME_BASE"; } }
-            public static string DRAWING_PLOTFILE { get { return "DRAWING.PLOTFILE"; } }
-            public static string DRAWING_SCALE1 { get { return "DRAWING.SCALE1"; } }
-            public static string DRAWING_SCALE2 { get { return "DRAWING.SCALE2"; } }
-            public static string DRAWING_SCALE3 { get { return "DRAWING.SCALE3"; } }
-            public static string DRAWING_SCALE4 { get { return "DRAWING.SCALE4"; } }
-            public static string DRAWING_SCALE5 { get { return "DRAWING.SCALE5"; } }
-            public static string DRAWING_SIZE { get { return "DRAWING.SIZE"; } }
-            public static string DRAWING_TITLE { get { return "DRAWING.TITLE"; } }
-            public static string DRAWING_TITLE1 { get { return "DRAWING.TITLE1"; } }
-            public static string DRAWING_TITLE2 { get { return "DRAWING.TITLE2"; } }
-            public static string DRAWING_TITLE3 { get { return "DRAWING.TITLE3"; } }
-            public static string DRAWING_TYPE { get { return "DRAWING.TYPE"; } }
-            public static string DRAWING_WIDTH { get { return "DRAWING.WIDTH"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-            public static string REVISION_CHECKED_BY { get { return "REVISION.CHECKED_BY"; } }
-            public static string REVISION_CREATED_BY { get { return "REVISION.CREATED_BY"; } }
-            public static string REVISION_DATE_CHECKED { get { return "REVISION.DATE_CHECKED"; } }
-            public static string REVISION_DATE_CREATE { get { return "REVISION.DATE_CREATE"; } }
-            public static string REVISION_DATE_APPROVED { get { return "REVISION.DATE_APPROVED"; } }
-            public static string REVISION_DELIVERY { get { return "REVISION.DELIVERY"; } }
-            public static string REVISION_DESCRIPTION { get { return "REVISION.DESCRIPTION"; } }
-            public static string REVISION_INFO1 { get { return "REVISION.INFO1"; } }
-            public static string REVISION_INFO2 { get { return "REVISION.INFO2"; } }
-            public static string REVISION_LAST { get { return "REVISION.LAST"; } }
-            public static string REVISION_LAST_CHECKED_BY { get { return "REVISION.LAST_CHECKED_BY"; } }
-            public static string REVISION_LAST_CREATED_BY { get { return "REVISION.LAST_CREATED_BY"; } }
-            public static string REVISION_LAST_DATE_CHECKED { get { return "REVISION.LAST_DATE_CHECKED"; } }
-            public static string REVISION_LAST_DATE_CREATE { get { return "REVISION.LAST_DATE_CREATE"; } }
-            public static string REVISION_LAST_DATE_APPROVED { get { return "REVISION.LAST_DATE_APPROVED"; } }
-            public static string REVISION_LAST_DELIVERY { get { return "REVISION.LAST_DELIVERY"; } }
-            public static string REVISION_LAST_DESCRIPTION { get { return "REVISION.LAST_DESCRIPTION"; } }
-            public static string REVISION_LAST_INFO1 { get { return "REVISION.LAST_INFO1"; } }
-            public static string REVISION_LAST_INFO2 { get { return "REVISION.LAST_INFO2"; } }
-            public static string REVISION_LAST_MARK { get { return "REVISION.LAST_MARK"; } }
-            public static string REVISION_LAST_APPROVED_BY { get { return "REVISION.LAST_APPROVED_BY"; } }
-            public static string REVISION_MARK { get { return "REVISION.MARK"; } }
-            public static string REVISION_NUMBER_1 { get { return "REVISION.NUMBER#1"; } }
-            public static string REVISION_APPROVED_BY { get { return "REVISION.APPROVED_BY"; } }
-
-
-
-
-            public static string ADDRESS { get { return "ADDRESS"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string CURRENT_USER { get { return "CURRENT_USER"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string MODEL_PATH { get { return "MODEL_PATH"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-
-            public static string DRAWING_DATE_CREATE { get { return "DRAWING.DATE_CREATE"; } }
-            public static string DRAWING_DATE_ISSUE { get { return "DRAWING.DATE_ISSUE"; } }
-            public static string DRAWING_DATE_MODIFY { get { return "DRAWING.DATE_MODIFY"; } }
-            public static string DRAWING_DATE_PLOT { get { return "DRAWING.DATE_PLOT"; } }
-            public static string DRAWING_DR_PART_POS { get { return "DRAWING.DR_PART_POS"; } }
-            public static string DRAWING_HEIGHT { get { return "DRAWING.HEIGHT"; } }
-            public static string DRAWING_ID { get { return "DRAWING.ID"; } }
-            public static string DRAWING_NAME { get { return "DRAWING.NAME"; } }
-            public static string DRAWING_NAME_BASE { get { return "DRAWING.NAME_BASE"; } }
-            public static string DRAWING_PLOTFILE { get { return "DRAWING.PLOTFILE"; } }
-            public static string DRAWING_SCALE1 { get { return "DRAWING.SCALE1"; } }
-            public static string DRAWING_SCALE2 { get { return "DRAWING.SCALE2"; } }
-            public static string DRAWING_SCALE3 { get { return "DRAWING.SCALE3"; } }
-            public static string DRAWING_SCALE4 { get { return "DRAWING.SCALE4"; } }
-            public static string DRAWING_SCALE5 { get { return "DRAWING.SCALE5"; } }
-            public static string DRAWING_SIZE { get { return "DRAWING.SIZE"; } }
-            public static string DRAWING_TITLE { get { return "DRAWING.TITLE"; } }
-            public static string DRAWING_TITLE1 { get { return "DRAWING.TITLE1"; } }
-            public static string DRAWING_TITLE2 { get { return "DRAWING.TITLE2"; } }
-            public static string DRAWING_TITLE3 { get { return "DRAWING.TITLE3"; } }
-            public static string DRAWING_TYPE { get { return "DRAWING.TYPE"; } }
-            public static string DRAWING_WIDTH { get { return "DRAWING.WIDTH"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-            public static string REVISION_CHECKED_BY { get { return "REVISION.CHECKED_BY"; } }
-            public static string REVISION_CREATED_BY { get { return "REVISION.CREATED_BY"; } }
-            public static string REVISION_DATE_CHECKED { get { return "REVISION.DATE_CHECKED"; } }
-            public static string REVISION_DATE_CREATE { get { return "REVISION.DATE_CREATE"; } }
-            public static string REVISION_DATE_APPROVED { get { return "REVISION.DATE_APPROVED"; } }
-            public static string REVISION_DELIVERY { get { return "REVISION.DELIVERY"; } }
-            public static string REVISION_DESCRIPTION { get { return "REVISION.DESCRIPTION"; } }
-            public static string REVISION_INFO1 { get { return "REVISION.INFO1"; } }
-            public static string REVISION_INFO2 { get { return "REVISION.INFO2"; } }
-            public static string REVISION_LAST { get { return "REVISION.LAST"; } }
-            public static string REVISION_LAST_CHECKED_BY { get { return "REVISION.LAST_CHECKED_BY"; } }
-            public static string REVISION_LAST_CREATED_BY { get { return "REVISION.LAST_CREATED_BY"; } }
-            public static string REVISION_LAST_DATE_CHECKED { get { return "REVISION.LAST_DATE_CHECKED"; } }
-            public static string REVISION_LAST_DATE_CREATE { get { return "REVISION.LAST_DATE_CREATE"; } }
-            public static string REVISION_LAST_DATE_APPROVED { get { return "REVISION.LAST_DATE_APPROVED"; } }
-            public static string REVISION_LAST_DELIVERY { get { return "REVISION.LAST_DELIVERY"; } }
-            public static string REVISION_LAST_DESCRIPTION { get { return "REVISION.LAST_DESCRIPTION"; } }
-            public static string REVISION_LAST_INFO1 { get { return "REVISION.LAST_INFO1"; } }
-            public static string REVISION_LAST_INFO2 { get { return "REVISION.LAST_INFO2"; } }
-            public static string REVISION_LAST_MARK { get { return "REVISION.LAST_MARK"; } }
-            public static string REVISION_LAST_APPROVED_BY { get { return "REVISION.LAST_APPROVED_BY"; } }
-            public static string REVISION_MARK { get { return "REVISION.MARK"; } }
-            public static string REVISION_NUMBER_1 { get { return "REVISION.NUMBER#1"; } }
-            public static string REVISION_APPROVED_BY { get { return "REVISION.APPROVED_BY"; } }
-
-
-
             public static string ACN { get { return "ACN"; } }
-            public static string AREA { get { return "AREA"; } }
-            public static string AREA_GROSS { get { return "AREA_GROSS"; } }
-            public static string AREA_NET { get { return "AREA_NET"; } }
             public static string AREA_PER_TONS { get { return "AREA_PER_TONS"; } }
             public static string AREA_PLAN { get { return "AREA_PLAN"; } }
             public static string AREA_PROJECTION_GXY_NET { get { return "AREA_PROJECTION_GXY_NET"; } }
@@ -11942,17 +11324,12 @@
             public static string BOUNDING_BOX_MAX_X { get { return "BOUNDING_BOX_MAX_X"; } }
             public static string BOUNDING_BOX_MAX_Y { get { return "BOUNDING_BOX_MAX_Y"; } }
             public static string BOUNDING_BOX_MAX_Z { get { return "BOUNDING_BOX_MAX_Z"; } }
-            public static string CLASS_ATTR { get { return "CLASS_ATTR"; } }
             public static string COG_X { get { return "COG_X"; } }
             public static string COG_Y { get { return "COG_Y"; } }
             public static string COG_Z { get { return "COG_Z"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
             public static string CURVED_SEGMENTS { get { return "CURVED_SEGMENTS"; } }
-            public static string DATE { get { return "DATE"; } }
             public static string DIMENSION_A { get { return "DIMENSION_A"; } }
             public static string DIMENSION_B { get { return "DIMENSION_B"; } }
-            public static string DR_PART_POS { get { return "DR_PART_POS"; } }
             public static string END_X { get { return "END_X"; } }
             public static string END_Y { get { return "END_Y"; } }
             public static string END_Z { get { return "END_Z"; } }
@@ -11970,17 +11347,12 @@
             public static string FINISH { get { return "FINISH"; } }
             public static string FLANGE_LENGTH_B { get { return "FLANGE_LENGTH_B"; } }
             public static string FLANGE_LENGTH_U { get { return "FLANGE_LENGTH_U"; } }
-            public static string GUID { get { return "GUID"; } }
             public static string HAS_CONNECTIONS { get { return "HAS_CONNECTIONS"; } }
             public static string HAS_HOLES { get { return "HAS_HOLES"; } }
-            public static string HEIGHT { get { return "HEIGHT"; } }
-            public static string ID { get { return "ID"; } }
             public static string IS_POLYBEAM { get { return "IS_POLYBEAM"; } }
-            public static string LENGTH { get { return "LENGTH"; } }
             public static string LENGTH_GROSS { get { return "LENGTH_GROSS"; } }
             public static string LENGTH_NET { get { return "LENGTH_NET"; } }
             public static string MAIN_PART { get { return "MAIN_PART"; } }
-            public static string MATERIAL { get { return "MATERIAL"; } }
             public static string MATERIAL_TYPE { get { return "MATERIAL_TYPE"; } }
             public static string MATERIAL_ACTIVE_DESIGN_CODE { get { return "MATERIAL.ACTIVE_DESIGN_CODE"; } }
             public static string MATERIAL_ALIAS_NAME1 { get { return "MATERIAL.ALIAS_NAME1"; } }
@@ -11991,22 +11363,11 @@
             public static string MATERIAL_POISSONS_RATIO { get { return "MATERIAL.POISSONS_RATIO"; } }
             public static string MATERIAL_PROFILE_DENSITY { get { return "MATERIAL.PROFILE_DENSITY"; } }
             public static string MATERIAL_THERMAL_DILATATION { get { return "MATERIAL.THERMAL_DILATATION"; } }
-            public static string MODEL_TOTAL { get { return "MODEL_TOTAL"; } }
-            public static string NAME { get { return "NAME"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
             public static string NUMBER_IN_PHASE_X_ { get { return "NUMBER_IN_PHASE(X)"; } }
-            public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
-            public static string OBJECT_LOCKED { get { return "OBJECT_LOCKED"; } }
-            public static string OBJECT_TYPE { get { return "OBJECT_TYPE"; } }
-            public static string OWNER { get { return "OWNER"; } }
-            public static string PAGE { get { return "PAGE"; } }
             public static string PART_POS { get { return "PART_POS"; } }
             public static string PART_PREFIX { get { return "PART_PREFIX"; } }
             public static string PART_SERIAL_NUMBER { get { return "PART_SERIAL_NUMBER"; } }
             public static string PART_START_NUMBER { get { return "PART_START_NUMBER"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
             public static string PLATE_TOP_VIEW { get { return "PLATE_TOP_VIEW"; } }
             public static string POUR_PHASE { get { return "POUR_PHASE"; } }
             public static string PRELIM_MARK { get { return "PRELIM_MARK"; } }
@@ -12091,7 +11452,6 @@
             public static string RAIL_ANGLE { get { return "RAIL_ANGLE"; } }
             public static string RAIL_OFFSET { get { return "RAIL_OFFSET"; } }
             public static string RAIL_RADIUS { get { return "RAIL_RADIUS"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
             public static string SIMILAR_TO_MAIN_PART { get { return "SIMILAR_TO_MAIN_PART"; } }
             public static string SAWING_ITEM { get { return "SAWING_ITEM"; } }
             public static string START_X { get { return "START_X"; } }
@@ -12101,26 +11461,17 @@
             public static string START_Y_IN_WORK_PLANE { get { return "START_Y_IN_WORK_PLANE"; } }
             public static string START_Z_IN_WORK_PLANE { get { return "START_Z_IN_WORK_PLANE"; } }
             public static string SUPPLEMENT_PART_WEIGHT { get { return "SUPPLEMENT_PART_WEIGHT"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
             public static string TOP_LEVEL { get { return "TOP_LEVEL"; } }
             public static string TOP_LEVEL_GLOBAL { get { return "TOP_LEVEL_GLOBAL"; } }
             public static string TOP_LEVEL_UNFORMATTED { get { return "TOP_LEVEL_UNFORMATTED"; } }
             public static string TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
             public static string WEB_LENGTH { get { return "WEB_LENGTH"; } }
-            public static string WEIGHT { get { return "WEIGHT"; } }
             public static string WEIGHT_GROSS { get { return "WEIGHT_GROSS"; } }
             public static string WEIGHT_M { get { return "WEIGHT_M"; } }
             public static string WEIGHT_NET { get { return "WEIGHT_NET"; } }
-            public static string WIDTH { get { return "WIDTH"; } }
             public static string VOLUME { get { return "VOLUME"; } }
             public static string VOLUME_GROSS { get { return "VOLUME_GROSS"; } }
             public static string VOLUME_NET { get { return "VOLUME_NET"; } }
-
-            public static string ASSEMBLY_AREA { get { return "ASSEMBLY.AREA"; } }
-            public static string ASSEMBLY_AREA_PLAN { get { return "ASSEMBLY.AREA_PLAN"; } }
             public static string ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
             public static string ASSEMBLY_AREA_PROJECTION_GXZ_NET { get { return "ASSEMBLY.AREA_PROJECTION_GXZ_NET"; } }
             public static string ASSEMBLY_AREA_PROJECTION_GYZ_NET { get { return "ASSEMBLY.AREA_PROJECTION_GYZ_NET"; } }
@@ -12145,56 +11496,9 @@
             public static string ASSEMBLY_AREA_NX { get { return "ASSEMBLY.AREA_NX"; } }
             public static string ASSEMBLY_AREA_PY { get { return "ASSEMBLY.AREA_PY"; } }
             public static string ASSEMBLY_AREA_NY { get { return "ASSEMBLY.AREA_NY"; } }
-            public static string ASSEMBLY_ASSEMBLY_BOTTOM_LEVEL { get { return "ASSEMBLY.ASSEMBLY_BOTTOM_LEVEL"; } }
-            public static string ASSEMBLY_ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "ASSEMBLY.ASSEMBLY_BOTTOM_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "ASSEMBLY.ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY.ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string ASSEMBLY_ASSEMBLY_NAME { get { return "ASSEMBLY.ASSEMBLY_NAME"; } }
-            public static string ASSEMBLY_ASSEMBLY_PLWEIGHT { get { return "ASSEMBLY.ASSEMBLY_PLWEIGHT"; } }
-            public static string ASSEMBLY_ASSEMBLY_POS { get { return "ASSEMBLY.ASSEMBLY_POS"; } }
-            public static string ASSEMBLY_ASSEMBLY_POSITION_CODE { get { return "ASSEMBLY.ASSEMBLY_POSITION_CODE"; } }
-            public static string ASSEMBLY_ASSEMBLY_PREFIX { get { return "ASSEMBLY.ASSEMBLY_PREFIX"; } }
-            public static string ASSEMBLY_ASSEMBLY_SERIAL_NUMBER { get { return "ASSEMBLY.ASSEMBLY_SERIAL_NUMBER"; } }
-            public static string ASSEMBLY_ASSEMBLY_START_NUMBER { get { return "ASSEMBLY.ASSEMBLY_START_NUMBER"; } }
-            public static string ASSEMBLY_ASSEMBLY_TOP_LEVEL { get { return "ASSEMBLY.ASSEMBLY_TOP_LEVEL"; } }
-            public static string ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "ASSEMBLY.ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL { get { return "ASSEMBLY.BOTTOM_LEVEL"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "ASSEMBLY.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "ASSEMBLY.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string ASSEMBLY_COG_X { get { return "ASSEMBLY.COG_X"; } }
-            public static string ASSEMBLY_COG_Y { get { return "ASSEMBLY.COG_Y"; } }
-            public static string ASSEMBLY_COG_Z { get { return "ASSEMBLY.COG_Z"; } }
-            public static string ASSEMBLY_GUID { get { return "ASSEMBLY.GUID"; } }
             public static string ASSEMBLY_HEIGHT { get { return "ASSEMBLY.HEIGHT"; } }
-            public static string ASSEMBLY_HIERARCHY_LEVEL { get { return "ASSEMBLY.HIERARCHY_LEVEL"; } }
-            public static string ASSEMBLY_ID { get { return "ASSEMBLY.ID"; } }
-            public static string ASSEMBLY_LENGTH { get { return "ASSEMBLY.LENGTH"; } }
-            public static string ASSEMBLY_LENGTH_GROSS { get { return "ASSEMBLY.LENGTH_GROSS"; } }
-            public static string ASSEMBLY_LENGTH_NET { get { return "ASSEMBLY.LENGTH_NET"; } }
-            public static string ASSEMBLY_LOT_NAME { get { return "ASSEMBLY.LOT_NAME"; } }
-            public static string ASSEMBLY_LOT_NUMBER { get { return "ASSEMBLY.LOT_NUMBER"; } }
-            public static string ASSEMBLY_MATERIAL_TYPE { get { return "ASSEMBLY.MATERIAL_TYPE"; } }
-            public static string ASSEMBLY_MODEL_TOTAL { get { return "ASSEMBLY.MODEL_TOTAL"; } }
             public static string ASSEMBLY_NUMBER_1 { get { return "ASSEMBLY.NUMBER#1"; } }
-            public static string ASSEMBLY_NUMBER_IN_PHASE_X_ { get { return "ASSEMBLY.NUMBER_IN_PHASE(X)"; } }
-            public static string ASSEMBLY_PHASE { get { return "ASSEMBLY.PHASE"; } }
-            public static string ASSEMBLY_PHASE_COMMENT { get { return "ASSEMBLY.PHASE.COMMENT"; } }
-            public static string ASSEMBLY_PHASE_NAME { get { return "ASSEMBLY.PHASE.NAME"; } }
-            public static string ASSEMBLY_PRELIM_ASSEM_MARK { get { return "ASSEMBLY.PRELIM_ASSEM_MARK"; } }
-            public static string ASSEMBLY_SUPPLEMENT_PART_WEIGHT { get { return "ASSEMBLY.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string ASSEMBLY_TOP_LEVEL { get { return "ASSEMBLY.TOP_LEVEL"; } }
-            public static string ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "ASSEMBLY.TOP_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "ASSEMBLY.TOP_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string ASSEMBLY_WEIGHT { get { return "ASSEMBLY.WEIGHT"; } }
-            public static string ASSEMBLY_WEIGHT_GROSS { get { return "ASSEMBLY.WEIGHT_GROSS"; } }
-            public static string ASSEMBLY_WEIGHT_NET { get { return "ASSEMBLY.WEIGHT_NET"; } }
             public static string ASSEMBLY_WIDTH { get { return "ASSEMBLY.WIDTH"; } }
-            public static string ASSEMBLY_VOLUME { get { return "ASSEMBLY.VOLUME"; } }
-
             public static string ASSEMBLY_MAINPART_ACN { get { return "ASSEMBLY.MAINPART.ACN"; } }
             public static string ASSEMBLY_MAINPART_AREA { get { return "ASSEMBLY.MAINPART.AREA"; } }
             public static string ASSEMBLY_MAINPART_AREA_GROSS { get { return "ASSEMBLY.MAINPART.AREA_GROSS"; } }
@@ -12381,7 +11685,6 @@
             public static string ASSEMBLY_MAINPART_VOLUME { get { return "ASSEMBLY.MAINPART.VOLUME"; } }
             public static string ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
             public static string ASSEMBLY_MAINPART_VOLUME_NET { get { return "ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
             public static string CAST_UNIT_AREA { get { return "CAST_UNIT.AREA"; } }
             public static string CAST_UNIT_AREA_PLAN { get { return "CAST_UNIT.AREA_PLAN"; } }
             public static string CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
@@ -12466,7 +11769,6 @@
             public static string CAST_UNIT_WEIGHT_NET { get { return "CAST_UNIT.WEIGHT_NET"; } }
             public static string CAST_UNIT_VOLUME { get { return "CAST_UNIT.VOLUME"; } }
             public static string CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
             public static string CAST_UNIT_MAINPART_ACN { get { return "CAST_UNIT.MAINPART.ACN"; } }
             public static string CAST_UNIT_MAINPART_AREA { get { return "CAST_UNIT.MAINPART.AREA"; } }
             public static string CAST_UNIT_MAINPART_AREA_GROSS { get { return "CAST_UNIT.MAINPART.AREA_GROSS"; } }
@@ -12679,7 +11981,6 @@
             public static string CURRENT_DRAWING_TYPE { get { return "CURRENT_DRAWING.TYPE"; } }
             public static string CURRENT_DRAWING_WELD_DEFAULT { get { return "CURRENT_DRAWING.WELD_DEFAULT"; } }
             public static string CURRENT_DRAWING_WIDTH { get { return "CURRENT_DRAWING.WIDTH"; } }
-            public static string Drawing { get { return "Drawing"; } }
             public static string CURRENT_DRAWING_REVISION_CHECKED_BY { get { return "CURRENT_DRAWING.REVISION.CHECKED_BY"; } }
             public static string CURRENT_DRAWING_REVISION_CREATED_BY { get { return "CURRENT_DRAWING.REVISION.CREATED_BY"; } }
             public static string CURRENT_DRAWING_REVISION_DATE_CHECKED { get { return "CURRENT_DRAWING.REVISION.DATE_CHECKED"; } }
@@ -12704,34 +12005,10 @@
             public static string CURRENT_DRAWING_REVISION_MARK { get { return "CURRENT_DRAWING.REVISION.MARK"; } }
             public static string CURRENT_DRAWING_REVISION_NUMBER_1 { get { return "CURRENT_DRAWING.REVISION.NUMBER#1"; } }
             public static string CURRENT_DRAWING_REVISION_APPROVED_BY { get { return "CURRENT_DRAWING.REVISION.APPROVED_BY"; } }
-
             public static string DRAWING_CONTENTTYPE { get { return "DRAWING.CONTENTTYPE"; } }
-            public static string DRAWING_DATE_CREATE { get { return "DRAWING.DATE_CREATE"; } }
-            public static string DRAWING_DATE_ISSUE { get { return "DRAWING.DATE_ISSUE"; } }
-            public static string DRAWING_DATE_MODIFY { get { return "DRAWING.DATE_MODIFY"; } }
-            public static string DRAWING_DATE_PLOT { get { return "DRAWING.DATE_PLOT"; } }
             public static string DRAWING_DR_DEFAULT_HOLE_SIZE { get { return "DRAWING.DR_DEFAULT_HOLE_SIZE"; } }
             public static string DRAWING_DR_DEFAULT_WELD_SIZE { get { return "DRAWING.DR_DEFAULT_WELD_SIZE"; } }
-            public static string DRAWING_DR_PART_POS { get { return "DRAWING.DR_PART_POS"; } }
-            public static string DRAWING_HEIGHT { get { return "DRAWING.HEIGHT"; } }
-            public static string DRAWING_ID { get { return "DRAWING.ID"; } }
-            public static string DRAWING_NAME { get { return "DRAWING.NAME"; } }
-            public static string DRAWING_NAME_BASE { get { return "DRAWING.NAME_BASE"; } }
-            public static string DRAWING_PLOTFILE { get { return "DRAWING.PLOTFILE"; } }
-            public static string DRAWING_SCALE1 { get { return "DRAWING.SCALE1"; } }
-            public static string DRAWING_SCALE2 { get { return "DRAWING.SCALE2"; } }
-            public static string DRAWING_SCALE3 { get { return "DRAWING.SCALE3"; } }
-            public static string DRAWING_SCALE4 { get { return "DRAWING.SCALE4"; } }
-            public static string DRAWING_SCALE5 { get { return "DRAWING.SCALE5"; } }
-            public static string DRAWING_SIZE { get { return "DRAWING.SIZE"; } }
-            public static string DRAWING_TITLE { get { return "DRAWING.TITLE"; } }
-            public static string DRAWING_TITLE1 { get { return "DRAWING.TITLE1"; } }
-            public static string DRAWING_TITLE2 { get { return "DRAWING.TITLE2"; } }
-            public static string DRAWING_TITLE3 { get { return "DRAWING.TITLE3"; } }
-            public static string DRAWING_TYPE { get { return "DRAWING.TYPE"; } }
             public static string DRAWING_WELD_DEFAULT { get { return "DRAWING.WELD_DEFAULT"; } }
-            public static string DRAWING_WIDTH { get { return "DRAWING.WIDTH"; } }
-
             public static string DRAWING_REVISION_CHECKED_BY { get { return "DRAWING.REVISION.CHECKED_BY"; } }
             public static string DRAWING_REVISION_CREATED_BY { get { return "DRAWING.REVISION.CREATED_BY"; } }
             public static string DRAWING_REVISION_DATE_CHECKED { get { return "DRAWING.REVISION.DATE_CHECKED"; } }
@@ -12756,156 +12033,27 @@
             public static string DRAWING_REVISION_MARK { get { return "DRAWING.REVISION.MARK"; } }
             public static string DRAWING_REVISION_NUMBER_1 { get { return "DRAWING.REVISION.NUMBER#1"; } }
             public static string DRAWING_REVISION_APPROVED_BY { get { return "DRAWING.REVISION.APPROVED_BY"; } }
-
-            public static string HISTORY_CREATED { get { return "HISTORY.CREATED"; } }
-            public static string HISTORY_CREATED_BY { get { return "HISTORY.CREATED_BY"; } }
-            public static string HISTORY_MODIFIED { get { return "HISTORY.MODIFIED"; } }
-            public static string HISTORY_MODIFIED_ACTION { get { return "HISTORY.MODIFIED_ACTION"; } }
-            public static string HISTORY_MODIFIED_BY { get { return "HISTORY.MODIFIED_BY"; } }
-            public static string HISTORY_OWNER { get { return "HISTORY.OWNER"; } }
-            public static string HISTORY_TOUCHED { get { return "HISTORY.TOUCHED"; } }
-            public static string HISTORY_TOUCHED_ACTION { get { return "HISTORY.TOUCHED_ACTION"; } }
-            public static string HISTORY_TOUCHED_BY { get { return "HISTORY.TOUCHED_BY"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-            public static string building { get { return "building"; } }
-            public static string LOGICAL_BUILDING_AREA_ID { get { return "LOGICAL_BUILDING_AREA.ID"; } }
-            public static string LOGICAL_BUILDING_AREA_NAME { get { return "LOGICAL_BUILDING_AREA.NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_GUID { get { return "LOGICAL_BUILDING_AREA.GUID"; } }
-            public static string LOGICAL_BUILDING_AREA_DEFINITION_NAME { get { return "LOGICAL_BUILDING_AREA.DEFINITION_NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_HIERARCHY_LEVEL { get { return "LOGICAL_BUILDING_AREA.HIERARCHY_LEVEL"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SITE { get { return "LOGICAL_BUILDING_AREA.LBA_SITE"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_BUILDING { get { return "LOGICAL_BUILDING_AREA.LBA_BUILDING"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SECTION { get { return "LOGICAL_BUILDING_AREA.LBA_SECTION"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_STOREY { get { return "LOGICAL_BUILDING_AREA.LBA_STOREY"; } }
-
             public static string OBJECT_TYPES_ID { get { return "OBJECT_TYPES.ID"; } }
             public static string OBJECT_TYPES_NAME { get { return "OBJECT_TYPES.NAME"; } }
             public static string OBJECT_TYPES_GUID { get { return "OBJECT_TYPES.GUID"; } }
             public static string OBJECT_TYPES_DEFINITION_NAME { get { return "OBJECT_TYPES.DEFINITION_NAME"; } }
             public static string OBJECT_TYPES_HIERARCHY_LEVEL { get { return "OBJECT_TYPES.HIERARCHY_LEVEL"; } }
             public static string OBJECT_TYPES_ROOT_DEFINITION_NAME { get { return "OBJECT_TYPES.ROOT_DEFINITION_NAME"; } }
-
-
-
-
-
-
-
-            public static string building { get { return "building"; } }
-            public static string LOGICAL_BUILDING_AREA_ID { get { return "LOGICAL_BUILDING_AREA.ID"; } }
-            public static string LOGICAL_BUILDING_AREA_NAME { get { return "LOGICAL_BUILDING_AREA.NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_GUID { get { return "LOGICAL_BUILDING_AREA.GUID"; } }
-            public static string LOGICAL_BUILDING_AREA_DEFINITION_NAME { get { return "LOGICAL_BUILDING_AREA.DEFINITION_NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_HIERARCHY_LEVEL { get { return "LOGICAL_BUILDING_AREA.HIERARCHY_LEVEL"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SITE { get { return "LOGICAL_BUILDING_AREA.LBA_SITE"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_BUILDING { get { return "LOGICAL_BUILDING_AREA.LBA_BUILDING"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SECTION { get { return "LOGICAL_BUILDING_AREA.LBA_SECTION"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_STOREY { get { return "LOGICAL_BUILDING_AREA.LBA_STOREY"; } }
-
-
-
-
-
-            public static string AREA_PROJECTION_GXY_NET { get { return "AREA_PROJECTION_GXY_NET"; } }
-            public static string AREA_PROJECTION_GXZ_NET { get { return "AREA_PROJECTION_GXZ_NET"; } }
-            public static string AREA_PROJECTION_GYZ_NET { get { return "AREA_PROJECTION_GYZ_NET"; } }
-            public static string AREA_PGZ { get { return "AREA_PGZ"; } }
-            public static string AREA_NGZ { get { return "AREA_NGZ"; } }
-            public static string AREA_PGX { get { return "AREA_PGX"; } }
-            public static string AREA_NGX { get { return "AREA_NGX"; } }
-            public static string AREA_PGY { get { return "AREA_PGY"; } }
-            public static string AREA_NGY { get { return "AREA_NGY"; } }
-
-
-
-
-
-
-
-
-
-
-            public static string POUR_PHASE { get { return "POUR_PHASE"; } }
-            public static string building { get { return "building"; } }
-            public static string LOGICAL_BUILDING_AREA_ID { get { return "LOGICAL_BUILDING_AREA.ID"; } }
-            public static string LOGICAL_BUILDING_AREA_NAME { get { return "LOGICAL_BUILDING_AREA.NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_GUID { get { return "LOGICAL_BUILDING_AREA.GUID"; } }
-            public static string LOGICAL_BUILDING_AREA_DEFINITION_NAME { get { return "LOGICAL_BUILDING_AREA.DEFINITION_NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_HIERARCHY_LEVEL { get { return "LOGICAL_BUILDING_AREA.HIERARCHY_LEVEL"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SITE { get { return "LOGICAL_BUILDING_AREA.LBA_SITE"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_BUILDING { get { return "LOGICAL_BUILDING_AREA.LBA_BUILDING"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SECTION { get { return "LOGICAL_BUILDING_AREA.LBA_SECTION"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_STOREY { get { return "LOGICAL_BUILDING_AREA.LBA_STOREY"; } }
-
-
-
-
-            public static string ADDRESS { get { return "ADDRESS"; } }
             public static string BUILDER { get { return "BUILDER"; } }
-            public static string DATE { get { return "DATE"; } }
             public static string DATE_END { get { return "DATE_END"; } }
             public static string DATE_START { get { return "DATE_START"; } }
             public static string DESIGNER { get { return "DESIGNER"; } }
             public static string INFO1 { get { return "INFO1"; } }
             public static string INFO2 { get { return "INFO2"; } }
             public static string MODEL { get { return "MODEL"; } }
-            public static string NAME { get { return "NAME"; } }
             public static string NUMBER_2 { get { return "NUMBER#2"; } }
             public static string OBJECT { get { return "OBJECT"; } }
-            public static string TIME { get { return "TIME"; } }
-
-
-
-
-            public static string ANG_S { get { return "ANG_S"; } }
-            public static string ANG_T { get { return "ANG_T"; } }
-            public static string ANG_U { get { return "ANG_U"; } }
             public static string ANG_U_MAX { get { return "ANG_U_MAX"; } }
             public static string ANG_U_MIN { get { return "ANG_U_MIN"; } }
-            public static string ANG_V { get { return "ANG_V"; } }
             public static string ANG_V_MAX { get { return "ANG_V_MAX"; } }
             public static string ANG_V_MIN { get { return "ANG_V_MIN"; } }
             public static string CAST_UNIT_POS { get { return "CAST_UNIT_POS"; } }
-            public static string CC { get { return "CC"; } }
-            public static string CC_EXACT { get { return "CC_EXACT"; } }
-            public static string CC_MAX { get { return "CC_MAX"; } }
-            public static string CC_MIN { get { return "CC_MIN"; } }
             public static string CC_TARGET { get { return "CC_TARGET"; } }
-            public static string CLASS { get { return "CLASS"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string DIM_A { get { return "DIM_A"; } }
-            public static string DIM_B { get { return "DIM_B"; } }
-            public static string DIM_C { get { return "DIM_C"; } }
-            public static string DIM_D { get { return "DIM_D"; } }
-            public static string DIM_E { get { return "DIM_E"; } }
-            public static string DIM_F { get { return "DIM_F"; } }
-            public static string DIM_G { get { return "DIM_G"; } }
-            public static string DIM_H1 { get { return "DIM_H1"; } }
-            public static string DIM_H2 { get { return "DIM_H2"; } }
-            public static string DIM_I { get { return "DIM_I"; } }
-            public static string DIM_J { get { return "DIM_J"; } }
-            public static string DIM_K1 { get { return "DIM_K1"; } }
-            public static string DIM_K2 { get { return "DIM_K2"; } }
-            public static string DIM_O { get { return "DIM_O"; } }
-            public static string DIM_R { get { return "DIM_R"; } }
-            public static string DIM_TD { get { return "DIM_TD"; } }
-            public static string DIM_X { get { return "DIM_X"; } }
-            public static string DIM_Y { get { return "DIM_Y"; } }
-            public static string DIM_R_ALL { get { return "DIM_R_ALL"; } }
             public static string DIM_A_MAX { get { return "DIM_A_MAX"; } }
             public static string DIM_B_MAX { get { return "DIM_B_MAX"; } }
             public static string DIM_C_MAX { get { return "DIM_C_MAX"; } }
@@ -12944,9 +12092,6 @@
             public static string DIM_Y_MIN { get { return "DIM_Y_MIN"; } }
             public static string DIAMETER_ACTUAL { get { return "DIAMETER_ACTUAL"; } }
             public static string DIAMETER_NOMINAL { get { return "DIAMETER_NOMINAL"; } }
-            public static string GRADE { get { return "GRADE"; } }
-            public static string GROUP_TYPE { get { return "GROUP_TYPE"; } }
-            public static string GUID { get { return "GUID"; } }
             public static string HOOK_END { get { return "HOOK_END"; } }
             public static string HOOK_END_ANGLE { get { return "HOOK_END_ANGLE"; } }
             public static string HOOK_END_RADIUS { get { return "HOOK_END_RADIUS"; } }
@@ -12955,66 +12100,17 @@
             public static string HOOK_START_ANGLE { get { return "HOOK_START_ANGLE"; } }
             public static string HOOK_START_RADIUS { get { return "HOOK_START_RADIUS"; } }
             public static string HOOK_START_LENGTH { get { return "HOOK_START_LENGTH"; } }
-            public static string ID { get { return "ID"; } }
-            public static string IS_CONCEPTUAL { get { return "IS_CONCEPTUAL"; } }
-            public static string LENGTH { get { return "LENGTH"; } }
-            public static string LENGTH_GROSS { get { return "LENGTH_GROSS"; } }
             public static string LENGTH_MAX { get { return "LENGTH_MAX"; } }
             public static string LENGTH_MIN { get { return "LENGTH_MIN"; } }
-            public static string MATERIAL { get { return "MATERIAL"; } }
-            public static string MODEL_TOTAL { get { return "MODEL_TOTAL"; } }
-            public static string NAME { get { return "NAME"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
-            public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
-            public static string OBJECT_LOCKED { get { return "OBJECT_LOCKED"; } }
-            public static string OBJECT_TYPE { get { return "OBJECT_TYPE"; } }
-            public static string OWNER { get { return "OWNER"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
             public static string PREFIX { get { return "PREFIX"; } }
-            public static string PULLOUT { get { return "PULLOUT"; } }
             public static string REBAR_POS { get { return "REBAR_POS"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
             public static string SERIAL_NUMBER { get { return "SERIAL_NUMBER"; } }
             public static string START_NUMBER { get { return "START_NUMBER"; } }
-            public static string SHAPE { get { return "SHAPE"; } }
             public static string SHAPE_INTERNAL { get { return "SHAPE_INTERNAL"; } }
-            public static string SIZE { get { return "SIZE"; } }
             public static string STRAND_PULL_FORCE { get { return "STRAND_PULL_FORCE"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-            public static string WEIGHT { get { return "WEIGHT"; } }
             public static string WEIGHT_MAX { get { return "WEIGHT_MAX"; } }
             public static string WEIGHT_MIN { get { return "WEIGHT_MIN"; } }
             public static string WEIGHT_TOTAL { get { return "WEIGHT_TOTAL"; } }
-
-            public static string HISTORY_CREATED { get { return "HISTORY.CREATED"; } }
-            public static string HISTORY_CREATED_BY { get { return "HISTORY.CREATED_BY"; } }
-            public static string HISTORY_MODIFIED { get { return "HISTORY.MODIFIED"; } }
-            public static string HISTORY_MODIFIED_ACTION { get { return "HISTORY.MODIFIED_ACTION"; } }
-            public static string HISTORY_MODIFIED_BY { get { return "HISTORY.MODIFIED_BY"; } }
-            public static string HISTORY_OWNER { get { return "HISTORY.OWNER"; } }
-            public static string HISTORY_TOUCHED { get { return "HISTORY.TOUCHED"; } }
-            public static string HISTORY_TOUCHED_ACTION { get { return "HISTORY.TOUCHED_ACTION"; } }
-            public static string HISTORY_TOUCHED_BY { get { return "HISTORY.TOUCHED_BY"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
             public static string PART_ACN { get { return "PART.ACN"; } }
             public static string PART_AREA { get { return "PART.AREA"; } }
             public static string PART_AREA_GROSS { get { return "PART.AREA_GROSS"; } }
@@ -13232,153 +12328,11 @@
             public static string PART_VOLUME { get { return "PART.VOLUME"; } }
             public static string PART_VOLUME_GROSS { get { return "PART.VOLUME_GROSS"; } }
             public static string PART_VOLUME_NET { get { return "PART.VOLUME_NET"; } }
-            public static string building { get { return "building"; } }
-            public static string LOGICAL_BUILDING_AREA_ID { get { return "LOGICAL_BUILDING_AREA.ID"; } }
-            public static string LOGICAL_BUILDING_AREA_NAME { get { return "LOGICAL_BUILDING_AREA.NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_GUID { get { return "LOGICAL_BUILDING_AREA.GUID"; } }
-            public static string LOGICAL_BUILDING_AREA_DEFINITION_NAME { get { return "LOGICAL_BUILDING_AREA.DEFINITION_NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_HIERARCHY_LEVEL { get { return "LOGICAL_BUILDING_AREA.HIERARCHY_LEVEL"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SITE { get { return "LOGICAL_BUILDING_AREA.LBA_SITE"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_BUILDING { get { return "LOGICAL_BUILDING_AREA.LBA_BUILDING"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SECTION { get { return "LOGICAL_BUILDING_AREA.LBA_SECTION"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_STOREY { get { return "LOGICAL_BUILDING_AREA.LBA_STOREY"; } }
-
-
-
-
-
-
-            public static string BOUNDING_BOX_MIN_X { get { return "BOUNDING_BOX_MIN_X"; } }
-            public static string BOUNDING_BOX_MIN_Y { get { return "BOUNDING_BOX_MIN_Y"; } }
-            public static string BOUNDING_BOX_MIN_Z { get { return "BOUNDING_BOX_MIN_Z"; } }
-            public static string BOUNDING_BOX_MAX_X { get { return "BOUNDING_BOX_MAX_X"; } }
-            public static string BOUNDING_BOX_MAX_Y { get { return "BOUNDING_BOX_MAX_Y"; } }
-            public static string BOUNDING_BOX_MAX_Z { get { return "BOUNDING_BOX_MAX_Z"; } }
-            public static string building { get { return "building"; } }
-            public static string LOGICAL_BUILDING_AREA_ID { get { return "LOGICAL_BUILDING_AREA.ID"; } }
-            public static string LOGICAL_BUILDING_AREA_NAME { get { return "LOGICAL_BUILDING_AREA.NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_GUID { get { return "LOGICAL_BUILDING_AREA.GUID"; } }
-            public static string LOGICAL_BUILDING_AREA_DEFINITION_NAME { get { return "LOGICAL_BUILDING_AREA.DEFINITION_NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_HIERARCHY_LEVEL { get { return "LOGICAL_BUILDING_AREA.HIERARCHY_LEVEL"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SITE { get { return "LOGICAL_BUILDING_AREA.LBA_SITE"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_BUILDING { get { return "LOGICAL_BUILDING_AREA.LBA_BUILDING"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SECTION { get { return "LOGICAL_BUILDING_AREA.LBA_SECTION"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_STOREY { get { return "LOGICAL_BUILDING_AREA.LBA_STOREY"; } }
-
-            public static string OBJECT_TYPES_ID { get { return "OBJECT_TYPES.ID"; } }
-            public static string OBJECT_TYPES_NAME { get { return "OBJECT_TYPES.NAME"; } }
-            public static string OBJECT_TYPES_GUID { get { return "OBJECT_TYPES.GUID"; } }
-            public static string OBJECT_TYPES_DEFINITION_NAME { get { return "OBJECT_TYPES.DEFINITION_NAME"; } }
-            public static string OBJECT_TYPES_HIERARCHY_LEVEL { get { return "OBJECT_TYPES.HIERARCHY_LEVEL"; } }
-            public static string OBJECT_TYPES_ROOT_DEFINITION_NAME { get { return "OBJECT_TYPES.ROOT_DEFINITION_NAME"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-
-
-
-            public static string NAME { get { return "NAME"; } }
-            public static string BOUNDING_BOX_MIN_X { get { return "BOUNDING_BOX_MIN_X"; } }
-            public static string BOUNDING_BOX_MIN_Y { get { return "BOUNDING_BOX_MIN_Y"; } }
-            public static string BOUNDING_BOX_MIN_Z { get { return "BOUNDING_BOX_MIN_Z"; } }
-            public static string BOUNDING_BOX_MAX_X { get { return "BOUNDING_BOX_MAX_X"; } }
-            public static string BOUNDING_BOX_MAX_Y { get { return "BOUNDING_BOX_MAX_Y"; } }
-            public static string BOUNDING_BOX_MAX_Z { get { return "BOUNDING_BOX_MAX_Z"; } }
-            public static string building { get { return "building"; } }
-            public static string LOGICAL_BUILDING_AREA_ID { get { return "LOGICAL_BUILDING_AREA.ID"; } }
-            public static string LOGICAL_BUILDING_AREA_NAME { get { return "LOGICAL_BUILDING_AREA.NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_GUID { get { return "LOGICAL_BUILDING_AREA.GUID"; } }
-            public static string LOGICAL_BUILDING_AREA_DEFINITION_NAME { get { return "LOGICAL_BUILDING_AREA.DEFINITION_NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_HIERARCHY_LEVEL { get { return "LOGICAL_BUILDING_AREA.HIERARCHY_LEVEL"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SITE { get { return "LOGICAL_BUILDING_AREA.LBA_SITE"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_BUILDING { get { return "LOGICAL_BUILDING_AREA.LBA_BUILDING"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SECTION { get { return "LOGICAL_BUILDING_AREA.LBA_SECTION"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_STOREY { get { return "LOGICAL_BUILDING_AREA.LBA_STOREY"; } }
-
-            public static string OBJECT_TYPES_ID { get { return "OBJECT_TYPES.ID"; } }
-            public static string OBJECT_TYPES_NAME { get { return "OBJECT_TYPES.NAME"; } }
-            public static string OBJECT_TYPES_GUID { get { return "OBJECT_TYPES.GUID"; } }
-            public static string OBJECT_TYPES_DEFINITION_NAME { get { return "OBJECT_TYPES.DEFINITION_NAME"; } }
-            public static string OBJECT_TYPES_HIERARCHY_LEVEL { get { return "OBJECT_TYPES.HIERARCHY_LEVEL"; } }
-            public static string OBJECT_TYPES_ROOT_DEFINITION_NAME { get { return "OBJECT_TYPES.ROOT_DEFINITION_NAME"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-
-
-
-            public static string NAME { get { return "NAME"; } }
-            public static string BOUNDING_BOX_MIN_X { get { return "BOUNDING_BOX_MIN_X"; } }
-            public static string BOUNDING_BOX_MIN_Y { get { return "BOUNDING_BOX_MIN_Y"; } }
-            public static string BOUNDING_BOX_MIN_Z { get { return "BOUNDING_BOX_MIN_Z"; } }
-            public static string BOUNDING_BOX_MAX_X { get { return "BOUNDING_BOX_MAX_X"; } }
-            public static string BOUNDING_BOX_MAX_Y { get { return "BOUNDING_BOX_MAX_Y"; } }
-            public static string BOUNDING_BOX_MAX_Z { get { return "BOUNDING_BOX_MAX_Z"; } }
-            public static string building { get { return "building"; } }
-            public static string LOGICAL_BUILDING_AREA_ID { get { return "LOGICAL_BUILDING_AREA.ID"; } }
-            public static string LOGICAL_BUILDING_AREA_NAME { get { return "LOGICAL_BUILDING_AREA.NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_GUID { get { return "LOGICAL_BUILDING_AREA.GUID"; } }
-            public static string LOGICAL_BUILDING_AREA_DEFINITION_NAME { get { return "LOGICAL_BUILDING_AREA.DEFINITION_NAME"; } }
-            public static string LOGICAL_BUILDING_AREA_HIERARCHY_LEVEL { get { return "LOGICAL_BUILDING_AREA.HIERARCHY_LEVEL"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SITE { get { return "LOGICAL_BUILDING_AREA.LBA_SITE"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_BUILDING { get { return "LOGICAL_BUILDING_AREA.LBA_BUILDING"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_SECTION { get { return "LOGICAL_BUILDING_AREA.LBA_SECTION"; } }
-            public static string LOGICAL_BUILDING_AREA_LBA_STOREY { get { return "LOGICAL_BUILDING_AREA.LBA_STOREY"; } }
-
-            public static string OBJECT_TYPES_ID { get { return "OBJECT_TYPES.ID"; } }
-            public static string OBJECT_TYPES_NAME { get { return "OBJECT_TYPES.NAME"; } }
-            public static string OBJECT_TYPES_GUID { get { return "OBJECT_TYPES.GUID"; } }
-            public static string OBJECT_TYPES_DEFINITION_NAME { get { return "OBJECT_TYPES.DEFINITION_NAME"; } }
-            public static string OBJECT_TYPES_HIERARCHY_LEVEL { get { return "OBJECT_TYPES.HIERARCHY_LEVEL"; } }
-            public static string OBJECT_TYPES_ROOT_DEFINITION_NAME { get { return "OBJECT_TYPES.ROOT_DEFINITION_NAME"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-
-
-
             public static string CHECKED_BY { get { return "CHECKED_BY"; } }
             public static string CREATED_BY { get { return "CREATED_BY"; } }
             public static string DATE_CHECKED { get { return "DATE_CHECKED"; } }
-            public static string DATE_CREATE { get { return "DATE_CREATE"; } }
             public static string DATE_APPROVED { get { return "DATE_APPROVED"; } }
             public static string DELIVERY { get { return "DELIVERY"; } }
-            public static string DESCRIPTION { get { return "DESCRIPTION"; } }
-            public static string INFO1 { get { return "INFO1"; } }
-            public static string INFO2 { get { return "INFO2"; } }
             public static string LAST { get { return "LAST"; } }
             public static string LAST_CHECKED_BY { get { return "LAST_CHECKED_BY"; } }
             public static string LAST_CREATED_BY { get { return "LAST_CREATED_BY"; } }
@@ -13392,1539 +12346,24 @@
             public static string LAST_MARK { get { return "LAST_MARK"; } }
             public static string LAST_APPROVED_BY { get { return "LAST_APPROVED_BY"; } }
             public static string MARK { get { return "MARK"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
             public static string APPROVED_BY { get { return "APPROVED_BY"; } }
-
-
-
-
-            public static string AREA { get { return "AREA"; } }
-            public static string AREA_PLAN { get { return "AREA_PLAN"; } }
-            public static string AREA_PROJECTION_GXY_NET { get { return "AREA_PROJECTION_GXY_NET"; } }
-            public static string AREA_PROJECTION_GXZ_NET { get { return "AREA_PROJECTION_GXZ_NET"; } }
-            public static string AREA_PROJECTION_GYZ_NET { get { return "AREA_PROJECTION_GYZ_NET"; } }
-            public static string AREA_PROJECTION_GXY_GROSS { get { return "AREA_PROJECTION_GXY_GROSS"; } }
-            public static string AREA_PROJECTION_GXZ_GROSS { get { return "AREA_PROJECTION_GXZ_GROSS"; } }
-            public static string AREA_PROJECTION_GYZ_GROSS { get { return "AREA_PROJECTION_GYZ_GROSS"; } }
-            public static string AREA_PROJECTION_XY_NET { get { return "AREA_PROJECTION_XY_NET"; } }
-            public static string AREA_PROJECTION_XZ_NET { get { return "AREA_PROJECTION_XZ_NET"; } }
-            public static string AREA_PROJECTION_YZ_NET { get { return "AREA_PROJECTION_YZ_NET"; } }
-            public static string AREA_PROJECTION_XY_GROSS { get { return "AREA_PROJECTION_XY_GROSS"; } }
-            public static string AREA_PROJECTION_XZ_GROSS { get { return "AREA_PROJECTION_XZ_GROSS"; } }
-            public static string AREA_PROJECTION_YZ_GROSS { get { return "AREA_PROJECTION_YZ_GROSS"; } }
-            public static string AREA_PGZ { get { return "AREA_PGZ"; } }
-            public static string AREA_NGZ { get { return "AREA_NGZ"; } }
-            public static string AREA_PGX { get { return "AREA_PGX"; } }
-            public static string AREA_NGX { get { return "AREA_NGX"; } }
-            public static string AREA_PGY { get { return "AREA_PGY"; } }
-            public static string AREA_NGY { get { return "AREA_NGY"; } }
-            public static string AREA_PZ { get { return "AREA_PZ"; } }
-            public static string AREA_NZ { get { return "AREA_NZ"; } }
-            public static string AREA_PX { get { return "AREA_PX"; } }
-            public static string AREA_NX { get { return "AREA_NX"; } }
-            public static string AREA_PY { get { return "AREA_PY"; } }
-            public static string AREA_NY { get { return "AREA_NY"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL { get { return "ASSEMBLY_BOTTOM_LEVEL"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "ASSEMBLY_BOTTOM_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
             public static string ASSEMBLY_NAME { get { return "ASSEMBLY_NAME"; } }
             public static string ASSEMBLY_PLWEIGHT { get { return "ASSEMBLY_PLWEIGHT"; } }
-            public static string ASSEMBLY_POS { get { return "ASSEMBLY_POS"; } }
             public static string ASSEMBLY_POSITION_CODE { get { return "ASSEMBLY_POSITION_CODE"; } }
             public static string ASSEMBLY_PREFIX { get { return "ASSEMBLY_PREFIX"; } }
             public static string ASSEMBLY_SERIAL_NUMBER { get { return "ASSEMBLY_SERIAL_NUMBER"; } }
-            public static string ASSEMBLY_START_NUMBER { get { return "ASSEMBLY_START_NUMBER"; } }
-            public static string ASSEMBLY_TOP_LEVEL { get { return "ASSEMBLY_TOP_LEVEL"; } }
-            public static string ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string BOTTOM_LEVEL { get { return "BOTTOM_LEVEL"; } }
-            public static string BOTTOM_LEVEL_GLOBAL { get { return "BOTTOM_LEVEL_GLOBAL"; } }
-            public static string BOTTOM_LEVEL_UNFORMATTED { get { return "BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string COG_X { get { return "COG_X"; } }
-            public static string COG_Y { get { return "COG_Y"; } }
-            public static string COG_Z { get { return "COG_Z"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string DR_PART_POS { get { return "DR_PART_POS"; } }
-            public static string GUID { get { return "GUID"; } }
-            public static string HIERARCHY_LEVEL { get { return "HIERARCHY_LEVEL"; } }
-            public static string ID { get { return "ID"; } }
-            public static string LENGTH { get { return "LENGTH"; } }
-            public static string LENGTH_GROSS { get { return "LENGTH_GROSS"; } }
-            public static string LENGTH_NET { get { return "LENGTH_NET"; } }
             public static string LOT_NAME { get { return "LOT_NAME"; } }
             public static string LOT_NUMBER { get { return "LOT_NUMBER"; } }
-            public static string MATERIAL_TYPE { get { return "MATERIAL_TYPE"; } }
-            public static string MODEL_TOTAL { get { return "MODEL_TOTAL"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
-            public static string NUMBER_IN_PHASE_X_ { get { return "NUMBER_IN_PHASE(X)"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
             public static string PRELIM_ASSEM_MARK { get { return "PRELIM_ASSEM_MARK"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string SUPPLEMENT_PART_WEIGHT { get { return "SUPPLEMENT_PART_WEIGHT"; } }
-            public static string TOP_LEVEL { get { return "TOP_LEVEL"; } }
-            public static string TOP_LEVEL_GLOBAL { get { return "TOP_LEVEL_GLOBAL"; } }
-            public static string TOP_LEVEL_UNFORMATTED { get { return "TOP_LEVEL_UNFORMATTED"; } }
-            public static string TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-            public static string WEIGHT { get { return "WEIGHT"; } }
-            public static string WEIGHT_GROSS { get { return "WEIGHT_GROSS"; } }
-            public static string WEIGHT_NET { get { return "WEIGHT_NET"; } }
-            public static string VOLUME { get { return "VOLUME"; } }
-
-            public static string DRAWING_CONTENTTYPE { get { return "DRAWING.CONTENTTYPE"; } }
-            public static string DRAWING_DATE_CREATE { get { return "DRAWING.DATE_CREATE"; } }
-            public static string DRAWING_DATE_ISSUE { get { return "DRAWING.DATE_ISSUE"; } }
-            public static string DRAWING_DATE_MODIFY { get { return "DRAWING.DATE_MODIFY"; } }
-            public static string DRAWING_DATE_PLOT { get { return "DRAWING.DATE_PLOT"; } }
-            public static string DRAWING_DR_DEFAULT_HOLE_SIZE { get { return "DRAWING.DR_DEFAULT_HOLE_SIZE"; } }
-            public static string DRAWING_DR_DEFAULT_WELD_SIZE { get { return "DRAWING.DR_DEFAULT_WELD_SIZE"; } }
-            public static string DRAWING_DR_PART_POS { get { return "DRAWING.DR_PART_POS"; } }
-            public static string DRAWING_HEIGHT { get { return "DRAWING.HEIGHT"; } }
-            public static string DRAWING_ID { get { return "DRAWING.ID"; } }
-            public static string DRAWING_NAME { get { return "DRAWING.NAME"; } }
-            public static string DRAWING_NAME_BASE { get { return "DRAWING.NAME_BASE"; } }
-            public static string DRAWING_PLOTFILE { get { return "DRAWING.PLOTFILE"; } }
-            public static string DRAWING_SCALE1 { get { return "DRAWING.SCALE1"; } }
-            public static string DRAWING_SCALE2 { get { return "DRAWING.SCALE2"; } }
-            public static string DRAWING_SCALE3 { get { return "DRAWING.SCALE3"; } }
-            public static string DRAWING_SCALE4 { get { return "DRAWING.SCALE4"; } }
-            public static string DRAWING_SCALE5 { get { return "DRAWING.SCALE5"; } }
-            public static string DRAWING_SIZE { get { return "DRAWING.SIZE"; } }
-            public static string DRAWING_TITLE { get { return "DRAWING.TITLE"; } }
-            public static string DRAWING_TITLE1 { get { return "DRAWING.TITLE1"; } }
-            public static string DRAWING_TITLE2 { get { return "DRAWING.TITLE2"; } }
-            public static string DRAWING_TITLE3 { get { return "DRAWING.TITLE3"; } }
-            public static string DRAWING_TYPE { get { return "DRAWING.TYPE"; } }
-            public static string DRAWING_WELD_DEFAULT { get { return "DRAWING.WELD_DEFAULT"; } }
-            public static string DRAWING_WIDTH { get { return "DRAWING.WIDTH"; } }
-
-            public static string DRAWING_REVISION_CHECKED_BY { get { return "DRAWING.REVISION.CHECKED_BY"; } }
-            public static string DRAWING_REVISION_CREATED_BY { get { return "DRAWING.REVISION.CREATED_BY"; } }
-            public static string DRAWING_REVISION_DATE_CHECKED { get { return "DRAWING.REVISION.DATE_CHECKED"; } }
-            public static string DRAWING_REVISION_DATE_CREATE { get { return "DRAWING.REVISION.DATE_CREATE"; } }
-            public static string DRAWING_REVISION_DATE_APPROVED { get { return "DRAWING.REVISION.DATE_APPROVED"; } }
-            public static string DRAWING_REVISION_DELIVERY { get { return "DRAWING.REVISION.DELIVERY"; } }
-            public static string DRAWING_REVISION_DESCRIPTION { get { return "DRAWING.REVISION.DESCRIPTION"; } }
-            public static string DRAWING_REVISION_INFO1 { get { return "DRAWING.REVISION.INFO1"; } }
-            public static string DRAWING_REVISION_INFO2 { get { return "DRAWING.REVISION.INFO2"; } }
-            public static string DRAWING_REVISION_LAST { get { return "DRAWING.REVISION.LAST"; } }
-            public static string DRAWING_REVISION_LAST_CHECKED_BY { get { return "DRAWING.REVISION.LAST_CHECKED_BY"; } }
-            public static string DRAWING_REVISION_LAST_CREATED_BY { get { return "DRAWING.REVISION.LAST_CREATED_BY"; } }
-            public static string DRAWING_REVISION_LAST_DATE_CHECKED { get { return "DRAWING.REVISION.LAST_DATE_CHECKED"; } }
-            public static string DRAWING_REVISION_LAST_DATE_CREATE { get { return "DRAWING.REVISION.LAST_DATE_CREATE"; } }
-            public static string DRAWING_REVISION_LAST_DATE_APPROVED { get { return "DRAWING.REVISION.LAST_DATE_APPROVED"; } }
-            public static string DRAWING_REVISION_LAST_DELIVERY { get { return "DRAWING.REVISION.LAST_DELIVERY"; } }
-            public static string DRAWING_REVISION_LAST_DESCRIPTION { get { return "DRAWING.REVISION.LAST_DESCRIPTION"; } }
-            public static string DRAWING_REVISION_LAST_INFO1 { get { return "DRAWING.REVISION.LAST_INFO1"; } }
-            public static string DRAWING_REVISION_LAST_INFO2 { get { return "DRAWING.REVISION.LAST_INFO2"; } }
-            public static string DRAWING_REVISION_LAST_MARK { get { return "DRAWING.REVISION.LAST_MARK"; } }
-            public static string DRAWING_REVISION_LAST_APPROVED_BY { get { return "DRAWING.REVISION.LAST_APPROVED_BY"; } }
-            public static string DRAWING_REVISION_MARK { get { return "DRAWING.REVISION.MARK"; } }
-            public static string DRAWING_REVISION_NUMBER_1 { get { return "DRAWING.REVISION.NUMBER#1"; } }
-            public static string DRAWING_REVISION_APPROVED_BY { get { return "DRAWING.REVISION.APPROVED_BY"; } }
-
-            public static string MAINPART_ACN { get { return "MAINPART.ACN"; } }
-            public static string MAINPART_AREA { get { return "MAINPART.AREA"; } }
-            public static string MAINPART_AREA_GROSS { get { return "MAINPART.AREA_GROSS"; } }
-            public static string MAINPART_AREA_NET { get { return "MAINPART.AREA_NET"; } }
-            public static string MAINPART_AREA_PER_TONS { get { return "MAINPART.AREA_PER_TONS"; } }
-            public static string MAINPART_AREA_PLAN { get { return "MAINPART.AREA_PLAN"; } }
-            public static string MAINPART_AREA_PROJECTION_GXY_NET { get { return "MAINPART.AREA_PROJECTION_GXY_NET"; } }
-            public static string MAINPART_AREA_PROJECTION_GXZ_NET { get { return "MAINPART.AREA_PROJECTION_GXZ_NET"; } }
-            public static string MAINPART_AREA_PROJECTION_GYZ_NET { get { return "MAINPART.AREA_PROJECTION_GYZ_NET"; } }
-            public static string MAINPART_AREA_PROJECTION_GXY_GROSS { get { return "MAINPART.AREA_PROJECTION_GXY_GROSS"; } }
-            public static string MAINPART_AREA_PROJECTION_GXZ_GROSS { get { return "MAINPART.AREA_PROJECTION_GXZ_GROSS"; } }
-            public static string MAINPART_AREA_PROJECTION_GYZ_GROSS { get { return "MAINPART.AREA_PROJECTION_GYZ_GROSS"; } }
-            public static string MAINPART_AREA_PROJECTION_XY_NET { get { return "MAINPART.AREA_PROJECTION_XY_NET"; } }
-            public static string MAINPART_AREA_PROJECTION_XZ_NET { get { return "MAINPART.AREA_PROJECTION_XZ_NET"; } }
-            public static string MAINPART_AREA_PROJECTION_YZ_NET { get { return "MAINPART.AREA_PROJECTION_YZ_NET"; } }
-            public static string MAINPART_AREA_PROJECTION_XY_GROSS { get { return "MAINPART.AREA_PROJECTION_XY_GROSS"; } }
-            public static string MAINPART_AREA_PROJECTION_XZ_GROSS { get { return "MAINPART.AREA_PROJECTION_XZ_GROSS"; } }
-            public static string MAINPART_AREA_PROJECTION_YZ_GROSS { get { return "MAINPART.AREA_PROJECTION_YZ_GROSS"; } }
-            public static string MAINPART_AREA_PGZ { get { return "MAINPART.AREA_PGZ"; } }
-            public static string MAINPART_AREA_NGZ { get { return "MAINPART.AREA_NGZ"; } }
-            public static string MAINPART_AREA_PGX { get { return "MAINPART.AREA_PGX"; } }
-            public static string MAINPART_AREA_NGX { get { return "MAINPART.AREA_NGX"; } }
-            public static string MAINPART_AREA_PGY { get { return "MAINPART.AREA_PGY"; } }
-            public static string MAINPART_AREA_NGY { get { return "MAINPART.AREA_NGY"; } }
-            public static string MAINPART_AREA_PZ { get { return "MAINPART.AREA_PZ"; } }
-            public static string MAINPART_AREA_NZ { get { return "MAINPART.AREA_NZ"; } }
-            public static string MAINPART_AREA_PX { get { return "MAINPART.AREA_PX"; } }
-            public static string MAINPART_AREA_NX { get { return "MAINPART.AREA_NX"; } }
-            public static string MAINPART_AREA_PY { get { return "MAINPART.AREA_PY"; } }
-            public static string MAINPART_AREA_NY { get { return "MAINPART.AREA_NY"; } }
-            public static string MAINPART_ASSEMBLY_DEFAULT_PREFIX { get { return "MAINPART.ASSEMBLY_DEFAULT_PREFIX"; } }
-            public static string MAINPART_BOTTOM_LEVEL { get { return "MAINPART.BOTTOM_LEVEL"; } }
-            public static string MAINPART_BOTTOM_LEVEL_GLOBAL { get { return "MAINPART.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string MAINPART_BOTTOM_LEVEL_UNFORMATTED { get { return "MAINPART.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string MAINPART_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "MAINPART.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string MAINPART_CLASS_ATTR { get { return "MAINPART.CLASS_ATTR"; } }
-            public static string MAINPART_COG_X { get { return "MAINPART.COG_X"; } }
-            public static string MAINPART_COG_Y { get { return "MAINPART.COG_Y"; } }
-            public static string MAINPART_COG_Z { get { return "MAINPART.COG_Z"; } }
-            public static string MAINPART_CURVED_SEGMENTS { get { return "MAINPART.CURVED_SEGMENTS"; } }
-            public static string MAINPART_END_X { get { return "MAINPART.END_X"; } }
-            public static string MAINPART_END_Y { get { return "MAINPART.END_Y"; } }
-            public static string MAINPART_END_Z { get { return "MAINPART.END_Z"; } }
-            public static string MAINPART_END_X_IN_WORK_PLANE { get { return "MAINPART.END_X_IN_WORK_PLANE"; } }
-            public static string MAINPART_END_Y_IN_WORK_PLANE { get { return "MAINPART.END_Y_IN_WORK_PLANE"; } }
-            public static string MAINPART_END_Z_IN_WORK_PLANE { get { return "MAINPART.END_Z_IN_WORK_PLANE"; } }
-            public static string MAINPART_END1_ANGLE_Y { get { return "MAINPART.END1_ANGLE_Y"; } }
-            public static string MAINPART_END1_ANGLE_Z { get { return "MAINPART.END1_ANGLE_Z"; } }
-            public static string MAINPART_END1_CODE { get { return "MAINPART.END1_CODE"; } }
-            public static string MAINPART_END1_SKEW { get { return "MAINPART.END1_SKEW"; } }
-            public static string MAINPART_END2_ANGLE_Y { get { return "MAINPART.END2_ANGLE_Y"; } }
-            public static string MAINPART_END2_ANGLE_Z { get { return "MAINPART.END2_ANGLE_Z"; } }
-            public static string MAINPART_END2_CODE { get { return "MAINPART.END2_CODE"; } }
-            public static string MAINPART_END2_SKEW { get { return "MAINPART.END2_SKEW"; } }
-            public static string MAINPART_FINISH { get { return "MAINPART.FINISH"; } }
-            public static string MAINPART_FLANGE_LENGTH_B { get { return "MAINPART.FLANGE_LENGTH_B"; } }
-            public static string MAINPART_FLANGE_LENGTH_U { get { return "MAINPART.FLANGE_LENGTH_U"; } }
-            public static string MAINPART_GUID { get { return "MAINPART.GUID"; } }
-            public static string MAINPART_HAS_CONNECTIONS { get { return "MAINPART.HAS_CONNECTIONS"; } }
-            public static string MAINPART_HAS_HOLES { get { return "MAINPART.HAS_HOLES"; } }
-            public static string MAINPART_HEIGHT { get { return "MAINPART.HEIGHT"; } }
-            public static string MAINPART_ID { get { return "MAINPART.ID"; } }
-            public static string MAINPART_IS_POLYBEAM { get { return "MAINPART.IS_POLYBEAM"; } }
-            public static string MAINPART_LENGTH { get { return "MAINPART.LENGTH"; } }
-            public static string MAINPART_LENGTH_GROSS { get { return "MAINPART.LENGTH_GROSS"; } }
-            public static string MAINPART_LENGTH_NET { get { return "MAINPART.LENGTH_NET"; } }
-            public static string MAINPART_MATERIAL { get { return "MAINPART.MATERIAL"; } }
-            public static string MAINPART_MATERIAL_ACTIVE_DESIGN_CODE { get { return "MAINPART.MATERIAL.ACTIVE_DESIGN_CODE"; } }
-            public static string MAINPART_MATERIAL_ALIAS_NAME1 { get { return "MAINPART.MATERIAL.ALIAS_NAME1"; } }
-            public static string MAINPART_MATERIAL_ALIAS_NAME2 { get { return "MAINPART.MATERIAL.ALIAS_NAME2"; } }
-            public static string MAINPART_MATERIAL_ALIAS_NAME3 { get { return "MAINPART.MATERIAL.ALIAS_NAME3"; } }
-            public static string MAINPART_MATERIAL_MODULUS_OF_ELASTICITY { get { return "MAINPART.MATERIAL.MODULUS_OF_ELASTICITY"; } }
-            public static string MAINPART_MATERIAL_PLATE_DENSITY { get { return "MAINPART.MATERIAL.PLATE_DENSITY"; } }
-            public static string MAINPART_MATERIAL_POISSONS_RATIO { get { return "MAINPART.MATERIAL.POISSONS_RATIO"; } }
-            public static string MAINPART_MATERIAL_PROFILE_DENSITY { get { return "MAINPART.MATERIAL.PROFILE_DENSITY"; } }
-            public static string MAINPART_MATERIAL_THERMAL_DILATATION { get { return "MAINPART.MATERIAL.THERMAL_DILATATION"; } }
-            public static string MAINPART_MODEL_TOTAL { get { return "MAINPART.MODEL_TOTAL"; } }
-            public static string MAINPART_NAME { get { return "MAINPART.NAME"; } }
-            public static string MAINPART_NUMBER_1 { get { return "MAINPART.NUMBER#1"; } }
-            public static string MAINPART_NUMBER_IN_PHASE_X_ { get { return "MAINPART.NUMBER_IN_PHASE(X)"; } }
-            public static string MAINPART_OBJECT_DESCRIPTION { get { return "MAINPART.OBJECT_DESCRIPTION"; } }
-            public static string MAINPART_OBJECT_LOCKED { get { return "MAINPART.OBJECT_LOCKED"; } }
-            public static string MAINPART_OBJECT_TYPE { get { return "MAINPART.OBJECT_TYPE"; } }
-            public static string MAINPART_OWNER { get { return "MAINPART.OWNER"; } }
-            public static string MAINPART_PART_POS { get { return "MAINPART.PART_POS"; } }
-            public static string MAINPART_PART_PREFIX { get { return "MAINPART.PART_PREFIX"; } }
-            public static string MAINPART_PART_SERIAL_NUMBER { get { return "MAINPART.PART_SERIAL_NUMBER"; } }
-            public static string MAINPART_PART_START_NUMBER { get { return "MAINPART.PART_START_NUMBER"; } }
-            public static string MAINPART_PHASE { get { return "MAINPART.PHASE"; } }
-            public static string MAINPART_PHASE_COMMENT { get { return "MAINPART.PHASE.COMMENT"; } }
-            public static string MAINPART_PHASE_NAME { get { return "MAINPART.PHASE.NAME"; } }
-            public static string MAINPART_PRELIM_MARK { get { return "MAINPART.PRELIM_MARK"; } }
-            public static string MAINPART_PROFILE { get { return "MAINPART.PROFILE"; } }
-            public static string MAINPART_PROFILE_CANTILEVER { get { return "MAINPART.PROFILE.CANTILEVER"; } }
-            public static string MAINPART_PROFILE_COVER_AREA { get { return "MAINPART.PROFILE.COVER_AREA"; } }
-            public static string MAINPART_PROFILE_CROSS_SECTION_AREA { get { return "MAINPART.PROFILE.CROSS_SECTION_AREA"; } }
-            public static string MAINPART_PROFILE_ECCENTRICITY_X { get { return "MAINPART.PROFILE.ECCENTRICITY_X"; } }
-            public static string MAINPART_PROFILE_ECCENTRICITY_Y { get { return "MAINPART.PROFILE.ECCENTRICITY_Y"; } }
-            public static string MAINPART_PROFILE_EDGE_FOLD { get { return "MAINPART.PROFILE.EDGE_FOLD"; } }
-            public static string MAINPART_PROFILE_EDGE_FOLD_1 { get { return "MAINPART.PROFILE.EDGE_FOLD_1"; } }
-            public static string MAINPART_PROFILE_EDGE_FOLD_2 { get { return "MAINPART.PROFILE.EDGE_FOLD_2"; } }
-            public static string MAINPART_PROFILE_DIAMETER { get { return "MAINPART.PROFILE.DIAMETER"; } }
-            public static string MAINPART_PROFILE_DIAMETER_1 { get { return "MAINPART.PROFILE.DIAMETER_1"; } }
-            public static string MAINPART_PROFILE_DIAMETER_2 { get { return "MAINPART.PROFILE.DIAMETER_2"; } }
-            public static string MAINPART_PROFILE_FLANGE_SLOPE_RATIO { get { return "MAINPART.PROFILE.FLANGE_SLOPE_RATIO"; } }
-            public static string MAINPART_PROFILE_FLANGE_THICKNESS { get { return "MAINPART.PROFILE.FLANGE_THICKNESS"; } }
-            public static string MAINPART_PROFILE_FLANGE_THICKNESS_1 { get { return "MAINPART.PROFILE.FLANGE_THICKNESS_1"; } }
-            public static string MAINPART_PROFILE_FLANGE_THICKNESS_2 { get { return "MAINPART.PROFILE.FLANGE_THICKNESS_2"; } }
-            public static string MAINPART_PROFILE_FLANGE_THICKNESS_B { get { return "MAINPART.PROFILE.FLANGE_THICKNESS_B"; } }
-            public static string MAINPART_PROFILE_FLANGE_THICKNESS_U { get { return "MAINPART.PROFILE.FLANGE_THICKNESS_U"; } }
-            public static string MAINPART_PROFILE_FLANGE_WIDTH { get { return "MAINPART.PROFILE.FLANGE_WIDTH"; } }
-            public static string MAINPART_PROFILE_FLANGE_WIDTH_1 { get { return "MAINPART.PROFILE.FLANGE_WIDTH_1"; } }
-            public static string MAINPART_PROFILE_FLANGE_WIDTH_2 { get { return "MAINPART.PROFILE.FLANGE_WIDTH_2"; } }
-            public static string MAINPART_PROFILE_FLANGE_WIDTH_B { get { return "MAINPART.PROFILE.FLANGE_WIDTH_B"; } }
-            public static string MAINPART_PROFILE_FLANGE_WIDTH_U { get { return "MAINPART.PROFILE.FLANGE_WIDTH_U"; } }
-            public static string MAINPART_PROFILE_FOLD_ANGLE { get { return "MAINPART.PROFILE.FOLD_ANGLE"; } }
-            public static string MAINPART_PROFILE_HEIGHT { get { return "MAINPART.PROFILE.HEIGHT"; } }
-            public static string MAINPART_PROFILE_HEIGHT_1 { get { return "MAINPART.PROFILE.HEIGHT_1"; } }
-            public static string MAINPART_PROFILE_HEIGHT_2 { get { return "MAINPART.PROFILE.HEIGHT_2"; } }
-            public static string MAINPART_PROFILE_HEIGHT_3 { get { return "MAINPART.PROFILE.HEIGHT_3"; } }
-            public static string MAINPART_PROFILE_HEIGHT_4 { get { return "MAINPART.PROFILE.HEIGHT_4"; } }
-            public static string MAINPART_PROFILE_MAJOR_AXIS_LENGTH_1 { get { return "MAINPART.PROFILE.MAJOR_AXIS_LENGTH_1"; } }
-            public static string MAINPART_PROFILE_MAJOR_AXIS_LENGTH_2 { get { return "MAINPART.PROFILE.MAJOR_AXIS_LENGTH_2"; } }
-            public static string MAINPART_PROFILE_MINOR_AXIS_LENGTH_1 { get { return "MAINPART.PROFILE.MINOR_AXIS_LENGTH_1"; } }
-            public static string MAINPART_PROFILE_MINOR_AXIS_LENGTH_2 { get { return "MAINPART.PROFILE.MINOR_AXIS_LENGTH_2"; } }
-            public static string MAINPART_PROFILE_MOMENT_OF_INERTIA_X { get { return "MAINPART.PROFILE.MOMENT_OF_INERTIA_X"; } }
-            public static string MAINPART_PROFILE_MOMENT_OF_INERTIA_Y { get { return "MAINPART.PROFILE.MOMENT_OF_INERTIA_Y"; } }
-            public static string MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_ELASTIC_X { get { return "MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_ELASTIC_X"; } }
-            public static string MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_ELASTIC_Y { get { return "MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_ELASTIC_Y"; } }
-            public static string MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_PLASTIC_X { get { return "MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_PLASTIC_X"; } }
-            public static string MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_PLASTIC_Y { get { return "MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_PLASTIC_Y"; } }
-            public static string MAINPART_PROFILE_NORMALIZED_WARPING_CONSTANT { get { return "MAINPART.PROFILE.NORMALIZED_WARPING_CONSTANT"; } }
-            public static string MAINPART_PROFILE_PLASTIC_MODULUS_X { get { return "MAINPART.PROFILE.PLASTIC_MODULUS_X"; } }
-            public static string MAINPART_PROFILE_PLASTIC_MODULUS_Y { get { return "MAINPART.PROFILE.PLASTIC_MODULUS_Y"; } }
-            public static string MAINPART_PROFILE_PLATE_THICKNESS { get { return "MAINPART.PROFILE.PLATE_THICKNESS"; } }
-            public static string MAINPART_PROFILE_POLAR_RADIUS_OF_GYRATION { get { return "MAINPART.PROFILE.POLAR_RADIUS_OF_GYRATION"; } }
-            public static string MAINPART_PROFILE_RADIUS_OF_GYRATION_X { get { return "MAINPART.PROFILE.RADIUS_OF_GYRATION_X"; } }
-            public static string MAINPART_PROFILE_RADIUS_OF_GYRATION_Y { get { return "MAINPART.PROFILE.RADIUS_OF_GYRATION_Y"; } }
-            public static string MAINPART_PROFILE_ROUNDING_RADIUS { get { return "MAINPART.PROFILE.ROUNDING_RADIUS"; } }
-            public static string MAINPART_PROFILE_ROUNDING_RADIUS_1 { get { return "MAINPART.PROFILE.ROUNDING_RADIUS_1"; } }
-            public static string MAINPART_PROFILE_ROUNDING_RADIUS_2 { get { return "MAINPART.PROFILE.ROUNDING_RADIUS_2"; } }
-            public static string MAINPART_PROFILE_SECTION_MODULUS_X { get { return "MAINPART.PROFILE.SECTION_MODULUS_X"; } }
-            public static string MAINPART_PROFILE_SECTION_MODULUS_Y { get { return "MAINPART.PROFILE.SECTION_MODULUS_Y"; } }
-            public static string MAINPART_PROFILE_SHEAR_CENTER_LOCATION { get { return "MAINPART.PROFILE.SHEAR_CENTER_LOCATION"; } }
-            public static string MAINPART_PROFILE_SORT_OF_E_x_Cw_PER_G_x_J { get { return "MAINPART.PROFILE.SORT_OF_E_x_Cw_PER_G_x_J"; } }
-            public static string MAINPART_PROFILE_STATICAL_MOMENT_Qf { get { return "MAINPART.PROFILE.STATICAL_MOMENT_Qf"; } }
-            public static string MAINPART_PROFILE_STATICAL_MOMENT_Qw { get { return "MAINPART.PROFILE.STATICAL_MOMENT_Qw"; } }
-            public static string MAINPART_PROFILE_STIFFENER_DIMENSION { get { return "MAINPART.PROFILE.STIFFENER_DIMENSION"; } }
-            public static string MAINPART_PROFILE_STIFFENER_DIMENSION_1 { get { return "MAINPART.PROFILE.STIFFENER_DIMENSION_1"; } }
-            public static string MAINPART_PROFILE_STIFFENER_DIMENSION_2 { get { return "MAINPART.PROFILE.STIFFENER_DIMENSION_2"; } }
-            public static string MAINPART_PROFILE_STIFFENER_DIMENSION_3 { get { return "MAINPART.PROFILE.STIFFENER_DIMENSION_3"; } }
-            public static string MAINPART_PROFILE_SUBTYPE { get { return "MAINPART.PROFILE.SUBTYPE"; } }
-            public static string MAINPART_PROFILE_TANGENT_OF_PRINCIPAL_AXIS_ANGLE { get { return "MAINPART.PROFILE.TANGENT_OF_PRINCIPAL_AXIS_ANGLE"; } }
-            public static string MAINPART_PROFILE_TORSIONAL_CONSTANT { get { return "MAINPART.PROFILE.TORSIONAL_CONSTANT"; } }
-            public static string MAINPART_PROFILE_WARPING_CONSTANT { get { return "MAINPART.PROFILE.WARPING_CONSTANT"; } }
-            public static string MAINPART_PROFILE_WARPING_STATICAL_MOMENT { get { return "MAINPART.PROFILE.WARPING_STATICAL_MOMENT"; } }
-            public static string MAINPART_PROFILE_WEB_THICKNESS { get { return "MAINPART.PROFILE.WEB_THICKNESS"; } }
-            public static string MAINPART_PROFILE_WEB_THICKNESS_1 { get { return "MAINPART.PROFILE.WEB_THICKNESS_1"; } }
-            public static string MAINPART_PROFILE_WEB_THICKNESS_2 { get { return "MAINPART.PROFILE.WEB_THICKNESS_2"; } }
-            public static string MAINPART_PROFILE_WEIGHT_PER_UNIT_LENGTH { get { return "MAINPART.PROFILE.WEIGHT_PER_UNIT_LENGTH"; } }
-            public static string MAINPART_PROFILE_WIDTH { get { return "MAINPART.PROFILE.WIDTH"; } }
-            public static string MAINPART_PROFILE_WIDTH_1 { get { return "MAINPART.PROFILE.WIDTH_1"; } }
-            public static string MAINPART_PROFILE_WIDTH_2 { get { return "MAINPART.PROFILE.WIDTH_2"; } }
-            public static string MAINPART_PROFILE_TYPE { get { return "MAINPART.PROFILE_TYPE"; } }
-            public static string MAINPART_PROFILE_WEIGHT { get { return "MAINPART.PROFILE_WEIGHT"; } }
-            public static string MAINPART_PROFILE_WEIGHT_NET { get { return "MAINPART.PROFILE_WEIGHT_NET"; } }
-            public static string MAINPART_RADIUS { get { return "MAINPART.RADIUS"; } }
-            public static string MAINPART_SAWING_ITEM { get { return "MAINPART.SAWING_ITEM"; } }
-            public static string MAINPART_START_X { get { return "MAINPART.START_X"; } }
-            public static string MAINPART_START_Y { get { return "MAINPART.START_Y"; } }
-            public static string MAINPART_START_Z { get { return "MAINPART.START_Z"; } }
-            public static string MAINPART_START_X_IN_WORK_PLANE { get { return "MAINPART.START_X_IN_WORK_PLANE"; } }
-            public static string MAINPART_START_Y_IN_WORK_PLANE { get { return "MAINPART.START_Y_IN_WORK_PLANE"; } }
-            public static string MAINPART_START_Z_IN_WORK_PLANE { get { return "MAINPART.START_Z_IN_WORK_PLANE"; } }
-            public static string MAINPART_SUPPLEMENT_PART_WEIGHT { get { return "MAINPART.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string MAINPART_TOP_LEVEL { get { return "MAINPART.TOP_LEVEL"; } }
-            public static string MAINPART_TOP_LEVEL_GLOBAL { get { return "MAINPART.TOP_LEVEL_GLOBAL"; } }
-            public static string MAINPART_TOP_LEVEL_UNFORMATTED { get { return "MAINPART.TOP_LEVEL_UNFORMATTED"; } }
-            public static string MAINPART_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "MAINPART.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string MAINPART_WEB_LENGTH { get { return "MAINPART.WEB_LENGTH"; } }
-            public static string MAINPART_WEIGHT { get { return "MAINPART.WEIGHT"; } }
-            public static string MAINPART_WEIGHT_GROSS { get { return "MAINPART.WEIGHT_GROSS"; } }
-            public static string MAINPART_WEIGHT_M { get { return "MAINPART.WEIGHT_M"; } }
-            public static string MAINPART_WEIGHT_NET { get { return "MAINPART.WEIGHT_NET"; } }
-            public static string MAINPART_WIDTH { get { return "MAINPART.WIDTH"; } }
-            public static string MAINPART_VOLUME { get { return "MAINPART.VOLUME"; } }
-            public static string MAINPART_VOLUME_GROSS { get { return "MAINPART.VOLUME_GROSS"; } }
-            public static string MAINPART_VOLUME_NET { get { return "MAINPART.VOLUME_NET"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-
-
-
-            public static string AREA { get { return "AREA"; } }
-            public static string AREA_PLAN { get { return "AREA_PLAN"; } }
-            public static string AREA_PROJECTION_GXY_NET { get { return "AREA_PROJECTION_GXY_NET"; } }
-            public static string AREA_PROJECTION_GXZ_NET { get { return "AREA_PROJECTION_GXZ_NET"; } }
-            public static string AREA_PROJECTION_GYZ_NET { get { return "AREA_PROJECTION_GYZ_NET"; } }
-            public static string AREA_PROJECTION_GXY_GROSS { get { return "AREA_PROJECTION_GXY_GROSS"; } }
-            public static string AREA_PROJECTION_GXZ_GROSS { get { return "AREA_PROJECTION_GXZ_GROSS"; } }
-            public static string AREA_PROJECTION_GYZ_GROSS { get { return "AREA_PROJECTION_GYZ_GROSS"; } }
-            public static string AREA_PROJECTION_XY_NET { get { return "AREA_PROJECTION_XY_NET"; } }
-            public static string AREA_PROJECTION_XZ_NET { get { return "AREA_PROJECTION_XZ_NET"; } }
-            public static string AREA_PROJECTION_YZ_NET { get { return "AREA_PROJECTION_YZ_NET"; } }
-            public static string AREA_PROJECTION_XY_GROSS { get { return "AREA_PROJECTION_XY_GROSS"; } }
-            public static string AREA_PROJECTION_XZ_GROSS { get { return "AREA_PROJECTION_XZ_GROSS"; } }
-            public static string AREA_PROJECTION_YZ_GROSS { get { return "AREA_PROJECTION_YZ_GROSS"; } }
-            public static string AREA_PGZ { get { return "AREA_PGZ"; } }
-            public static string AREA_NGZ { get { return "AREA_NGZ"; } }
-            public static string AREA_PGX { get { return "AREA_PGX"; } }
-            public static string AREA_NGX { get { return "AREA_NGX"; } }
-            public static string AREA_PGY { get { return "AREA_PGY"; } }
-            public static string AREA_NGY { get { return "AREA_NGY"; } }
-            public static string AREA_PZ { get { return "AREA_PZ"; } }
-            public static string AREA_NZ { get { return "AREA_NZ"; } }
-            public static string AREA_PX { get { return "AREA_PX"; } }
-            public static string AREA_NX { get { return "AREA_NX"; } }
-            public static string AREA_PY { get { return "AREA_PY"; } }
-            public static string AREA_NY { get { return "AREA_NY"; } }
             public static string AREA_FORM_TOP { get { return "AREA_FORM_TOP"; } }
             public static string AREA_FORM_BOTTOM { get { return "AREA_FORM_BOTTOM"; } }
             public static string AREA_FORM_SIDE { get { return "AREA_FORM_SIDE"; } }
-            public static string BOTTOM_LEVEL { get { return "BOTTOM_LEVEL"; } }
-            public static string BOTTOM_LEVEL_GLOBAL { get { return "BOTTOM_LEVEL_GLOBAL"; } }
-            public static string BOTTOM_LEVEL_UNFORMATTED { get { return "BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string CAST_UNIT_CAST_UNIT_HEIGHT_ONLY_CONCRETE_PARTS { get { return "CAST_UNIT.CAST_UNIT_HEIGHT_ONLY_CONCRETE_PARTS"; } }
-            public static string CAST_UNIT_CAST_UNIT_HEIGHT_ONLY_PARTS { get { return "CAST_UNIT.CAST_UNIT_HEIGHT_ONLY_PARTS"; } }
-            public static string CAST_UNIT_CAST_UNIT_HEIGHT_TOTAL { get { return "CAST_UNIT.CAST_UNIT_HEIGHT_TOTAL"; } }
-            public static string CAST_UNIT_CAST_UNIT_LENGTH_ONLY_CONCRETE_PARTS { get { return "CAST_UNIT.CAST_UNIT_LENGTH_ONLY_CONCRETE_PARTS"; } }
-            public static string CAST_UNIT_CAST_UNIT_LENGTH_ONLY_PARTS { get { return "CAST_UNIT.CAST_UNIT_LENGTH_ONLY_PARTS"; } }
-            public static string CAST_UNIT_CAST_UNIT_LENGTH_TOTAL { get { return "CAST_UNIT.CAST_UNIT_LENGTH_TOTAL"; } }
-            public static string CAST_UNIT_CAST_UNIT_NAME { get { return "CAST_UNIT.CAST_UNIT_NAME"; } }
-            public static string CAST_UNIT_CAST_UNIT_WIDTH_ONLY_CONCRETE_PARTS { get { return "CAST_UNIT.CAST_UNIT_WIDTH_ONLY_CONCRETE_PARTS"; } }
-            public static string CAST_UNIT_CAST_UNIT_WIDTH_ONLY_PARTS { get { return "CAST_UNIT.CAST_UNIT_WIDTH_ONLY_PARTS"; } }
-            public static string CAST_UNIT_CAST_UNIT_WIDTH_TOTAL { get { return "CAST_UNIT.CAST_UNIT_WIDTH_TOTAL"; } }
-            public static string CAST_UNIT_POS { get { return "CAST_UNIT_POS"; } }
             public static string CAST_UNIT_POSITION_CODE { get { return "CAST_UNIT_POSITION_CODE"; } }
             public static string CAST_UNIT_VERTICAL_POSITION_CODE { get { return "CAST_UNIT_VERTICAL_POSITION_CODE"; } }
             public static string CAST_UNIT_REBAR_WEIGHT { get { return "CAST_UNIT_REBAR_WEIGHT"; } }
-            public static string COG_X { get { return "COG_X"; } }
-            public static string COG_Y { get { return "COG_Y"; } }
-            public static string COG_Z { get { return "COG_Z"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string DR_PART_POS { get { return "DR_PART_POS"; } }
-            public static string GUID { get { return "GUID"; } }
-            public static string ID { get { return "ID"; } }
-            public static string LENGTH { get { return "LENGTH"; } }
-            public static string LOT_NUMBER { get { return "LOT_NUMBER"; } }
-            public static string MATERIAL { get { return "MATERIAL"; } }
-            public static string MODEL_TOTAL { get { return "MODEL_TOTAL"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
-            public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
-            public static string OBJECT_LOCKED { get { return "OBJECT_LOCKED"; } }
-            public static string OBJECT_TYPE { get { return "OBJECT_TYPE"; } }
-            public static string OWNER { get { return "OWNER"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-            public static string TOP_LEVEL { get { return "TOP_LEVEL"; } }
-            public static string TOP_LEVEL_GLOBAL { get { return "TOP_LEVEL_GLOBAL"; } }
-            public static string TOP_LEVEL_UNFORMATTED { get { return "TOP_LEVEL_UNFORMATTED"; } }
-            public static string TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
             public static string WEIGHT_ONLY_CONCRETE_PARTS { get { return "WEIGHT_ONLY_CONCRETE_PARTS"; } }
-            public static string WEIGHT { get { return "WEIGHT"; } }
-            public static string WEIGHT_GROSS { get { return "WEIGHT_GROSS"; } }
-            public static string WEIGHT_NET { get { return "WEIGHT_NET"; } }
-            public static string VOLUME { get { return "VOLUME"; } }
             public static string VOLUME_ONLY_CONCRETE_PARTS { get { return "VOLUME_ONLY_CONCRETE_PARTS"; } }
-
-            public static string DRAWING_CONTENTTYPE { get { return "DRAWING.CONTENTTYPE"; } }
-            public static string DRAWING_DATE_CREATE { get { return "DRAWING.DATE_CREATE"; } }
-            public static string DRAWING_DATE_ISSUE { get { return "DRAWING.DATE_ISSUE"; } }
-            public static string DRAWING_DATE_MODIFY { get { return "DRAWING.DATE_MODIFY"; } }
-            public static string DRAWING_DATE_PLOT { get { return "DRAWING.DATE_PLOT"; } }
-            public static string DRAWING_DR_DEFAULT_HOLE_SIZE { get { return "DRAWING.DR_DEFAULT_HOLE_SIZE"; } }
-            public static string DRAWING_DR_DEFAULT_WELD_SIZE { get { return "DRAWING.DR_DEFAULT_WELD_SIZE"; } }
-            public static string DRAWING_DR_PART_POS { get { return "DRAWING.DR_PART_POS"; } }
-            public static string DRAWING_HEIGHT { get { return "DRAWING.HEIGHT"; } }
-            public static string DRAWING_ID { get { return "DRAWING.ID"; } }
-            public static string DRAWING_NAME { get { return "DRAWING.NAME"; } }
-            public static string DRAWING_NAME_BASE { get { return "DRAWING.NAME_BASE"; } }
-            public static string DRAWING_PLOTFILE { get { return "DRAWING.PLOTFILE"; } }
-            public static string DRAWING_SCALE1 { get { return "DRAWING.SCALE1"; } }
-            public static string DRAWING_SCALE2 { get { return "DRAWING.SCALE2"; } }
-            public static string DRAWING_SCALE3 { get { return "DRAWING.SCALE3"; } }
-            public static string DRAWING_SCALE4 { get { return "DRAWING.SCALE4"; } }
-            public static string DRAWING_SCALE5 { get { return "DRAWING.SCALE5"; } }
-            public static string DRAWING_SIZE { get { return "DRAWING.SIZE"; } }
-            public static string DRAWING_TITLE { get { return "DRAWING.TITLE"; } }
-            public static string DRAWING_TITLE1 { get { return "DRAWING.TITLE1"; } }
-            public static string DRAWING_TITLE2 { get { return "DRAWING.TITLE2"; } }
-            public static string DRAWING_TITLE3 { get { return "DRAWING.TITLE3"; } }
-            public static string DRAWING_TYPE { get { return "DRAWING.TYPE"; } }
-            public static string DRAWING_WELD_DEFAULT { get { return "DRAWING.WELD_DEFAULT"; } }
-            public static string DRAWING_WIDTH { get { return "DRAWING.WIDTH"; } }
-
-            public static string DRAWING_REVISION_CHECKED_BY { get { return "DRAWING.REVISION.CHECKED_BY"; } }
-            public static string DRAWING_REVISION_CREATED_BY { get { return "DRAWING.REVISION.CREATED_BY"; } }
-            public static string DRAWING_REVISION_DATE_CHECKED { get { return "DRAWING.REVISION.DATE_CHECKED"; } }
-            public static string DRAWING_REVISION_DATE_CREATE { get { return "DRAWING.REVISION.DATE_CREATE"; } }
-            public static string DRAWING_REVISION_DATE_APPROVED { get { return "DRAWING.REVISION.DATE_APPROVED"; } }
-            public static string DRAWING_REVISION_DELIVERY { get { return "DRAWING.REVISION.DELIVERY"; } }
-            public static string DRAWING_REVISION_DESCRIPTION { get { return "DRAWING.REVISION.DESCRIPTION"; } }
-            public static string DRAWING_REVISION_INFO1 { get { return "DRAWING.REVISION.INFO1"; } }
-            public static string DRAWING_REVISION_INFO2 { get { return "DRAWING.REVISION.INFO2"; } }
-            public static string DRAWING_REVISION_LAST { get { return "DRAWING.REVISION.LAST"; } }
-            public static string DRAWING_REVISION_LAST_CHECKED_BY { get { return "DRAWING.REVISION.LAST_CHECKED_BY"; } }
-            public static string DRAWING_REVISION_LAST_CREATED_BY { get { return "DRAWING.REVISION.LAST_CREATED_BY"; } }
-            public static string DRAWING_REVISION_LAST_DATE_CHECKED { get { return "DRAWING.REVISION.LAST_DATE_CHECKED"; } }
-            public static string DRAWING_REVISION_LAST_DATE_CREATE { get { return "DRAWING.REVISION.LAST_DATE_CREATE"; } }
-            public static string DRAWING_REVISION_LAST_DATE_APPROVED { get { return "DRAWING.REVISION.LAST_DATE_APPROVED"; } }
-            public static string DRAWING_REVISION_LAST_DELIVERY { get { return "DRAWING.REVISION.LAST_DELIVERY"; } }
-            public static string DRAWING_REVISION_LAST_DESCRIPTION { get { return "DRAWING.REVISION.LAST_DESCRIPTION"; } }
-            public static string DRAWING_REVISION_LAST_INFO1 { get { return "DRAWING.REVISION.LAST_INFO1"; } }
-            public static string DRAWING_REVISION_LAST_INFO2 { get { return "DRAWING.REVISION.LAST_INFO2"; } }
-            public static string DRAWING_REVISION_LAST_MARK { get { return "DRAWING.REVISION.LAST_MARK"; } }
-            public static string DRAWING_REVISION_LAST_APPROVED_BY { get { return "DRAWING.REVISION.LAST_APPROVED_BY"; } }
-            public static string DRAWING_REVISION_MARK { get { return "DRAWING.REVISION.MARK"; } }
-            public static string DRAWING_REVISION_NUMBER_1 { get { return "DRAWING.REVISION.NUMBER#1"; } }
-            public static string DRAWING_REVISION_APPROVED_BY { get { return "DRAWING.REVISION.APPROVED_BY"; } }
-
-            public static string MAINPART_ACN { get { return "MAINPART.ACN"; } }
-            public static string MAINPART_AREA { get { return "MAINPART.AREA"; } }
-            public static string MAINPART_AREA_GROSS { get { return "MAINPART.AREA_GROSS"; } }
-            public static string MAINPART_AREA_NET { get { return "MAINPART.AREA_NET"; } }
-            public static string MAINPART_AREA_PER_TONS { get { return "MAINPART.AREA_PER_TONS"; } }
-            public static string MAINPART_AREA_PLAN { get { return "MAINPART.AREA_PLAN"; } }
-            public static string MAINPART_AREA_PROJECTION_GXY_NET { get { return "MAINPART.AREA_PROJECTION_GXY_NET"; } }
-            public static string MAINPART_AREA_PROJECTION_GXZ_NET { get { return "MAINPART.AREA_PROJECTION_GXZ_NET"; } }
-            public static string MAINPART_AREA_PROJECTION_GYZ_NET { get { return "MAINPART.AREA_PROJECTION_GYZ_NET"; } }
-            public static string MAINPART_AREA_PROJECTION_GXY_GROSS { get { return "MAINPART.AREA_PROJECTION_GXY_GROSS"; } }
-            public static string MAINPART_AREA_PROJECTION_GXZ_GROSS { get { return "MAINPART.AREA_PROJECTION_GXZ_GROSS"; } }
-            public static string MAINPART_AREA_PROJECTION_GYZ_GROSS { get { return "MAINPART.AREA_PROJECTION_GYZ_GROSS"; } }
-            public static string MAINPART_AREA_PROJECTION_XY_NET { get { return "MAINPART.AREA_PROJECTION_XY_NET"; } }
-            public static string MAINPART_AREA_PROJECTION_XZ_NET { get { return "MAINPART.AREA_PROJECTION_XZ_NET"; } }
-            public static string MAINPART_AREA_PROJECTION_YZ_NET { get { return "MAINPART.AREA_PROJECTION_YZ_NET"; } }
-            public static string MAINPART_AREA_PROJECTION_XY_GROSS { get { return "MAINPART.AREA_PROJECTION_XY_GROSS"; } }
-            public static string MAINPART_AREA_PROJECTION_XZ_GROSS { get { return "MAINPART.AREA_PROJECTION_XZ_GROSS"; } }
-            public static string MAINPART_AREA_PROJECTION_YZ_GROSS { get { return "MAINPART.AREA_PROJECTION_YZ_GROSS"; } }
-            public static string MAINPART_AREA_PGZ { get { return "MAINPART.AREA_PGZ"; } }
-            public static string MAINPART_AREA_NGZ { get { return "MAINPART.AREA_NGZ"; } }
-            public static string MAINPART_AREA_PGX { get { return "MAINPART.AREA_PGX"; } }
-            public static string MAINPART_AREA_NGX { get { return "MAINPART.AREA_NGX"; } }
-            public static string MAINPART_AREA_PGY { get { return "MAINPART.AREA_PGY"; } }
-            public static string MAINPART_AREA_NGY { get { return "MAINPART.AREA_NGY"; } }
-            public static string MAINPART_AREA_PZ { get { return "MAINPART.AREA_PZ"; } }
-            public static string MAINPART_AREA_NZ { get { return "MAINPART.AREA_NZ"; } }
-            public static string MAINPART_AREA_PX { get { return "MAINPART.AREA_PX"; } }
-            public static string MAINPART_AREA_NX { get { return "MAINPART.AREA_NX"; } }
-            public static string MAINPART_AREA_PY { get { return "MAINPART.AREA_PY"; } }
-            public static string MAINPART_AREA_NY { get { return "MAINPART.AREA_NY"; } }
-            public static string MAINPART_ASSEMBLY_DEFAULT_PREFIX { get { return "MAINPART.ASSEMBLY_DEFAULT_PREFIX"; } }
-            public static string MAINPART_BOTTOM_LEVEL { get { return "MAINPART.BOTTOM_LEVEL"; } }
-            public static string MAINPART_BOTTOM_LEVEL_GLOBAL { get { return "MAINPART.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string MAINPART_BOTTOM_LEVEL_UNFORMATTED { get { return "MAINPART.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string MAINPART_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "MAINPART.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string MAINPART_CLASS_ATTR { get { return "MAINPART.CLASS_ATTR"; } }
-            public static string MAINPART_COG_X { get { return "MAINPART.COG_X"; } }
-            public static string MAINPART_COG_Y { get { return "MAINPART.COG_Y"; } }
-            public static string MAINPART_COG_Z { get { return "MAINPART.COG_Z"; } }
-            public static string MAINPART_CURVED_SEGMENTS { get { return "MAINPART.CURVED_SEGMENTS"; } }
-            public static string MAINPART_END_X { get { return "MAINPART.END_X"; } }
-            public static string MAINPART_END_Y { get { return "MAINPART.END_Y"; } }
-            public static string MAINPART_END_Z { get { return "MAINPART.END_Z"; } }
-            public static string MAINPART_END_X_IN_WORK_PLANE { get { return "MAINPART.END_X_IN_WORK_PLANE"; } }
-            public static string MAINPART_END_Y_IN_WORK_PLANE { get { return "MAINPART.END_Y_IN_WORK_PLANE"; } }
-            public static string MAINPART_END_Z_IN_WORK_PLANE { get { return "MAINPART.END_Z_IN_WORK_PLANE"; } }
-            public static string MAINPART_END1_ANGLE_Y { get { return "MAINPART.END1_ANGLE_Y"; } }
-            public static string MAINPART_END1_ANGLE_Z { get { return "MAINPART.END1_ANGLE_Z"; } }
-            public static string MAINPART_END1_CODE { get { return "MAINPART.END1_CODE"; } }
-            public static string MAINPART_END1_SKEW { get { return "MAINPART.END1_SKEW"; } }
-            public static string MAINPART_END2_ANGLE_Y { get { return "MAINPART.END2_ANGLE_Y"; } }
-            public static string MAINPART_END2_ANGLE_Z { get { return "MAINPART.END2_ANGLE_Z"; } }
-            public static string MAINPART_END2_CODE { get { return "MAINPART.END2_CODE"; } }
-            public static string MAINPART_END2_SKEW { get { return "MAINPART.END2_SKEW"; } }
-            public static string MAINPART_FINISH { get { return "MAINPART.FINISH"; } }
-            public static string MAINPART_FLANGE_LENGTH_B { get { return "MAINPART.FLANGE_LENGTH_B"; } }
-            public static string MAINPART_FLANGE_LENGTH_U { get { return "MAINPART.FLANGE_LENGTH_U"; } }
-            public static string MAINPART_GUID { get { return "MAINPART.GUID"; } }
-            public static string MAINPART_HAS_CONNECTIONS { get { return "MAINPART.HAS_CONNECTIONS"; } }
-            public static string MAINPART_HAS_HOLES { get { return "MAINPART.HAS_HOLES"; } }
-            public static string MAINPART_HEIGHT { get { return "MAINPART.HEIGHT"; } }
-            public static string MAINPART_ID { get { return "MAINPART.ID"; } }
-            public static string MAINPART_IS_POLYBEAM { get { return "MAINPART.IS_POLYBEAM"; } }
-            public static string MAINPART_LENGTH { get { return "MAINPART.LENGTH"; } }
-            public static string MAINPART_LENGTH_GROSS { get { return "MAINPART.LENGTH_GROSS"; } }
-            public static string MAINPART_LENGTH_NET { get { return "MAINPART.LENGTH_NET"; } }
-            public static string MAINPART_MATERIAL { get { return "MAINPART.MATERIAL"; } }
-            public static string MAINPART_MATERIAL_ACTIVE_DESIGN_CODE { get { return "MAINPART.MATERIAL.ACTIVE_DESIGN_CODE"; } }
-            public static string MAINPART_MATERIAL_ALIAS_NAME1 { get { return "MAINPART.MATERIAL.ALIAS_NAME1"; } }
-            public static string MAINPART_MATERIAL_ALIAS_NAME2 { get { return "MAINPART.MATERIAL.ALIAS_NAME2"; } }
-            public static string MAINPART_MATERIAL_ALIAS_NAME3 { get { return "MAINPART.MATERIAL.ALIAS_NAME3"; } }
-            public static string MAINPART_MATERIAL_MODULUS_OF_ELASTICITY { get { return "MAINPART.MATERIAL.MODULUS_OF_ELASTICITY"; } }
-            public static string MAINPART_MATERIAL_PLATE_DENSITY { get { return "MAINPART.MATERIAL.PLATE_DENSITY"; } }
-            public static string MAINPART_MATERIAL_POISSONS_RATIO { get { return "MAINPART.MATERIAL.POISSONS_RATIO"; } }
-            public static string MAINPART_MATERIAL_PROFILE_DENSITY { get { return "MAINPART.MATERIAL.PROFILE_DENSITY"; } }
-            public static string MAINPART_MATERIAL_THERMAL_DILATATION { get { return "MAINPART.MATERIAL.THERMAL_DILATATION"; } }
-            public static string MAINPART_MODEL_TOTAL { get { return "MAINPART.MODEL_TOTAL"; } }
-            public static string MAINPART_NAME { get { return "MAINPART.NAME"; } }
-            public static string MAINPART_NUMBER_1 { get { return "MAINPART.NUMBER#1"; } }
-            public static string MAINPART_OBJECT_DESCRIPTION { get { return "MAINPART.OBJECT_DESCRIPTION"; } }
-            public static string MAINPART_OBJECT_LOCKED { get { return "MAINPART.OBJECT_LOCKED"; } }
-            public static string MAINPART_OBJECT_TYPE { get { return "MAINPART.OBJECT_TYPE"; } }
-            public static string MAINPART_OWNER { get { return "MAINPART.OWNER"; } }
-            public static string MAINPART_PART_POS { get { return "MAINPART.PART_POS"; } }
-            public static string MAINPART_PART_PREFIX { get { return "MAINPART.PART_PREFIX"; } }
-            public static string MAINPART_PART_SERIAL_NUMBER { get { return "MAINPART.PART_SERIAL_NUMBER"; } }
-            public static string MAINPART_PART_START_NUMBER { get { return "MAINPART.PART_START_NUMBER"; } }
-            public static string MAINPART_PHASE { get { return "MAINPART.PHASE"; } }
-            public static string MAINPART_PHASE_COMMENT { get { return "MAINPART.PHASE.COMMENT"; } }
-            public static string MAINPART_PHASE_NAME { get { return "MAINPART.PHASE.NAME"; } }
-            public static string MAINPART_PRELIM_MARK { get { return "MAINPART.PRELIM_MARK"; } }
-            public static string MAINPART_PROFILE { get { return "MAINPART.PROFILE"; } }
-            public static string MAINPART_PROFILE_CANTILEVER { get { return "MAINPART.PROFILE.CANTILEVER"; } }
-            public static string MAINPART_PROFILE_COVER_AREA { get { return "MAINPART.PROFILE.COVER_AREA"; } }
-            public static string MAINPART_PROFILE_CROSS_SECTION_AREA { get { return "MAINPART.PROFILE.CROSS_SECTION_AREA"; } }
-            public static string MAINPART_PROFILE_ECCENTRICITY_X { get { return "MAINPART.PROFILE.ECCENTRICITY_X"; } }
-            public static string MAINPART_PROFILE_ECCENTRICITY_Y { get { return "MAINPART.PROFILE.ECCENTRICITY_Y"; } }
-            public static string MAINPART_PROFILE_EDGE_FOLD { get { return "MAINPART.PROFILE.EDGE_FOLD"; } }
-            public static string MAINPART_PROFILE_EDGE_FOLD_1 { get { return "MAINPART.PROFILE.EDGE_FOLD_1"; } }
-            public static string MAINPART_PROFILE_EDGE_FOLD_2 { get { return "MAINPART.PROFILE.EDGE_FOLD_2"; } }
-            public static string MAINPART_PROFILE_DIAMETER { get { return "MAINPART.PROFILE.DIAMETER"; } }
-            public static string MAINPART_PROFILE_DIAMETER_1 { get { return "MAINPART.PROFILE.DIAMETER_1"; } }
-            public static string MAINPART_PROFILE_DIAMETER_2 { get { return "MAINPART.PROFILE.DIAMETER_2"; } }
-            public static string MAINPART_PROFILE_FLANGE_SLOPE_RATIO { get { return "MAINPART.PROFILE.FLANGE_SLOPE_RATIO"; } }
-            public static string MAINPART_PROFILE_FLANGE_THICKNESS { get { return "MAINPART.PROFILE.FLANGE_THICKNESS"; } }
-            public static string MAINPART_PROFILE_FLANGE_THICKNESS_1 { get { return "MAINPART.PROFILE.FLANGE_THICKNESS_1"; } }
-            public static string MAINPART_PROFILE_FLANGE_THICKNESS_2 { get { return "MAINPART.PROFILE.FLANGE_THICKNESS_2"; } }
-            public static string MAINPART_PROFILE_FLANGE_THICKNESS_B { get { return "MAINPART.PROFILE.FLANGE_THICKNESS_B"; } }
-            public static string MAINPART_PROFILE_FLANGE_THICKNESS_U { get { return "MAINPART.PROFILE.FLANGE_THICKNESS_U"; } }
-            public static string MAINPART_PROFILE_FLANGE_WIDTH { get { return "MAINPART.PROFILE.FLANGE_WIDTH"; } }
-            public static string MAINPART_PROFILE_FLANGE_WIDTH_1 { get { return "MAINPART.PROFILE.FLANGE_WIDTH_1"; } }
-            public static string MAINPART_PROFILE_FLANGE_WIDTH_2 { get { return "MAINPART.PROFILE.FLANGE_WIDTH_2"; } }
-            public static string MAINPART_PROFILE_FLANGE_WIDTH_B { get { return "MAINPART.PROFILE.FLANGE_WIDTH_B"; } }
-            public static string MAINPART_PROFILE_FLANGE_WIDTH_U { get { return "MAINPART.PROFILE.FLANGE_WIDTH_U"; } }
-            public static string MAINPART_PROFILE_FOLD_ANGLE { get { return "MAINPART.PROFILE.FOLD_ANGLE"; } }
-            public static string MAINPART_PROFILE_HEIGHT { get { return "MAINPART.PROFILE.HEIGHT"; } }
-            public static string MAINPART_PROFILE_HEIGHT_1 { get { return "MAINPART.PROFILE.HEIGHT_1"; } }
-            public static string MAINPART_PROFILE_HEIGHT_2 { get { return "MAINPART.PROFILE.HEIGHT_2"; } }
-            public static string MAINPART_PROFILE_HEIGHT_3 { get { return "MAINPART.PROFILE.HEIGHT_3"; } }
-            public static string MAINPART_PROFILE_HEIGHT_4 { get { return "MAINPART.PROFILE.HEIGHT_4"; } }
-            public static string MAINPART_PROFILE_MAJOR_AXIS_LENGTH_1 { get { return "MAINPART.PROFILE.MAJOR_AXIS_LENGTH_1"; } }
-            public static string MAINPART_PROFILE_MAJOR_AXIS_LENGTH_2 { get { return "MAINPART.PROFILE.MAJOR_AXIS_LENGTH_2"; } }
-            public static string MAINPART_PROFILE_MINOR_AXIS_LENGTH_1 { get { return "MAINPART.PROFILE.MINOR_AXIS_LENGTH_1"; } }
-            public static string MAINPART_PROFILE_MINOR_AXIS_LENGTH_2 { get { return "MAINPART.PROFILE.MINOR_AXIS_LENGTH_2"; } }
-            public static string MAINPART_PROFILE_MOMENT_OF_INERTIA_X { get { return "MAINPART.PROFILE.MOMENT_OF_INERTIA_X"; } }
-            public static string MAINPART_PROFILE_MOMENT_OF_INERTIA_Y { get { return "MAINPART.PROFILE.MOMENT_OF_INERTIA_Y"; } }
-            public static string MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_ELASTIC_X { get { return "MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_ELASTIC_X"; } }
-            public static string MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_ELASTIC_Y { get { return "MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_ELASTIC_Y"; } }
-            public static string MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_PLASTIC_X { get { return "MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_PLASTIC_X"; } }
-            public static string MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_PLASTIC_Y { get { return "MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_PLASTIC_Y"; } }
-            public static string MAINPART_PROFILE_NORMALIZED_WARPING_CONSTANT { get { return "MAINPART.PROFILE.NORMALIZED_WARPING_CONSTANT"; } }
-            public static string MAINPART_PROFILE_PLASTIC_MODULUS_X { get { return "MAINPART.PROFILE.PLASTIC_MODULUS_X"; } }
-            public static string MAINPART_PROFILE_PLASTIC_MODULUS_Y { get { return "MAINPART.PROFILE.PLASTIC_MODULUS_Y"; } }
-            public static string MAINPART_PROFILE_PLATE_THICKNESS { get { return "MAINPART.PROFILE.PLATE_THICKNESS"; } }
-            public static string MAINPART_PROFILE_POLAR_RADIUS_OF_GYRATION { get { return "MAINPART.PROFILE.POLAR_RADIUS_OF_GYRATION"; } }
-            public static string MAINPART_PROFILE_RADIUS_OF_GYRATION_X { get { return "MAINPART.PROFILE.RADIUS_OF_GYRATION_X"; } }
-            public static string MAINPART_PROFILE_RADIUS_OF_GYRATION_Y { get { return "MAINPART.PROFILE.RADIUS_OF_GYRATION_Y"; } }
-            public static string MAINPART_PROFILE_ROUNDING_RADIUS { get { return "MAINPART.PROFILE.ROUNDING_RADIUS"; } }
-            public static string MAINPART_PROFILE_ROUNDING_RADIUS_1 { get { return "MAINPART.PROFILE.ROUNDING_RADIUS_1"; } }
-            public static string MAINPART_PROFILE_ROUNDING_RADIUS_2 { get { return "MAINPART.PROFILE.ROUNDING_RADIUS_2"; } }
-            public static string MAINPART_PROFILE_SECTION_MODULUS_X { get { return "MAINPART.PROFILE.SECTION_MODULUS_X"; } }
-            public static string MAINPART_PROFILE_SECTION_MODULUS_Y { get { return "MAINPART.PROFILE.SECTION_MODULUS_Y"; } }
-            public static string MAINPART_PROFILE_SHEAR_CENTER_LOCATION { get { return "MAINPART.PROFILE.SHEAR_CENTER_LOCATION"; } }
-            public static string MAINPART_PROFILE_SORT_OF_E_x_Cw_PER_G_x_J { get { return "MAINPART.PROFILE.SORT_OF_E_x_Cw_PER_G_x_J"; } }
-            public static string MAINPART_PROFILE_STATICAL_MOMENT_Qf { get { return "MAINPART.PROFILE.STATICAL_MOMENT_Qf"; } }
-            public static string MAINPART_PROFILE_STATICAL_MOMENT_Qw { get { return "MAINPART.PROFILE.STATICAL_MOMENT_Qw"; } }
-            public static string MAINPART_PROFILE_STIFFENER_DIMENSION { get { return "MAINPART.PROFILE.STIFFENER_DIMENSION"; } }
-            public static string MAINPART_PROFILE_STIFFENER_DIMENSION_1 { get { return "MAINPART.PROFILE.STIFFENER_DIMENSION_1"; } }
-            public static string MAINPART_PROFILE_STIFFENER_DIMENSION_2 { get { return "MAINPART.PROFILE.STIFFENER_DIMENSION_2"; } }
-            public static string MAINPART_PROFILE_STIFFENER_DIMENSION_3 { get { return "MAINPART.PROFILE.STIFFENER_DIMENSION_3"; } }
-            public static string MAINPART_PROFILE_SUBTYPE { get { return "MAINPART.PROFILE.SUBTYPE"; } }
-            public static string MAINPART_PROFILE_TANGENT_OF_PRINCIPAL_AXIS_ANGLE { get { return "MAINPART.PROFILE.TANGENT_OF_PRINCIPAL_AXIS_ANGLE"; } }
-            public static string MAINPART_PROFILE_TORSIONAL_CONSTANT { get { return "MAINPART.PROFILE.TORSIONAL_CONSTANT"; } }
-            public static string MAINPART_PROFILE_WARPING_CONSTANT { get { return "MAINPART.PROFILE.WARPING_CONSTANT"; } }
-            public static string MAINPART_PROFILE_WARPING_STATICAL_MOMENT { get { return "MAINPART.PROFILE.WARPING_STATICAL_MOMENT"; } }
-            public static string MAINPART_PROFILE_WEB_THICKNESS { get { return "MAINPART.PROFILE.WEB_THICKNESS"; } }
-            public static string MAINPART_PROFILE_WEB_THICKNESS_1 { get { return "MAINPART.PROFILE.WEB_THICKNESS_1"; } }
-            public static string MAINPART_PROFILE_WEB_THICKNESS_2 { get { return "MAINPART.PROFILE.WEB_THICKNESS_2"; } }
-            public static string MAINPART_PROFILE_WEIGHT_PER_UNIT_LENGTH { get { return "MAINPART.PROFILE.WEIGHT_PER_UNIT_LENGTH"; } }
-            public static string MAINPART_PROFILE_WIDTH { get { return "MAINPART.PROFILE.WIDTH"; } }
-            public static string MAINPART_PROFILE_WIDTH_1 { get { return "MAINPART.PROFILE.WIDTH_1"; } }
-            public static string MAINPART_PROFILE_WIDTH_2 { get { return "MAINPART.PROFILE.WIDTH_2"; } }
-            public static string MAINPART_PROFILE_TYPE { get { return "MAINPART.PROFILE_TYPE"; } }
-            public static string MAINPART_PROFILE_WEIGHT { get { return "MAINPART.PROFILE_WEIGHT"; } }
-            public static string MAINPART_PROFILE_WEIGHT_NET { get { return "MAINPART.PROFILE_WEIGHT_NET"; } }
-            public static string MAINPART_RADIUS { get { return "MAINPART.RADIUS"; } }
-            public static string MAINPART_SAWING_ITEM { get { return "MAINPART.SAWING_ITEM"; } }
-            public static string MAINPART_START_X { get { return "MAINPART.START_X"; } }
-            public static string MAINPART_START_Y { get { return "MAINPART.START_Y"; } }
-            public static string MAINPART_START_Z { get { return "MAINPART.START_Z"; } }
-            public static string MAINPART_START_X_IN_WORK_PLANE { get { return "MAINPART.START_X_IN_WORK_PLANE"; } }
-            public static string MAINPART_START_Y_IN_WORK_PLANE { get { return "MAINPART.START_Y_IN_WORK_PLANE"; } }
-            public static string MAINPART_START_Z_IN_WORK_PLANE { get { return "MAINPART.START_Z_IN_WORK_PLANE"; } }
-            public static string MAINPART_SUPPLEMENT_PART_WEIGHT { get { return "MAINPART.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string MAINPART_TOP_LEVEL { get { return "MAINPART.TOP_LEVEL"; } }
-            public static string MAINPART_TOP_LEVEL_GLOBAL { get { return "MAINPART.TOP_LEVEL_GLOBAL"; } }
-            public static string MAINPART_TOP_LEVEL_UNFORMATTED { get { return "MAINPART.TOP_LEVEL_UNFORMATTED"; } }
-            public static string MAINPART_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "MAINPART.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string MAINPART_WEB_LENGTH { get { return "MAINPART.WEB_LENGTH"; } }
-            public static string MAINPART_WEIGHT { get { return "MAINPART.WEIGHT"; } }
-            public static string MAINPART_WEIGHT_GROSS { get { return "MAINPART.WEIGHT_GROSS"; } }
-            public static string MAINPART_WEIGHT_M { get { return "MAINPART.WEIGHT_M"; } }
-            public static string MAINPART_WEIGHT_NET { get { return "MAINPART.WEIGHT_NET"; } }
-            public static string MAINPART_WIDTH { get { return "MAINPART.WIDTH"; } }
-            public static string MAINPART_VOLUME { get { return "MAINPART.VOLUME"; } }
-            public static string MAINPART_VOLUME_GROSS { get { return "MAINPART.VOLUME_GROSS"; } }
-            public static string MAINPART_VOLUME_NET { get { return "MAINPART.VOLUME_NET"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-
-
-
-            public static string ACN { get { return "ACN"; } }
-            public static string AREA { get { return "AREA"; } }
-            public static string AREA_GROSS { get { return "AREA_GROSS"; } }
-            public static string AREA_NET { get { return "AREA_NET"; } }
-            public static string AREA_PER_TONS { get { return "AREA_PER_TONS"; } }
-            public static string AREA_PLAN { get { return "AREA_PLAN"; } }
-            public static string AREA_PROJECTION_GXY_NET { get { return "AREA_PROJECTION_GXY_NET"; } }
-            public static string AREA_PROJECTION_GXZ_NET { get { return "AREA_PROJECTION_GXZ_NET"; } }
-            public static string AREA_PROJECTION_GYZ_NET { get { return "AREA_PROJECTION_GYZ_NET"; } }
-            public static string AREA_PROJECTION_GXY_GROSS { get { return "AREA_PROJECTION_GXY_GROSS"; } }
-            public static string AREA_PROJECTION_GXZ_GROSS { get { return "AREA_PROJECTION_GXZ_GROSS"; } }
-            public static string AREA_PROJECTION_GYZ_GROSS { get { return "AREA_PROJECTION_GYZ_GROSS"; } }
-            public static string AREA_PROJECTION_XY_NET { get { return "AREA_PROJECTION_XY_NET"; } }
-            public static string AREA_PROJECTION_XZ_NET { get { return "AREA_PROJECTION_XZ_NET"; } }
-            public static string AREA_PROJECTION_YZ_NET { get { return "AREA_PROJECTION_YZ_NET"; } }
-            public static string AREA_PROJECTION_XY_GROSS { get { return "AREA_PROJECTION_XY_GROSS"; } }
-            public static string AREA_PROJECTION_XZ_GROSS { get { return "AREA_PROJECTION_XZ_GROSS"; } }
-            public static string AREA_PROJECTION_YZ_GROSS { get { return "AREA_PROJECTION_YZ_GROSS"; } }
-            public static string AREA_PGZ { get { return "AREA_PGZ"; } }
-            public static string AREA_NGZ { get { return "AREA_NGZ"; } }
-            public static string AREA_PGX { get { return "AREA_PGX"; } }
-            public static string AREA_NGX { get { return "AREA_NGX"; } }
-            public static string AREA_PGY { get { return "AREA_PGY"; } }
-            public static string AREA_NGY { get { return "AREA_NGY"; } }
-            public static string AREA_PZ { get { return "AREA_PZ"; } }
-            public static string AREA_NZ { get { return "AREA_NZ"; } }
-            public static string AREA_PX { get { return "AREA_PX"; } }
-            public static string AREA_NX { get { return "AREA_NX"; } }
-            public static string AREA_PY { get { return "AREA_PY"; } }
-            public static string AREA_NY { get { return "AREA_NY"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL { get { return "ASSEMBLY_BOTTOM_LEVEL"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "ASSEMBLY_BOTTOM_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string ASSEMBLY_DEFAULT_PREFIX { get { return "ASSEMBLY_DEFAULT_PREFIX"; } }
-            public static string ASSEMBLY_POS { get { return "ASSEMBLY_POS"; } }
-            public static string ASSEMBLY_TOP_LEVEL { get { return "ASSEMBLY_TOP_LEVEL"; } }
-            public static string ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string BOTTOM_LEVEL { get { return "BOTTOM_LEVEL"; } }
-            public static string BOTTOM_LEVEL_GLOBAL { get { return "BOTTOM_LEVEL_GLOBAL"; } }
-            public static string BOTTOM_LEVEL_UNFORMATTED { get { return "BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string CLASS_ATTR { get { return "CLASS_ATTR"; } }
-            public static string COG_X { get { return "COG_X"; } }
-            public static string COG_Y { get { return "COG_Y"; } }
-            public static string COG_Z { get { return "COG_Z"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string CURVED_SEGMENTS { get { return "CURVED_SEGMENTS"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string DR_PART_POS { get { return "DR_PART_POS"; } }
-            public static string END_X { get { return "END_X"; } }
-            public static string END_Y { get { return "END_Y"; } }
-            public static string END_Z { get { return "END_Z"; } }
-            public static string END_X_IN_WORK_PLANE { get { return "END_X_IN_WORK_PLANE"; } }
-            public static string END_Y_IN_WORK_PLANE { get { return "END_Y_IN_WORK_PLANE"; } }
-            public static string END_Z_IN_WORK_PLANE { get { return "END_Z_IN_WORK_PLANE"; } }
-            public static string END1_ANGLE_Y { get { return "END1_ANGLE_Y"; } }
-            public static string END1_ANGLE_Z { get { return "END1_ANGLE_Z"; } }
-            public static string END1_CODE { get { return "END1_CODE"; } }
-            public static string END1_SKEW { get { return "END1_SKEW"; } }
-            public static string END2_ANGLE_Y { get { return "END2_ANGLE_Y"; } }
-            public static string END2_ANGLE_Z { get { return "END2_ANGLE_Z"; } }
-            public static string END2_CODE { get { return "END2_CODE"; } }
-            public static string END2_SKEW { get { return "END2_SKEW"; } }
-            public static string FINISH { get { return "FINISH"; } }
-            public static string FLANGE_LENGTH_B { get { return "FLANGE_LENGTH_B"; } }
-            public static string FLANGE_LENGTH_U { get { return "FLANGE_LENGTH_U"; } }
-            public static string GUID { get { return "GUID"; } }
-            public static string HAS_CONNECTIONS { get { return "HAS_CONNECTIONS"; } }
-            public static string HAS_HOLES { get { return "HAS_HOLES"; } }
-            public static string HEIGHT { get { return "HEIGHT"; } }
-            public static string ID { get { return "ID"; } }
-            public static string LENGTH { get { return "LENGTH"; } }
-            public static string LENGTH_GROSS { get { return "LENGTH_GROSS"; } }
-            public static string LENGTH_NET { get { return "LENGTH_NET"; } }
-            public static string MAIN_PART { get { return "MAIN_PART"; } }
-            public static string MATERIAL { get { return "MATERIAL"; } }
-            public static string MATERIAL_TYPE { get { return "MATERIAL_TYPE"; } }
-            public static string MATERIAL_ACTIVE_DESIGN_CODE { get { return "MATERIAL.ACTIVE_DESIGN_CODE"; } }
-            public static string MATERIAL_ALIAS_NAME1 { get { return "MATERIAL.ALIAS_NAME1"; } }
-            public static string MATERIAL_ALIAS_NAME2 { get { return "MATERIAL.ALIAS_NAME2"; } }
-            public static string MATERIAL_ALIAS_NAME3 { get { return "MATERIAL.ALIAS_NAME3"; } }
-            public static string MATERIAL_MODULUS_OF_ELASTICITY { get { return "MATERIAL.MODULUS_OF_ELASTICITY"; } }
-            public static string MATERIAL_PLATE_DENSITY { get { return "MATERIAL.PLATE_DENSITY"; } }
-            public static string MATERIAL_POISSONS_RATIO { get { return "MATERIAL.POISSONS_RATIO"; } }
-            public static string MATERIAL_PROFILE_DENSITY { get { return "MATERIAL.PROFILE_DENSITY"; } }
-            public static string MATERIAL_THERMAL_DILATATION { get { return "MATERIAL.THERMAL_DILATATION"; } }
-            public static string MODEL_TOTAL { get { return "MODEL_TOTAL"; } }
-            public static string NAME { get { return "NAME"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
-            public static string NUMBER_IN_PHASE_X_ { get { return "NUMBER_IN_PHASE(X)"; } }
-            public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
-            public static string OBJECT_LOCKED { get { return "OBJECT_LOCKED"; } }
-            public static string OBJECT_TYPE { get { return "OBJECT_TYPE"; } }
-            public static string OWNER { get { return "OWNER"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PART_POS { get { return "PART_POS"; } }
-            public static string PART_PREFIX { get { return "PART_PREFIX"; } }
-            public static string PART_SERIAL_NUMBER { get { return "PART_SERIAL_NUMBER"; } }
-            public static string PART_START_NUMBER { get { return "PART_START_NUMBER"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
-            public static string PRELIM_MARK { get { return "PRELIM_MARK"; } }
-            public static string PROFILE { get { return "PROFILE"; } }
-            public static string PROFILE_CANTILEVER { get { return "PROFILE.CANTILEVER"; } }
-            public static string PROFILE_COVER_AREA { get { return "PROFILE.COVER_AREA"; } }
-            public static string PROFILE_CROSS_SECTION_AREA { get { return "PROFILE.CROSS_SECTION_AREA"; } }
-            public static string PROFILE_ECCENTRICITY_X { get { return "PROFILE.ECCENTRICITY_X"; } }
-            public static string PROFILE_ECCENTRICITY_Y { get { return "PROFILE.ECCENTRICITY_Y"; } }
-            public static string PROFILE_EDGE_FOLD { get { return "PROFILE.EDGE_FOLD"; } }
-            public static string PROFILE_EDGE_FOLD_1 { get { return "PROFILE.EDGE_FOLD_1"; } }
-            public static string PROFILE_EDGE_FOLD_2 { get { return "PROFILE.EDGE_FOLD_2"; } }
-            public static string PROFILE_DIAMETER { get { return "PROFILE.DIAMETER"; } }
-            public static string PROFILE_DIAMETER_1 { get { return "PROFILE.DIAMETER_1"; } }
-            public static string PROFILE_DIAMETER_2 { get { return "PROFILE.DIAMETER_2"; } }
-            public static string PROFILE_FLANGE_SLOPE_RATIO { get { return "PROFILE.FLANGE_SLOPE_RATIO"; } }
-            public static string PROFILE_FLANGE_THICKNESS { get { return "PROFILE.FLANGE_THICKNESS"; } }
-            public static string PROFILE_FLANGE_THICKNESS_1 { get { return "PROFILE.FLANGE_THICKNESS_1"; } }
-            public static string PROFILE_FLANGE_THICKNESS_2 { get { return "PROFILE.FLANGE_THICKNESS_2"; } }
-            public static string PROFILE_FLANGE_THICKNESS_B { get { return "PROFILE.FLANGE_THICKNESS_B"; } }
-            public static string PROFILE_FLANGE_THICKNESS_U { get { return "PROFILE.FLANGE_THICKNESS_U"; } }
-            public static string PROFILE_FLANGE_WIDTH { get { return "PROFILE.FLANGE_WIDTH"; } }
-            public static string PROFILE_FLANGE_WIDTH_1 { get { return "PROFILE.FLANGE_WIDTH_1"; } }
-            public static string PROFILE_FLANGE_WIDTH_2 { get { return "PROFILE.FLANGE_WIDTH_2"; } }
-            public static string PROFILE_FLANGE_WIDTH_B { get { return "PROFILE.FLANGE_WIDTH_B"; } }
-            public static string PROFILE_FLANGE_WIDTH_U { get { return "PROFILE.FLANGE_WIDTH_U"; } }
-            public static string PROFILE_FOLD_ANGLE { get { return "PROFILE.FOLD_ANGLE"; } }
-            public static string PROFILE_HEIGHT { get { return "PROFILE.HEIGHT"; } }
-            public static string PROFILE_HEIGHT_1 { get { return "PROFILE.HEIGHT_1"; } }
-            public static string PROFILE_HEIGHT_2 { get { return "PROFILE.HEIGHT_2"; } }
-            public static string PROFILE_HEIGHT_3 { get { return "PROFILE.HEIGHT_3"; } }
-            public static string PROFILE_HEIGHT_4 { get { return "PROFILE.HEIGHT_4"; } }
-            public static string PROFILE_MAJOR_AXIS_LENGTH_1 { get { return "PROFILE.MAJOR_AXIS_LENGTH_1"; } }
-            public static string PROFILE_MAJOR_AXIS_LENGTH_2 { get { return "PROFILE.MAJOR_AXIS_LENGTH_2"; } }
-            public static string PROFILE_MINOR_AXIS_LENGTH_1 { get { return "PROFILE.MINOR_AXIS_LENGTH_1"; } }
-            public static string PROFILE_MINOR_AXIS_LENGTH_2 { get { return "PROFILE.MINOR_AXIS_LENGTH_2"; } }
-            public static string PROFILE_MOMENT_OF_INERTIA_X { get { return "PROFILE.MOMENT_OF_INERTIA_X"; } }
-            public static string PROFILE_MOMENT_OF_INERTIA_Y { get { return "PROFILE.MOMENT_OF_INERTIA_Y"; } }
-            public static string PROFILE_NEUTRAL_AXIS_LOCATION_ELASTIC_X { get { return "PROFILE.NEUTRAL_AXIS_LOCATION_ELASTIC_X"; } }
-            public static string PROFILE_NEUTRAL_AXIS_LOCATION_ELASTIC_Y { get { return "PROFILE.NEUTRAL_AXIS_LOCATION_ELASTIC_Y"; } }
-            public static string PROFILE_NEUTRAL_AXIS_LOCATION_PLASTIC_X { get { return "PROFILE.NEUTRAL_AXIS_LOCATION_PLASTIC_X"; } }
-            public static string PROFILE_NEUTRAL_AXIS_LOCATION_PLASTIC_Y { get { return "PROFILE.NEUTRAL_AXIS_LOCATION_PLASTIC_Y"; } }
-            public static string PROFILE_NORMALIZED_WARPING_CONSTANT { get { return "PROFILE.NORMALIZED_WARPING_CONSTANT"; } }
-            public static string PROFILE_PLASTIC_MODULUS_X { get { return "PROFILE.PLASTIC_MODULUS_X"; } }
-            public static string PROFILE_PLASTIC_MODULUS_Y { get { return "PROFILE.PLASTIC_MODULUS_Y"; } }
-            public static string PROFILE_PLATE_THICKNESS { get { return "PROFILE.PLATE_THICKNESS"; } }
-            public static string PROFILE_POLAR_RADIUS_OF_GYRATION { get { return "PROFILE.POLAR_RADIUS_OF_GYRATION"; } }
-            public static string PROFILE_RADIUS_OF_GYRATION_X { get { return "PROFILE.RADIUS_OF_GYRATION_X"; } }
-            public static string PROFILE_RADIUS_OF_GYRATION_Y { get { return "PROFILE.RADIUS_OF_GYRATION_Y"; } }
-            public static string PROFILE_ROUNDING_RADIUS { get { return "PROFILE.ROUNDING_RADIUS"; } }
-            public static string PROFILE_ROUNDING_RADIUS_1 { get { return "PROFILE.ROUNDING_RADIUS_1"; } }
-            public static string PROFILE_ROUNDING_RADIUS_2 { get { return "PROFILE.ROUNDING_RADIUS_2"; } }
-            public static string PROFILE_SECTION_MODULUS_X { get { return "PROFILE.SECTION_MODULUS_X"; } }
-            public static string PROFILE_SECTION_MODULUS_Y { get { return "PROFILE.SECTION_MODULUS_Y"; } }
-            public static string PROFILE_SHEAR_CENTER_LOCATION { get { return "PROFILE.SHEAR_CENTER_LOCATION"; } }
-            public static string PROFILE_SORT_OF_E_x_Cw_PER_G_x_J { get { return "PROFILE.SORT_OF_E_x_Cw_PER_G_x_J"; } }
-            public static string PROFILE_STATICAL_MOMENT_Qf { get { return "PROFILE.STATICAL_MOMENT_Qf"; } }
-            public static string PROFILE_STATICAL_MOMENT_Qw { get { return "PROFILE.STATICAL_MOMENT_Qw"; } }
-            public static string PROFILE_STIFFENER_DIMENSION { get { return "PROFILE.STIFFENER_DIMENSION"; } }
-            public static string PROFILE_STIFFENER_DIMENSION_1 { get { return "PROFILE.STIFFENER_DIMENSION_1"; } }
-            public static string PROFILE_STIFFENER_DIMENSION_2 { get { return "PROFILE.STIFFENER_DIMENSION_2"; } }
-            public static string PROFILE_STIFFENER_DIMENSION_3 { get { return "PROFILE.STIFFENER_DIMENSION_3"; } }
-            public static string PROFILE_SUBTYPE { get { return "PROFILE.SUBTYPE"; } }
-            public static string PROFILE_TANGENT_OF_PRINCIPAL_AXIS_ANGLE { get { return "PROFILE.TANGENT_OF_PRINCIPAL_AXIS_ANGLE"; } }
-            public static string PROFILE_TORSIONAL_CONSTANT { get { return "PROFILE.TORSIONAL_CONSTANT"; } }
-            public static string PROFILE_WARPING_CONSTANT { get { return "PROFILE.WARPING_CONSTANT"; } }
-            public static string PROFILE_WARPING_STATICAL_MOMENT { get { return "PROFILE.WARPING_STATICAL_MOMENT"; } }
-            public static string PROFILE_WEB_THICKNESS { get { return "PROFILE.WEB_THICKNESS"; } }
-            public static string PROFILE_WEB_THICKNESS_1 { get { return "PROFILE.WEB_THICKNESS_1"; } }
-            public static string PROFILE_WEB_THICKNESS_2 { get { return "PROFILE.WEB_THICKNESS_2"; } }
-            public static string PROFILE_WEIGHT_PER_UNIT_LENGTH { get { return "PROFILE.WEIGHT_PER_UNIT_LENGTH"; } }
-            public static string PROFILE_WIDTH { get { return "PROFILE.WIDTH"; } }
-            public static string PROFILE_WIDTH_1 { get { return "PROFILE.WIDTH_1"; } }
-            public static string PROFILE_WIDTH_2 { get { return "PROFILE.WIDTH_2"; } }
-            public static string PROFILE_TYPE { get { return "PROFILE_TYPE"; } }
-            public static string PROFILE_WEIGHT { get { return "PROFILE_WEIGHT"; } }
-            public static string PROFILE_WEIGHT_NET { get { return "PROFILE_WEIGHT_NET"; } }
-            public static string RADIUS { get { return "RADIUS"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string SIMILAR_TO_MAIN_PART { get { return "SIMILAR_TO_MAIN_PART"; } }
-            public static string SAWING_ITEM { get { return "SAWING_ITEM"; } }
-            public static string START_X { get { return "START_X"; } }
-            public static string START_Y { get { return "START_Y"; } }
-            public static string START_Z { get { return "START_Z"; } }
-            public static string START_X_IN_WORK_PLANE { get { return "START_X_IN_WORK_PLANE"; } }
-            public static string START_Y_IN_WORK_PLANE { get { return "START_Y_IN_WORK_PLANE"; } }
-            public static string START_Z_IN_WORK_PLANE { get { return "START_Z_IN_WORK_PLANE"; } }
-            public static string SUPPLEMENT_PART_WEIGHT { get { return "SUPPLEMENT_PART_WEIGHT"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-            public static string TOP_LEVEL { get { return "TOP_LEVEL"; } }
-            public static string TOP_LEVEL_GLOBAL { get { return "TOP_LEVEL_GLOBAL"; } }
-            public static string TOP_LEVEL_UNFORMATTED { get { return "TOP_LEVEL_UNFORMATTED"; } }
-            public static string TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string WEB_LENGTH { get { return "WEB_LENGTH"; } }
-            public static string WEIGHT { get { return "WEIGHT"; } }
-            public static string WEIGHT_GROSS { get { return "WEIGHT_GROSS"; } }
-            public static string WEIGHT_M { get { return "WEIGHT_M"; } }
-            public static string WEIGHT_NET { get { return "WEIGHT_NET"; } }
-            public static string WIDTH { get { return "WIDTH"; } }
-            public static string VOLUME { get { return "VOLUME"; } }
-            public static string VOLUME_GROSS { get { return "VOLUME_GROSS"; } }
-            public static string VOLUME_NET { get { return "VOLUME_NET"; } }
-
-            public static string ASSEMBLY_AREA { get { return "ASSEMBLY.AREA"; } }
-            public static string ASSEMBLY_AREA_PLAN { get { return "ASSEMBLY.AREA_PLAN"; } }
-            public static string ASSEMBLY_AREA_PROJECTION_GXY_NET { get { return "ASSEMBLY.AREA_PROJECTION_GXY_NET"; } }
-            public static string ASSEMBLY_AREA_PROJECTION_GXZ_NET { get { return "ASSEMBLY.AREA_PROJECTION_GXZ_NET"; } }
-            public static string ASSEMBLY_AREA_PROJECTION_GYZ_NET { get { return "ASSEMBLY.AREA_PROJECTION_GYZ_NET"; } }
-            public static string ASSEMBLY_AREA_PROJECTION_GXY_GROSS { get { return "ASSEMBLY.AREA_PROJECTION_GXY_GROSS"; } }
-            public static string ASSEMBLY_AREA_PROJECTION_GXZ_GROSS { get { return "ASSEMBLY.AREA_PROJECTION_GXZ_GROSS"; } }
-            public static string ASSEMBLY_AREA_PROJECTION_GYZ_GROSS { get { return "ASSEMBLY.AREA_PROJECTION_GYZ_GROSS"; } }
-            public static string ASSEMBLY_AREA_PROJECTION_XY_NET { get { return "ASSEMBLY.AREA_PROJECTION_XY_NET"; } }
-            public static string ASSEMBLY_AREA_PROJECTION_XZ_NET { get { return "ASSEMBLY.AREA_PROJECTION_XZ_NET"; } }
-            public static string ASSEMBLY_AREA_PROJECTION_YZ_NET { get { return "ASSEMBLY.AREA_PROJECTION_YZ_NET"; } }
-            public static string ASSEMBLY_AREA_PROJECTION_XY_GROSS { get { return "ASSEMBLY.AREA_PROJECTION_XY_GROSS"; } }
-            public static string ASSEMBLY_AREA_PROJECTION_XZ_GROSS { get { return "ASSEMBLY.AREA_PROJECTION_XZ_GROSS"; } }
-            public static string ASSEMBLY_AREA_PROJECTION_YZ_GROSS { get { return "ASSEMBLY.AREA_PROJECTION_YZ_GROSS"; } }
-            public static string ASSEMBLY_AREA_PGZ { get { return "ASSEMBLY.AREA_PGZ"; } }
-            public static string ASSEMBLY_AREA_NGZ { get { return "ASSEMBLY.AREA_NGZ"; } }
-            public static string ASSEMBLY_AREA_PGX { get { return "ASSEMBLY.AREA_PGX"; } }
-            public static string ASSEMBLY_AREA_NGX { get { return "ASSEMBLY.AREA_NGX"; } }
-            public static string ASSEMBLY_AREA_PGY { get { return "ASSEMBLY.AREA_PGY"; } }
-            public static string ASSEMBLY_AREA_NGY { get { return "ASSEMBLY.AREA_NGY"; } }
-            public static string ASSEMBLY_AREA_PZ { get { return "ASSEMBLY.AREA_PZ"; } }
-            public static string ASSEMBLY_AREA_NZ { get { return "ASSEMBLY.AREA_NZ"; } }
-            public static string ASSEMBLY_AREA_PX { get { return "ASSEMBLY.AREA_PX"; } }
-            public static string ASSEMBLY_AREA_NX { get { return "ASSEMBLY.AREA_NX"; } }
-            public static string ASSEMBLY_AREA_PY { get { return "ASSEMBLY.AREA_PY"; } }
-            public static string ASSEMBLY_AREA_NY { get { return "ASSEMBLY.AREA_NY"; } }
-            public static string ASSEMBLY_ASSEMBLY_BOTTOM_LEVEL { get { return "ASSEMBLY.ASSEMBLY_BOTTOM_LEVEL"; } }
-            public static string ASSEMBLY_ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "ASSEMBLY.ASSEMBLY_BOTTOM_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "ASSEMBLY.ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY.ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string ASSEMBLY_ASSEMBLY_NAME { get { return "ASSEMBLY.ASSEMBLY_NAME"; } }
-            public static string ASSEMBLY_ASSEMBLY_PLWEIGHT { get { return "ASSEMBLY.ASSEMBLY_PLWEIGHT"; } }
-            public static string ASSEMBLY_ASSEMBLY_POS { get { return "ASSEMBLY.ASSEMBLY_POS"; } }
-            public static string ASSEMBLY_ASSEMBLY_POSITION_CODE { get { return "ASSEMBLY.ASSEMBLY_POSITION_CODE"; } }
-            public static string ASSEMBLY_ASSEMBLY_PREFIX { get { return "ASSEMBLY.ASSEMBLY_PREFIX"; } }
-            public static string ASSEMBLY_ASSEMBLY_SERIAL_NUMBER { get { return "ASSEMBLY.ASSEMBLY_SERIAL_NUMBER"; } }
-            public static string ASSEMBLY_ASSEMBLY_START_NUMBER { get { return "ASSEMBLY.ASSEMBLY_START_NUMBER"; } }
-            public static string ASSEMBLY_ASSEMBLY_TOP_LEVEL { get { return "ASSEMBLY.ASSEMBLY_TOP_LEVEL"; } }
-            public static string ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "ASSEMBLY.ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string ASSEMBLY_COG_X { get { return "ASSEMBLY.COG_X"; } }
-            public static string ASSEMBLY_COG_Y { get { return "ASSEMBLY.COG_Y"; } }
-            public static string ASSEMBLY_COG_Z { get { return "ASSEMBLY.COG_Z"; } }
-            public static string ASSEMBLY_GUID { get { return "ASSEMBLY.GUID"; } }
-            public static string ASSEMBLY_HIERARCHY_LEVEL { get { return "ASSEMBLY.HIERARCHY_LEVEL"; } }
-            public static string ASSEMBLY_ID { get { return "ASSEMBLY.ID"; } }
-            public static string ASSEMBLY_LENGTH { get { return "ASSEMBLY.LENGTH"; } }
-            public static string ASSEMBLY_LENGTH_GROSS { get { return "ASSEMBLY.LENGTH_GROSS"; } }
-            public static string ASSEMBLY_LENGTH_NET { get { return "ASSEMBLY.LENGTH_NET"; } }
-            public static string ASSEMBLY_LOT_NAME { get { return "ASSEMBLY.LOT_NAME"; } }
-            public static string ASSEMBLY_LOT_NUMBER { get { return "ASSEMBLY.LOT_NUMBER"; } }
-            public static string ASSEMBLY_MATERIAL_TYPE { get { return "ASSEMBLY.MATERIAL_TYPE"; } }
-            public static string ASSEMBLY_MODEL_TOTAL { get { return "ASSEMBLY.MODEL_TOTAL"; } }
-            public static string ASSEMBLY_PHASE { get { return "ASSEMBLY.PHASE"; } }
-            public static string ASSEMBLY_PHASE_COMMENT { get { return "ASSEMBLY.PHASE.COMMENT"; } }
-            public static string ASSEMBLY_PHASE_NAME { get { return "ASSEMBLY.PHASE.NAME"; } }
-            public static string ASSEMBLY_PRELIM_ASSEM_MARK { get { return "ASSEMBLY.PRELIM_ASSEM_MARK"; } }
-            public static string ASSEMBLY_SUPPLEMENT_PART_WEIGHT { get { return "ASSEMBLY.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string ASSEMBLY_WEIGHT { get { return "ASSEMBLY.WEIGHT"; } }
-            public static string ASSEMBLY_WEIGHT_GROSS { get { return "ASSEMBLY.WEIGHT_GROSS"; } }
-            public static string ASSEMBLY_WEIGHT_NET { get { return "ASSEMBLY.WEIGHT_NET"; } }
-            public static string ASSEMBLY_VOLUME { get { return "ASSEMBLY.VOLUME"; } }
-
-            public static string ASSEMBLY_MAINPART_ACN { get { return "ASSEMBLY.MAINPART.ACN"; } }
-            public static string ASSEMBLY_MAINPART_AREA { get { return "ASSEMBLY.MAINPART.AREA"; } }
-            public static string ASSEMBLY_MAINPART_AREA_GROSS { get { return "ASSEMBLY.MAINPART.AREA_GROSS"; } }
-            public static string ASSEMBLY_MAINPART_AREA_NET { get { return "ASSEMBLY.MAINPART.AREA_NET"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PER_TONS { get { return "ASSEMBLY.MAINPART.AREA_PER_TONS"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PLAN { get { return "ASSEMBLY.MAINPART.AREA_PLAN"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PROJECTION_GXY_NET { get { return "ASSEMBLY.MAINPART.AREA_PROJECTION_GXY_NET"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PROJECTION_GXZ_NET { get { return "ASSEMBLY.MAINPART.AREA_PROJECTION_GXZ_NET"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PROJECTION_GYZ_NET { get { return "ASSEMBLY.MAINPART.AREA_PROJECTION_GYZ_NET"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PROJECTION_GXY_GROSS { get { return "ASSEMBLY.MAINPART.AREA_PROJECTION_GXY_GROSS"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PROJECTION_GXZ_GROSS { get { return "ASSEMBLY.MAINPART.AREA_PROJECTION_GXZ_GROSS"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PROJECTION_GYZ_GROSS { get { return "ASSEMBLY.MAINPART.AREA_PROJECTION_GYZ_GROSS"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PROJECTION_XY_NET { get { return "ASSEMBLY.MAINPART.AREA_PROJECTION_XY_NET"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PROJECTION_XZ_NET { get { return "ASSEMBLY.MAINPART.AREA_PROJECTION_XZ_NET"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PROJECTION_YZ_NET { get { return "ASSEMBLY.MAINPART.AREA_PROJECTION_YZ_NET"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PROJECTION_XY_GROSS { get { return "ASSEMBLY.MAINPART.AREA_PROJECTION_XY_GROSS"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PROJECTION_XZ_GROSS { get { return "ASSEMBLY.MAINPART.AREA_PROJECTION_XZ_GROSS"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PROJECTION_YZ_GROSS { get { return "ASSEMBLY.MAINPART.AREA_PROJECTION_YZ_GROSS"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PGZ { get { return "ASSEMBLY.MAINPART.AREA_PGZ"; } }
-            public static string ASSEMBLY_MAINPART_AREA_NGZ { get { return "ASSEMBLY.MAINPART.AREA_NGZ"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PGX { get { return "ASSEMBLY.MAINPART.AREA_PGX"; } }
-            public static string ASSEMBLY_MAINPART_AREA_NGX { get { return "ASSEMBLY.MAINPART.AREA_NGX"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PGY { get { return "ASSEMBLY.MAINPART.AREA_PGY"; } }
-            public static string ASSEMBLY_MAINPART_AREA_NGY { get { return "ASSEMBLY.MAINPART.AREA_NGY"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PZ { get { return "ASSEMBLY.MAINPART.AREA_PZ"; } }
-            public static string ASSEMBLY_MAINPART_AREA_NZ { get { return "ASSEMBLY.MAINPART.AREA_NZ"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PX { get { return "ASSEMBLY.MAINPART.AREA_PX"; } }
-            public static string ASSEMBLY_MAINPART_AREA_NX { get { return "ASSEMBLY.MAINPART.AREA_NX"; } }
-            public static string ASSEMBLY_MAINPART_AREA_PY { get { return "ASSEMBLY.MAINPART.AREA_PY"; } }
-            public static string ASSEMBLY_MAINPART_AREA_NY { get { return "ASSEMBLY.MAINPART.AREA_NY"; } }
-            public static string ASSEMBLY_MAINPART_ASSEMBLY_DEFAULT_PREFIX { get { return "ASSEMBLY.MAINPART.ASSEMBLY_DEFAULT_PREFIX"; } }
-            public static string ASSEMBLY_MAINPART_BOTTOM_LEVEL { get { return "ASSEMBLY.MAINPART.BOTTOM_LEVEL"; } }
-            public static string ASSEMBLY_MAINPART_BOTTOM_LEVEL_GLOBAL { get { return "ASSEMBLY.MAINPART.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_MAINPART_BOTTOM_LEVEL_UNFORMATTED { get { return "ASSEMBLY.MAINPART.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_MAINPART_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY.MAINPART.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string ASSEMBLY_MAINPART_CLASS_ATTR { get { return "ASSEMBLY.MAINPART.CLASS_ATTR"; } }
-            public static string ASSEMBLY_MAINPART_COG_X { get { return "ASSEMBLY.MAINPART.COG_X"; } }
-            public static string ASSEMBLY_MAINPART_COG_Y { get { return "ASSEMBLY.MAINPART.COG_Y"; } }
-            public static string ASSEMBLY_MAINPART_COG_Z { get { return "ASSEMBLY.MAINPART.COG_Z"; } }
-            public static string ASSEMBLY_MAINPART_END_X { get { return "ASSEMBLY.MAINPART.END_X"; } }
-            public static string ASSEMBLY_MAINPART_END_Y { get { return "ASSEMBLY.MAINPART.END_Y"; } }
-            public static string ASSEMBLY_MAINPART_END_Z { get { return "ASSEMBLY.MAINPART.END_Z"; } }
-            public static string ASSEMBLY_MAINPART_END_X_IN_WORK_PLANE { get { return "ASSEMBLY.MAINPART.END_X_IN_WORK_PLANE"; } }
-            public static string ASSEMBLY_MAINPART_END_Y_IN_WORK_PLANE { get { return "ASSEMBLY.MAINPART.END_Y_IN_WORK_PLANE"; } }
-            public static string ASSEMBLY_MAINPART_END_Z_IN_WORK_PLANE { get { return "ASSEMBLY.MAINPART.END_Z_IN_WORK_PLANE"; } }
-            public static string ASSEMBLY_MAINPART_END1_ANGLE_Y { get { return "ASSEMBLY.MAINPART.END1_ANGLE_Y"; } }
-            public static string ASSEMBLY_MAINPART_END1_ANGLE_Z { get { return "ASSEMBLY.MAINPART.END1_ANGLE_Z"; } }
-            public static string ASSEMBLY_MAINPART_END1_CODE { get { return "ASSEMBLY.MAINPART.END1_CODE"; } }
-            public static string ASSEMBLY_MAINPART_END1_SKEW { get { return "ASSEMBLY.MAINPART.END1_SKEW"; } }
-            public static string ASSEMBLY_MAINPART_END2_ANGLE_Y { get { return "ASSEMBLY.MAINPART.END2_ANGLE_Y"; } }
-            public static string ASSEMBLY_MAINPART_END2_ANGLE_Z { get { return "ASSEMBLY.MAINPART.END2_ANGLE_Z"; } }
-            public static string ASSEMBLY_MAINPART_END2_CODE { get { return "ASSEMBLY.MAINPART.END2_CODE"; } }
-            public static string ASSEMBLY_MAINPART_END2_SKEW { get { return "ASSEMBLY.MAINPART.END2_SKEW"; } }
-            public static string ASSEMBLY_MAINPART_FINISH { get { return "ASSEMBLY.MAINPART.FINISH"; } }
-            public static string ASSEMBLY_MAINPART_FLANGE_LENGTH_B { get { return "ASSEMBLY.MAINPART.FLANGE_LENGTH_B"; } }
-            public static string ASSEMBLY_MAINPART_FLANGE_LENGTH_U { get { return "ASSEMBLY.MAINPART.FLANGE_LENGTH_U"; } }
-            public static string ASSEMBLY_MAINPART_GUID { get { return "ASSEMBLY.MAINPART.GUID"; } }
-            public static string ASSEMBLY_MAINPART_HAS_CONNECTIONS { get { return "ASSEMBLY.MAINPART.HAS_CONNECTIONS"; } }
-            public static string ASSEMBLY_MAINPART_HAS_HOLES { get { return "ASSEMBLY.MAINPART.HAS_HOLES"; } }
-            public static string ASSEMBLY_MAINPART_HEIGHT { get { return "ASSEMBLY.MAINPART.HEIGHT"; } }
-            public static string ASSEMBLY_MAINPART_ID { get { return "ASSEMBLY.MAINPART.ID"; } }
-            public static string ASSEMBLY_MAINPART_IS_POLYBEAM { get { return "ASSEMBLY.MAINPART.IS_POLYBEAM"; } }
-            public static string ASSEMBLY_MAINPART_LENGTH { get { return "ASSEMBLY.MAINPART.LENGTH"; } }
-            public static string ASSEMBLY_MAINPART_LENGTH_GROSS { get { return "ASSEMBLY.MAINPART.LENGTH_GROSS"; } }
-            public static string ASSEMBLY_MAINPART_LENGTH_NET { get { return "ASSEMBLY.MAINPART.LENGTH_NET"; } }
-            public static string ASSEMBLY_MAINPART_MATERIAL { get { return "ASSEMBLY.MAINPART.MATERIAL"; } }
-            public static string ASSEMBLY_MAINPART_MATERIAL_ACTIVE_DESIGN_CODE { get { return "ASSEMBLY.MAINPART.MATERIAL.ACTIVE_DESIGN_CODE"; } }
-            public static string ASSEMBLY_MAINPART_MATERIAL_ALIAS_NAME1 { get { return "ASSEMBLY.MAINPART.MATERIAL.ALIAS_NAME1"; } }
-            public static string ASSEMBLY_MAINPART_MATERIAL_ALIAS_NAME2 { get { return "ASSEMBLY.MAINPART.MATERIAL.ALIAS_NAME2"; } }
-            public static string ASSEMBLY_MAINPART_MATERIAL_ALIAS_NAME3 { get { return "ASSEMBLY.MAINPART.MATERIAL.ALIAS_NAME3"; } }
-            public static string ASSEMBLY_MAINPART_MATERIAL_MODULUS_OF_ELASTICITY { get { return "ASSEMBLY.MAINPART.MATERIAL.MODULUS_OF_ELASTICITY"; } }
-            public static string ASSEMBLY_MAINPART_MATERIAL_PLATE_DENSITY { get { return "ASSEMBLY.MAINPART.MATERIAL.PLATE_DENSITY"; } }
-            public static string ASSEMBLY_MAINPART_MATERIAL_POISSONS_RATIO { get { return "ASSEMBLY.MAINPART.MATERIAL.POISSONS_RATIO"; } }
-            public static string ASSEMBLY_MAINPART_MATERIAL_PROFILE_DENSITY { get { return "ASSEMBLY.MAINPART.MATERIAL.PROFILE_DENSITY"; } }
-            public static string ASSEMBLY_MAINPART_MATERIAL_THERMAL_DILATATION { get { return "ASSEMBLY.MAINPART.MATERIAL.THERMAL_DILATATION"; } }
-            public static string ASSEMBLY_MAINPART_MODEL_TOTAL { get { return "ASSEMBLY.MAINPART.MODEL_TOTAL"; } }
-            public static string ASSEMBLY_MAINPART_NAME { get { return "ASSEMBLY.MAINPART.NAME"; } }
-            public static string ASSEMBLY_MAINPART_NUMBER_1 { get { return "ASSEMBLY.MAINPART.NUMBER#1"; } }
-            public static string ASSEMBLY_MAINPART_OBJECT_DESCRIPTION { get { return "ASSEMBLY.MAINPART.OBJECT_DESCRIPTION"; } }
-            public static string ASSEMBLY_MAINPART_OBJECT_LOCKED { get { return "ASSEMBLY.MAINPART.OBJECT_LOCKED"; } }
-            public static string ASSEMBLY_MAINPART_OBJECT_TYPE { get { return "ASSEMBLY.MAINPART.OBJECT_TYPE"; } }
-            public static string ASSEMBLY_MAINPART_OWNER { get { return "ASSEMBLY.MAINPART.OWNER"; } }
-            public static string ASSEMBLY_MAINPART_PART_POS { get { return "ASSEMBLY.MAINPART.PART_POS"; } }
-            public static string ASSEMBLY_MAINPART_PART_PREFIX { get { return "ASSEMBLY.MAINPART.PART_PREFIX"; } }
-            public static string ASSEMBLY_MAINPART_PART_SERIAL_NUMBER { get { return "ASSEMBLY.MAINPART.PART_SERIAL_NUMBER"; } }
-            public static string ASSEMBLY_MAINPART_PART_START_NUMBER { get { return "ASSEMBLY.MAINPART.PART_START_NUMBER"; } }
-            public static string ASSEMBLY_MAINPART_PHASE { get { return "ASSEMBLY.MAINPART.PHASE"; } }
-            public static string ASSEMBLY_MAINPART_PHASE_COMMENT { get { return "ASSEMBLY.MAINPART.PHASE.COMMENT"; } }
-            public static string ASSEMBLY_MAINPART_PHASE_NAME { get { return "ASSEMBLY.MAINPART.PHASE.NAME"; } }
-            public static string ASSEMBLY_MAINPART_PRELIM_MARK { get { return "ASSEMBLY.MAINPART.PRELIM_MARK"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE { get { return "ASSEMBLY.MAINPART.PROFILE"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_CANTILEVER { get { return "ASSEMBLY.MAINPART.PROFILE.CANTILEVER"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_COVER_AREA { get { return "ASSEMBLY.MAINPART.PROFILE.COVER_AREA"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_CROSS_SECTION_AREA { get { return "ASSEMBLY.MAINPART.PROFILE.CROSS_SECTION_AREA"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_ECCENTRICITY_X { get { return "ASSEMBLY.MAINPART.PROFILE.ECCENTRICITY_X"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_ECCENTRICITY_Y { get { return "ASSEMBLY.MAINPART.PROFILE.ECCENTRICITY_Y"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_EDGE_FOLD { get { return "ASSEMBLY.MAINPART.PROFILE.EDGE_FOLD"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_EDGE_FOLD_1 { get { return "ASSEMBLY.MAINPART.PROFILE.EDGE_FOLD_1"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_EDGE_FOLD_2 { get { return "ASSEMBLY.MAINPART.PROFILE.EDGE_FOLD_2"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_DIAMETER { get { return "ASSEMBLY.MAINPART.PROFILE.DIAMETER"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_DIAMETER_1 { get { return "ASSEMBLY.MAINPART.PROFILE.DIAMETER_1"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_DIAMETER_2 { get { return "ASSEMBLY.MAINPART.PROFILE.DIAMETER_2"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_FLANGE_SLOPE_RATIO { get { return "ASSEMBLY.MAINPART.PROFILE.FLANGE_SLOPE_RATIO"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_FLANGE_THICKNESS { get { return "ASSEMBLY.MAINPART.PROFILE.FLANGE_THICKNESS"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_FLANGE_THICKNESS_1 { get { return "ASSEMBLY.MAINPART.PROFILE.FLANGE_THICKNESS_1"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_FLANGE_THICKNESS_2 { get { return "ASSEMBLY.MAINPART.PROFILE.FLANGE_THICKNESS_2"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_FLANGE_THICKNESS_B { get { return "ASSEMBLY.MAINPART.PROFILE.FLANGE_THICKNESS_B"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_FLANGE_THICKNESS_U { get { return "ASSEMBLY.MAINPART.PROFILE.FLANGE_THICKNESS_U"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_FLANGE_WIDTH { get { return "ASSEMBLY.MAINPART.PROFILE.FLANGE_WIDTH"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_FLANGE_WIDTH_1 { get { return "ASSEMBLY.MAINPART.PROFILE.FLANGE_WIDTH_1"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_FLANGE_WIDTH_2 { get { return "ASSEMBLY.MAINPART.PROFILE.FLANGE_WIDTH_2"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_FLANGE_WIDTH_B { get { return "ASSEMBLY.MAINPART.PROFILE.FLANGE_WIDTH_B"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_FLANGE_WIDTH_U { get { return "ASSEMBLY.MAINPART.PROFILE.FLANGE_WIDTH_U"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_FOLD_ANGLE { get { return "ASSEMBLY.MAINPART.PROFILE.FOLD_ANGLE"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_HEIGHT { get { return "ASSEMBLY.MAINPART.PROFILE.HEIGHT"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_HEIGHT_1 { get { return "ASSEMBLY.MAINPART.PROFILE.HEIGHT_1"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_HEIGHT_2 { get { return "ASSEMBLY.MAINPART.PROFILE.HEIGHT_2"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_HEIGHT_3 { get { return "ASSEMBLY.MAINPART.PROFILE.HEIGHT_3"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_HEIGHT_4 { get { return "ASSEMBLY.MAINPART.PROFILE.HEIGHT_4"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_MAJOR_AXIS_LENGTH_1 { get { return "ASSEMBLY.MAINPART.PROFILE.MAJOR_AXIS_LENGTH_1"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_MAJOR_AXIS_LENGTH_2 { get { return "ASSEMBLY.MAINPART.PROFILE.MAJOR_AXIS_LENGTH_2"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_MINOR_AXIS_LENGTH_1 { get { return "ASSEMBLY.MAINPART.PROFILE.MINOR_AXIS_LENGTH_1"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_MINOR_AXIS_LENGTH_2 { get { return "ASSEMBLY.MAINPART.PROFILE.MINOR_AXIS_LENGTH_2"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_MOMENT_OF_INERTIA_X { get { return "ASSEMBLY.MAINPART.PROFILE.MOMENT_OF_INERTIA_X"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_MOMENT_OF_INERTIA_Y { get { return "ASSEMBLY.MAINPART.PROFILE.MOMENT_OF_INERTIA_Y"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_ELASTIC_X { get { return "ASSEMBLY.MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_ELASTIC_X"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_ELASTIC_Y { get { return "ASSEMBLY.MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_ELASTIC_Y"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_PLASTIC_X { get { return "ASSEMBLY.MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_PLASTIC_X"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_PLASTIC_Y { get { return "ASSEMBLY.MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_PLASTIC_Y"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_NORMALIZED_WARPING_CONSTANT { get { return "ASSEMBLY.MAINPART.PROFILE.NORMALIZED_WARPING_CONSTANT"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_PLASTIC_MODULUS_X { get { return "ASSEMBLY.MAINPART.PROFILE.PLASTIC_MODULUS_X"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_PLASTIC_MODULUS_Y { get { return "ASSEMBLY.MAINPART.PROFILE.PLASTIC_MODULUS_Y"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_PLATE_THICKNESS { get { return "ASSEMBLY.MAINPART.PROFILE.PLATE_THICKNESS"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_POLAR_RADIUS_OF_GYRATION { get { return "ASSEMBLY.MAINPART.PROFILE.POLAR_RADIUS_OF_GYRATION"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_RADIUS_OF_GYRATION_X { get { return "ASSEMBLY.MAINPART.PROFILE.RADIUS_OF_GYRATION_X"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_RADIUS_OF_GYRATION_Y { get { return "ASSEMBLY.MAINPART.PROFILE.RADIUS_OF_GYRATION_Y"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_ROUNDING_RADIUS { get { return "ASSEMBLY.MAINPART.PROFILE.ROUNDING_RADIUS"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_ROUNDING_RADIUS_1 { get { return "ASSEMBLY.MAINPART.PROFILE.ROUNDING_RADIUS_1"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_ROUNDING_RADIUS_2 { get { return "ASSEMBLY.MAINPART.PROFILE.ROUNDING_RADIUS_2"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_SECTION_MODULUS_X { get { return "ASSEMBLY.MAINPART.PROFILE.SECTION_MODULUS_X"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_SECTION_MODULUS_Y { get { return "ASSEMBLY.MAINPART.PROFILE.SECTION_MODULUS_Y"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_SHEAR_CENTER_LOCATION { get { return "ASSEMBLY.MAINPART.PROFILE.SHEAR_CENTER_LOCATION"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_SORT_OF_E_x_Cw_PER_G_x_J { get { return "ASSEMBLY.MAINPART.PROFILE.SORT_OF_E_x_Cw_PER_G_x_J"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_STATICAL_MOMENT_Qf { get { return "ASSEMBLY.MAINPART.PROFILE.STATICAL_MOMENT_Qf"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_STATICAL_MOMENT_Qw { get { return "ASSEMBLY.MAINPART.PROFILE.STATICAL_MOMENT_Qw"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_STIFFENER_DIMENSION { get { return "ASSEMBLY.MAINPART.PROFILE.STIFFENER_DIMENSION"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_STIFFENER_DIMENSION_1 { get { return "ASSEMBLY.MAINPART.PROFILE.STIFFENER_DIMENSION_1"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_STIFFENER_DIMENSION_2 { get { return "ASSEMBLY.MAINPART.PROFILE.STIFFENER_DIMENSION_2"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_STIFFENER_DIMENSION_3 { get { return "ASSEMBLY.MAINPART.PROFILE.STIFFENER_DIMENSION_3"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_SUBTYPE { get { return "ASSEMBLY.MAINPART.PROFILE.SUBTYPE"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_TANGENT_OF_PRINCIPAL_AXIS_ANGLE { get { return "ASSEMBLY.MAINPART.PROFILE.TANGENT_OF_PRINCIPAL_AXIS_ANGLE"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_TORSIONAL_CONSTANT { get { return "ASSEMBLY.MAINPART.PROFILE.TORSIONAL_CONSTANT"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_WARPING_CONSTANT { get { return "ASSEMBLY.MAINPART.PROFILE.WARPING_CONSTANT"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_WARPING_STATICAL_MOMENT { get { return "ASSEMBLY.MAINPART.PROFILE.WARPING_STATICAL_MOMENT"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_WEB_THICKNESS { get { return "ASSEMBLY.MAINPART.PROFILE.WEB_THICKNESS"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_WEB_THICKNESS_1 { get { return "ASSEMBLY.MAINPART.PROFILE.WEB_THICKNESS_1"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_WEB_THICKNESS_2 { get { return "ASSEMBLY.MAINPART.PROFILE.WEB_THICKNESS_2"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_WEIGHT_PER_UNIT_LENGTH { get { return "ASSEMBLY.MAINPART.PROFILE.WEIGHT_PER_UNIT_LENGTH"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_WIDTH { get { return "ASSEMBLY.MAINPART.PROFILE.WIDTH"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_WIDTH_1 { get { return "ASSEMBLY.MAINPART.PROFILE.WIDTH_1"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_WIDTH_2 { get { return "ASSEMBLY.MAINPART.PROFILE.WIDTH_2"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_TYPE { get { return "ASSEMBLY.MAINPART.PROFILE_TYPE"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_WEIGHT { get { return "ASSEMBLY.MAINPART.PROFILE_WEIGHT"; } }
-            public static string ASSEMBLY_MAINPART_PROFILE_WEIGHT_NET { get { return "ASSEMBLY.MAINPART.PROFILE_WEIGHT_NET"; } }
-            public static string ASSEMBLY_MAINPART_SAWING_ITEM { get { return "ASSEMBLY.MAINPART.SAWING_ITEM"; } }
-            public static string ASSEMBLY_MAINPART_START_X { get { return "ASSEMBLY.MAINPART.START_X"; } }
-            public static string ASSEMBLY_MAINPART_START_Y { get { return "ASSEMBLY.MAINPART.START_Y"; } }
-            public static string ASSEMBLY_MAINPART_START_Z { get { return "ASSEMBLY.MAINPART.START_Z"; } }
-            public static string ASSEMBLY_MAINPART_START_X_IN_WORK_PLANE { get { return "ASSEMBLY.MAINPART.START_X_IN_WORK_PLANE"; } }
-            public static string ASSEMBLY_MAINPART_START_Y_IN_WORK_PLANE { get { return "ASSEMBLY.MAINPART.START_Y_IN_WORK_PLANE"; } }
-            public static string ASSEMBLY_MAINPART_START_Z_IN_WORK_PLANE { get { return "ASSEMBLY.MAINPART.START_Z_IN_WORK_PLANE"; } }
-            public static string ASSEMBLY_MAINPART_SUPPLEMENT_PART_WEIGHT { get { return "ASSEMBLY.MAINPART.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string ASSEMBLY_MAINPART_TOP_LEVEL { get { return "ASSEMBLY.MAINPART.TOP_LEVEL"; } }
-            public static string ASSEMBLY_MAINPART_TOP_LEVEL_GLOBAL { get { return "ASSEMBLY.MAINPART.TOP_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_MAINPART_TOP_LEVEL_UNFORMATTED { get { return "ASSEMBLY.MAINPART.TOP_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_MAINPART_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY.MAINPART.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string ASSEMBLY_MAINPART_WEB_LENGTH { get { return "ASSEMBLY.MAINPART.WEB_LENGTH"; } }
-            public static string ASSEMBLY_MAINPART_WEIGHT { get { return "ASSEMBLY.MAINPART.WEIGHT"; } }
-            public static string ASSEMBLY_MAINPART_WEIGHT_GROSS { get { return "ASSEMBLY.MAINPART.WEIGHT_GROSS"; } }
-            public static string ASSEMBLY_MAINPART_WEIGHT_M { get { return "ASSEMBLY.MAINPART.WEIGHT_M"; } }
-            public static string ASSEMBLY_MAINPART_WEIGHT_NET { get { return "ASSEMBLY.MAINPART.WEIGHT_NET"; } }
-            public static string ASSEMBLY_MAINPART_WIDTH { get { return "ASSEMBLY.MAINPART.WIDTH"; } }
-            public static string ASSEMBLY_MAINPART_VOLUME { get { return "ASSEMBLY.MAINPART.VOLUME"; } }
-            public static string ASSEMBLY_MAINPART_VOLUME_GROSS { get { return "ASSEMBLY.MAINPART.VOLUME_GROSS"; } }
-            public static string ASSEMBLY_MAINPART_VOLUME_NET { get { return "ASSEMBLY.MAINPART.VOLUME_NET"; } }
-
-            public static string CAST_UNIT_AREA { get { return "CAST_UNIT.AREA"; } }
-            public static string CAST_UNIT_AREA_PLAN { get { return "CAST_UNIT.AREA_PLAN"; } }
-            public static string CAST_UNIT_AREA_PROJECTION_GXY_NET { get { return "CAST_UNIT.AREA_PROJECTION_GXY_NET"; } }
-            public static string CAST_UNIT_AREA_PROJECTION_GXZ_NET { get { return "CAST_UNIT.AREA_PROJECTION_GXZ_NET"; } }
-            public static string CAST_UNIT_AREA_PROJECTION_GYZ_NET { get { return "CAST_UNIT.AREA_PROJECTION_GYZ_NET"; } }
-            public static string CAST_UNIT_AREA_PROJECTION_GXY_GROSS { get { return "CAST_UNIT.AREA_PROJECTION_GXY_GROSS"; } }
-            public static string CAST_UNIT_AREA_PROJECTION_GXZ_GROSS { get { return "CAST_UNIT.AREA_PROJECTION_GXZ_GROSS"; } }
-            public static string CAST_UNIT_AREA_PROJECTION_GYZ_GROSS { get { return "CAST_UNIT.AREA_PROJECTION_GYZ_GROSS"; } }
-            public static string CAST_UNIT_AREA_PROJECTION_XY_NET { get { return "CAST_UNIT.AREA_PROJECTION_XY_NET"; } }
-            public static string CAST_UNIT_AREA_PROJECTION_XZ_NET { get { return "CAST_UNIT.AREA_PROJECTION_XZ_NET"; } }
-            public static string CAST_UNIT_AREA_PROJECTION_YZ_NET { get { return "CAST_UNIT.AREA_PROJECTION_YZ_NET"; } }
-            public static string CAST_UNIT_AREA_PROJECTION_XY_GROSS { get { return "CAST_UNIT.AREA_PROJECTION_XY_GROSS"; } }
-            public static string CAST_UNIT_AREA_PROJECTION_XZ_GROSS { get { return "CAST_UNIT.AREA_PROJECTION_XZ_GROSS"; } }
-            public static string CAST_UNIT_AREA_PROJECTION_YZ_GROSS { get { return "CAST_UNIT.AREA_PROJECTION_YZ_GROSS"; } }
-            public static string CAST_UNIT_AREA_PGZ { get { return "CAST_UNIT.AREA_PGZ"; } }
-            public static string CAST_UNIT_AREA_NGZ { get { return "CAST_UNIT.AREA_NGZ"; } }
-            public static string CAST_UNIT_AREA_PGX { get { return "CAST_UNIT.AREA_PGX"; } }
-            public static string CAST_UNIT_AREA_NGX { get { return "CAST_UNIT.AREA_NGX"; } }
-            public static string CAST_UNIT_AREA_PGY { get { return "CAST_UNIT.AREA_PGY"; } }
-            public static string CAST_UNIT_AREA_NGY { get { return "CAST_UNIT.AREA_NGY"; } }
-            public static string CAST_UNIT_AREA_PZ { get { return "CAST_UNIT.AREA_PZ"; } }
-            public static string CAST_UNIT_AREA_NZ { get { return "CAST_UNIT.AREA_NZ"; } }
-            public static string CAST_UNIT_AREA_PX { get { return "CAST_UNIT.AREA_PX"; } }
-            public static string CAST_UNIT_AREA_NX { get { return "CAST_UNIT.AREA_NX"; } }
-            public static string CAST_UNIT_AREA_PY { get { return "CAST_UNIT.AREA_PY"; } }
-            public static string CAST_UNIT_AREA_NY { get { return "CAST_UNIT.AREA_NY"; } }
-            public static string CAST_UNIT_AREA_FORM_TOP { get { return "CAST_UNIT.AREA_FORM_TOP"; } }
-            public static string CAST_UNIT_AREA_FORM_BOTTOM { get { return "CAST_UNIT.AREA_FORM_BOTTOM"; } }
-            public static string CAST_UNIT_AREA_FORM_SIDE { get { return "CAST_UNIT.AREA_FORM_SIDE"; } }
-            public static string CAST_UNIT_BOTTOM_LEVEL { get { return "CAST_UNIT.BOTTOM_LEVEL"; } }
-            public static string CAST_UNIT_BOTTOM_LEVEL_GLOBAL { get { return "CAST_UNIT.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string CAST_UNIT_BOTTOM_LEVEL_UNFORMATTED { get { return "CAST_UNIT.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string CAST_UNIT_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "CAST_UNIT.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string CAST_UNIT_CAST_UNIT_HEIGHT_ONLY_CONCRETE_PARTS { get { return "CAST_UNIT.CAST_UNIT_HEIGHT_ONLY_CONCRETE_PARTS"; } }
-            public static string CAST_UNIT_CAST_UNIT_HEIGHT_ONLY_PARTS { get { return "CAST_UNIT.CAST_UNIT_HEIGHT_ONLY_PARTS"; } }
-            public static string CAST_UNIT_CAST_UNIT_HEIGHT_TOTAL { get { return "CAST_UNIT.CAST_UNIT_HEIGHT_TOTAL"; } }
-            public static string CAST_UNIT_CAST_UNIT_LENGTH_ONLY_CONCRETE_PARTS { get { return "CAST_UNIT.CAST_UNIT_LENGTH_ONLY_CONCRETE_PARTS"; } }
-            public static string CAST_UNIT_CAST_UNIT_LENGTH_ONLY_PARTS { get { return "CAST_UNIT.CAST_UNIT_LENGTH_ONLY_PARTS"; } }
-            public static string CAST_UNIT_CAST_UNIT_LENGTH_TOTAL { get { return "CAST_UNIT.CAST_UNIT_LENGTH_TOTAL"; } }
-            public static string CAST_UNIT_CAST_UNIT_NAME { get { return "CAST_UNIT.CAST_UNIT_NAME"; } }
-            public static string CAST_UNIT_CAST_UNIT_WIDTH_ONLY_CONCRETE_PARTS { get { return "CAST_UNIT.CAST_UNIT_WIDTH_ONLY_CONCRETE_PARTS"; } }
-            public static string CAST_UNIT_CAST_UNIT_WIDTH_ONLY_PARTS { get { return "CAST_UNIT.CAST_UNIT_WIDTH_ONLY_PARTS"; } }
-            public static string CAST_UNIT_CAST_UNIT_WIDTH_TOTAL { get { return "CAST_UNIT.CAST_UNIT_WIDTH_TOTAL"; } }
-            public static string CAST_UNIT_CAST_UNIT_POS { get { return "CAST_UNIT.CAST_UNIT_POS"; } }
-            public static string CAST_UNIT_CAST_UNIT_POSITION_CODE { get { return "CAST_UNIT.CAST_UNIT_POSITION_CODE"; } }
-            public static string CAST_UNIT_CAST_UNIT_VERTICAL_POSITION_CODE { get { return "CAST_UNIT.CAST_UNIT_VERTICAL_POSITION_CODE"; } }
-            public static string CAST_UNIT_CAST_UNIT_PREFIX { get { return "CAST_UNIT.CAST_UNIT_PREFIX"; } }
-            public static string CAST_UNIT_CAST_UNIT_REBAR_WEIGHT { get { return "CAST_UNIT.CAST_UNIT_REBAR_WEIGHT"; } }
-            public static string CAST_UNIT_CAST_UNIT_SERIAL_NUMBER { get { return "CAST_UNIT.CAST_UNIT_SERIAL_NUMBER"; } }
-            public static string CAST_UNIT_COG_X { get { return "CAST_UNIT.COG_X"; } }
-            public static string CAST_UNIT_COG_Y { get { return "CAST_UNIT.COG_Y"; } }
-            public static string CAST_UNIT_COG_Z { get { return "CAST_UNIT.COG_Z"; } }
-            public static string CAST_UNIT_CONTENTTYPE { get { return "CAST_UNIT.CONTENTTYPE"; } }
-            public static string CAST_UNIT_CURRENT_PHASE { get { return "CAST_UNIT.CURRENT_PHASE"; } }
-            public static string CAST_UNIT_DR_PART_POS { get { return "CAST_UNIT.DR_PART_POS"; } }
-            public static string CAST_UNIT_GUID { get { return "CAST_UNIT.GUID"; } }
-            public static string CAST_UNIT_ID { get { return "CAST_UNIT.ID"; } }
-            public static string CAST_UNIT_LENGTH { get { return "CAST_UNIT.LENGTH"; } }
-            public static string CAST_UNIT_LENGTH_GROSS { get { return "CAST_UNIT.LENGTH_GROSS"; } }
-            public static string CAST_UNIT_LENGTH_NET { get { return "CAST_UNIT.LENGTH_NET"; } }
-            public static string CAST_UNIT_LOT_NUMBER { get { return "CAST_UNIT.LOT_NUMBER"; } }
-            public static string CAST_UNIT_MATERIAL { get { return "CAST_UNIT.MATERIAL"; } }
-            public static string CAST_UNIT_MODEL_TOTAL { get { return "CAST_UNIT.MODEL_TOTAL"; } }
-            public static string CAST_UNIT_NUMBER_1 { get { return "CAST_UNIT.NUMBER#1"; } }
-            public static string CAST_UNIT_OBJECT_DESCRIPTION { get { return "CAST_UNIT.OBJECT_DESCRIPTION"; } }
-            public static string CAST_UNIT_OBJECT_LOCKED { get { return "CAST_UNIT.OBJECT_LOCKED"; } }
-            public static string CAST_UNIT_OBJECT_TYPE { get { return "CAST_UNIT.OBJECT_TYPE"; } }
-            public static string CAST_UNIT_OWNER { get { return "CAST_UNIT.OWNER"; } }
-            public static string CAST_UNIT_PAGE { get { return "CAST_UNIT.PAGE"; } }
-            public static string CAST_UNIT_PHASE { get { return "CAST_UNIT.PHASE"; } }
-            public static string CAST_UNIT_PHASE_COMMENT { get { return "CAST_UNIT.PHASE.COMMENT"; } }
-            public static string CAST_UNIT_PHASE_NAME { get { return "CAST_UNIT.PHASE.NAME"; } }
-            public static string CAST_UNIT_ROW_IN_PAGE { get { return "CAST_UNIT.ROW_IN_PAGE"; } }
-            public static string CAST_UNIT_TOP_LEVEL { get { return "CAST_UNIT.TOP_LEVEL"; } }
-            public static string CAST_UNIT_TOP_LEVEL_GLOBAL { get { return "CAST_UNIT.TOP_LEVEL_GLOBAL"; } }
-            public static string CAST_UNIT_TOP_LEVEL_UNFORMATTED { get { return "CAST_UNIT.TOP_LEVEL_UNFORMATTED"; } }
-            public static string CAST_UNIT_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "CAST_UNIT.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string CAST_UNIT_WEIGHT_ONLY_CONCRETE_PARTS { get { return "CAST_UNIT.WEIGHT_ONLY_CONCRETE_PARTS"; } }
-            public static string CAST_UNIT_WEIGHT { get { return "CAST_UNIT.WEIGHT"; } }
-            public static string CAST_UNIT_WEIGHT_GROSS { get { return "CAST_UNIT.WEIGHT_GROSS"; } }
-            public static string CAST_UNIT_WEIGHT_NET { get { return "CAST_UNIT.WEIGHT_NET"; } }
-            public static string CAST_UNIT_VOLUME { get { return "CAST_UNIT.VOLUME"; } }
-            public static string CAST_UNIT_VOLUME_ONLY_CONCRETE_PARTS { get { return "CAST_UNIT.VOLUME_ONLY_CONCRETE_PARTS"; } }
-
-            public static string CAST_UNIT_MAINPART_ACN { get { return "CAST_UNIT.MAINPART.ACN"; } }
-            public static string CAST_UNIT_MAINPART_AREA { get { return "CAST_UNIT.MAINPART.AREA"; } }
-            public static string CAST_UNIT_MAINPART_AREA_GROSS { get { return "CAST_UNIT.MAINPART.AREA_GROSS"; } }
-            public static string CAST_UNIT_MAINPART_AREA_NET { get { return "CAST_UNIT.MAINPART.AREA_NET"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PER_TONS { get { return "CAST_UNIT.MAINPART.AREA_PER_TONS"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PLAN { get { return "CAST_UNIT.MAINPART.AREA_PLAN"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PROJECTION_GXY_NET { get { return "CAST_UNIT.MAINPART.AREA_PROJECTION_GXY_NET"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PROJECTION_GXZ_NET { get { return "CAST_UNIT.MAINPART.AREA_PROJECTION_GXZ_NET"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PROJECTION_GYZ_NET { get { return "CAST_UNIT.MAINPART.AREA_PROJECTION_GYZ_NET"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PROJECTION_GXY_GROSS { get { return "CAST_UNIT.MAINPART.AREA_PROJECTION_GXY_GROSS"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PROJECTION_GXZ_GROSS { get { return "CAST_UNIT.MAINPART.AREA_PROJECTION_GXZ_GROSS"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PROJECTION_GYZ_GROSS { get { return "CAST_UNIT.MAINPART.AREA_PROJECTION_GYZ_GROSS"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PROJECTION_XY_NET { get { return "CAST_UNIT.MAINPART.AREA_PROJECTION_XY_NET"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PROJECTION_XZ_NET { get { return "CAST_UNIT.MAINPART.AREA_PROJECTION_XZ_NET"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PROJECTION_YZ_NET { get { return "CAST_UNIT.MAINPART.AREA_PROJECTION_YZ_NET"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PROJECTION_XY_GROSS { get { return "CAST_UNIT.MAINPART.AREA_PROJECTION_XY_GROSS"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PROJECTION_XZ_GROSS { get { return "CAST_UNIT.MAINPART.AREA_PROJECTION_XZ_GROSS"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PROJECTION_YZ_GROSS { get { return "CAST_UNIT.MAINPART.AREA_PROJECTION_YZ_GROSS"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PGZ { get { return "CAST_UNIT.MAINPART.AREA_PGZ"; } }
-            public static string CAST_UNIT_MAINPART_AREA_NGZ { get { return "CAST_UNIT.MAINPART.AREA_NGZ"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PGX { get { return "CAST_UNIT.MAINPART.AREA_PGX"; } }
-            public static string CAST_UNIT_MAINPART_AREA_NGX { get { return "CAST_UNIT.MAINPART.AREA_NGX"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PGY { get { return "CAST_UNIT.MAINPART.AREA_PGY"; } }
-            public static string CAST_UNIT_MAINPART_AREA_NGY { get { return "CAST_UNIT.MAINPART.AREA_NGY"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PZ { get { return "CAST_UNIT.MAINPART.AREA_PZ"; } }
-            public static string CAST_UNIT_MAINPART_AREA_NZ { get { return "CAST_UNIT.MAINPART.AREA_NZ"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PX { get { return "CAST_UNIT.MAINPART.AREA_PX"; } }
-            public static string CAST_UNIT_MAINPART_AREA_NX { get { return "CAST_UNIT.MAINPART.AREA_NX"; } }
-            public static string CAST_UNIT_MAINPART_AREA_PY { get { return "CAST_UNIT.MAINPART.AREA_PY"; } }
-            public static string CAST_UNIT_MAINPART_AREA_NY { get { return "CAST_UNIT.MAINPART.AREA_NY"; } }
-            public static string CAST_UNIT_MAINPART_ASSEMBLY_DEFAULT_PREFIX { get { return "CAST_UNIT.MAINPART.ASSEMBLY_DEFAULT_PREFIX"; } }
-            public static string CAST_UNIT_MAINPART_BOTTOM_LEVEL { get { return "CAST_UNIT.MAINPART.BOTTOM_LEVEL"; } }
-            public static string CAST_UNIT_MAINPART_BOTTOM_LEVEL_GLOBAL { get { return "CAST_UNIT.MAINPART.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string CAST_UNIT_MAINPART_BOTTOM_LEVEL_UNFORMATTED { get { return "CAST_UNIT.MAINPART.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string CAST_UNIT_MAINPART_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "CAST_UNIT.MAINPART.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string CAST_UNIT_MAINPART_CLASS_ATTR { get { return "CAST_UNIT.MAINPART.CLASS_ATTR"; } }
-            public static string CAST_UNIT_MAINPART_COG_X { get { return "CAST_UNIT.MAINPART.COG_X"; } }
-            public static string CAST_UNIT_MAINPART_COG_Y { get { return "CAST_UNIT.MAINPART.COG_Y"; } }
-            public static string CAST_UNIT_MAINPART_COG_Z { get { return "CAST_UNIT.MAINPART.COG_Z"; } }
-            public static string CAST_UNIT_MAINPART_END_X { get { return "CAST_UNIT.MAINPART.END_X"; } }
-            public static string CAST_UNIT_MAINPART_END_Y { get { return "CAST_UNIT.MAINPART.END_Y"; } }
-            public static string CAST_UNIT_MAINPART_END_Z { get { return "CAST_UNIT.MAINPART.END_Z"; } }
-            public static string CAST_UNIT_MAINPART_END_X_IN_WORK_PLANE { get { return "CAST_UNIT.MAINPART.END_X_IN_WORK_PLANE"; } }
-            public static string CAST_UNIT_MAINPART_END_Y_IN_WORK_PLANE { get { return "CAST_UNIT.MAINPART.END_Y_IN_WORK_PLANE"; } }
-            public static string CAST_UNIT_MAINPART_END_Z_IN_WORK_PLANE { get { return "CAST_UNIT.MAINPART.END_Z_IN_WORK_PLANE"; } }
-            public static string CAST_UNIT_MAINPART_END1_ANGLE_Y { get { return "CAST_UNIT.MAINPART.END1_ANGLE_Y"; } }
-            public static string CAST_UNIT_MAINPART_END1_ANGLE_Z { get { return "CAST_UNIT.MAINPART.END1_ANGLE_Z"; } }
-            public static string CAST_UNIT_MAINPART_END1_CODE { get { return "CAST_UNIT.MAINPART.END1_CODE"; } }
-            public static string CAST_UNIT_MAINPART_END1_SKEW { get { return "CAST_UNIT.MAINPART.END1_SKEW"; } }
-            public static string CAST_UNIT_MAINPART_END2_ANGLE_Y { get { return "CAST_UNIT.MAINPART.END2_ANGLE_Y"; } }
-            public static string CAST_UNIT_MAINPART_END2_ANGLE_Z { get { return "CAST_UNIT.MAINPART.END2_ANGLE_Z"; } }
-            public static string CAST_UNIT_MAINPART_END2_CODE { get { return "CAST_UNIT.MAINPART.END2_CODE"; } }
-            public static string CAST_UNIT_MAINPART_END2_SKEW { get { return "CAST_UNIT.MAINPART.END2_SKEW"; } }
-            public static string CAST_UNIT_MAINPART_FINISH { get { return "CAST_UNIT.MAINPART.FINISH"; } }
-            public static string CAST_UNIT_MAINPART_FLANGE_LENGTH_B { get { return "CAST_UNIT.MAINPART.FLANGE_LENGTH_B"; } }
-            public static string CAST_UNIT_MAINPART_FLANGE_LENGTH_U { get { return "CAST_UNIT.MAINPART.FLANGE_LENGTH_U"; } }
-            public static string CAST_UNIT_MAINPART_GUID { get { return "CAST_UNIT.MAINPART.GUID"; } }
-            public static string CAST_UNIT_MAINPART_HAS_CONNECTIONS { get { return "CAST_UNIT.MAINPART.HAS_CONNECTIONS"; } }
-            public static string CAST_UNIT_MAINPART_HAS_HOLES { get { return "CAST_UNIT.MAINPART.HAS_HOLES"; } }
-            public static string CAST_UNIT_MAINPART_HEIGHT { get { return "CAST_UNIT.MAINPART.HEIGHT"; } }
-            public static string CAST_UNIT_MAINPART_ID { get { return "CAST_UNIT.MAINPART.ID"; } }
-            public static string CAST_UNIT_MAINPART_IS_POLYBEAM { get { return "CAST_UNIT.MAINPART.IS_POLYBEAM"; } }
-            public static string CAST_UNIT_MAINPART_LENGTH { get { return "CAST_UNIT.MAINPART.LENGTH"; } }
-            public static string CAST_UNIT_MAINPART_LENGTH_GROSS { get { return "CAST_UNIT.MAINPART.LENGTH_GROSS"; } }
-            public static string CAST_UNIT_MAINPART_LENGTH_NET { get { return "CAST_UNIT.MAINPART.LENGTH_NET"; } }
-            public static string CAST_UNIT_MAINPART_MATERIAL { get { return "CAST_UNIT.MAINPART.MATERIAL"; } }
-            public static string CAST_UNIT_MAINPART_MATERIAL_ACTIVE_DESIGN_CODE { get { return "CAST_UNIT.MAINPART.MATERIAL.ACTIVE_DESIGN_CODE"; } }
-            public static string CAST_UNIT_MAINPART_MATERIAL_ALIAS_NAME1 { get { return "CAST_UNIT.MAINPART.MATERIAL.ALIAS_NAME1"; } }
-            public static string CAST_UNIT_MAINPART_MATERIAL_ALIAS_NAME2 { get { return "CAST_UNIT.MAINPART.MATERIAL.ALIAS_NAME2"; } }
-            public static string CAST_UNIT_MAINPART_MATERIAL_ALIAS_NAME3 { get { return "CAST_UNIT.MAINPART.MATERIAL.ALIAS_NAME3"; } }
-            public static string CAST_UNIT_MAINPART_MATERIAL_MODULUS_OF_ELASTICITY { get { return "CAST_UNIT.MAINPART.MATERIAL.MODULUS_OF_ELASTICITY"; } }
-            public static string CAST_UNIT_MAINPART_MATERIAL_PLATE_DENSITY { get { return "CAST_UNIT.MAINPART.MATERIAL.PLATE_DENSITY"; } }
-            public static string CAST_UNIT_MAINPART_MATERIAL_POISSONS_RATIO { get { return "CAST_UNIT.MAINPART.MATERIAL.POISSONS_RATIO"; } }
-            public static string CAST_UNIT_MAINPART_MATERIAL_PROFILE_DENSITY { get { return "CAST_UNIT.MAINPART.MATERIAL.PROFILE_DENSITY"; } }
-            public static string CAST_UNIT_MAINPART_MATERIAL_THERMAL_DILATATION { get { return "CAST_UNIT.MAINPART.MATERIAL.THERMAL_DILATATION"; } }
-            public static string CAST_UNIT_MAINPART_MODEL_TOTAL { get { return "CAST_UNIT.MAINPART.MODEL_TOTAL"; } }
-            public static string CAST_UNIT_MAINPART_NAME { get { return "CAST_UNIT.MAINPART.NAME"; } }
-            public static string CAST_UNIT_MAINPART_NUMBER_1 { get { return "CAST_UNIT.MAINPART.NUMBER#1"; } }
-            public static string CAST_UNIT_MAINPART_OBJECT_DESCRIPTION { get { return "CAST_UNIT.MAINPART.OBJECT_DESCRIPTION"; } }
-            public static string CAST_UNIT_MAINPART_OBJECT_LOCKED { get { return "CAST_UNIT.MAINPART.OBJECT_LOCKED"; } }
-            public static string CAST_UNIT_MAINPART_OBJECT_TYPE { get { return "CAST_UNIT.MAINPART.OBJECT_TYPE"; } }
-            public static string CAST_UNIT_MAINPART_OWNER { get { return "CAST_UNIT.MAINPART.OWNER"; } }
-            public static string CAST_UNIT_MAINPART_PART_POS { get { return "CAST_UNIT.MAINPART.PART_POS"; } }
-            public static string CAST_UNIT_MAINPART_PART_PREFIX { get { return "CAST_UNIT.MAINPART.PART_PREFIX"; } }
-            public static string CAST_UNIT_MAINPART_PART_SERIAL_NUMBER { get { return "CAST_UNIT.MAINPART.PART_SERIAL_NUMBER"; } }
-            public static string CAST_UNIT_MAINPART_PART_START_NUMBER { get { return "CAST_UNIT.MAINPART.PART_START_NUMBER"; } }
-            public static string CAST_UNIT_MAINPART_PHASE { get { return "CAST_UNIT.MAINPART.PHASE"; } }
-            public static string CAST_UNIT_MAINPART_PHASE_COMMENT { get { return "CAST_UNIT.MAINPART.PHASE.COMMENT"; } }
-            public static string CAST_UNIT_MAINPART_PHASE_NAME { get { return "CAST_UNIT.MAINPART.PHASE.NAME"; } }
-            public static string CAST_UNIT_MAINPART_PRELIM_MARK { get { return "CAST_UNIT.MAINPART.PRELIM_MARK"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE { get { return "CAST_UNIT.MAINPART.PROFILE"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_CANTILEVER { get { return "CAST_UNIT.MAINPART.PROFILE.CANTILEVER"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_COVER_AREA { get { return "CAST_UNIT.MAINPART.PROFILE.COVER_AREA"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_CROSS_SECTION_AREA { get { return "CAST_UNIT.MAINPART.PROFILE.CROSS_SECTION_AREA"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_ECCENTRICITY_X { get { return "CAST_UNIT.MAINPART.PROFILE.ECCENTRICITY_X"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_ECCENTRICITY_Y { get { return "CAST_UNIT.MAINPART.PROFILE.ECCENTRICITY_Y"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_EDGE_FOLD { get { return "CAST_UNIT.MAINPART.PROFILE.EDGE_FOLD"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_EDGE_FOLD_1 { get { return "CAST_UNIT.MAINPART.PROFILE.EDGE_FOLD_1"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_EDGE_FOLD_2 { get { return "CAST_UNIT.MAINPART.PROFILE.EDGE_FOLD_2"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_DIAMETER { get { return "CAST_UNIT.MAINPART.PROFILE.DIAMETER"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_DIAMETER_1 { get { return "CAST_UNIT.MAINPART.PROFILE.DIAMETER_1"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_DIAMETER_2 { get { return "CAST_UNIT.MAINPART.PROFILE.DIAMETER_2"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_FLANGE_SLOPE_RATIO { get { return "CAST_UNIT.MAINPART.PROFILE.FLANGE_SLOPE_RATIO"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_FLANGE_THICKNESS { get { return "CAST_UNIT.MAINPART.PROFILE.FLANGE_THICKNESS"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_FLANGE_THICKNESS_1 { get { return "CAST_UNIT.MAINPART.PROFILE.FLANGE_THICKNESS_1"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_FLANGE_THICKNESS_2 { get { return "CAST_UNIT.MAINPART.PROFILE.FLANGE_THICKNESS_2"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_FLANGE_THICKNESS_B { get { return "CAST_UNIT.MAINPART.PROFILE.FLANGE_THICKNESS_B"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_FLANGE_THICKNESS_U { get { return "CAST_UNIT.MAINPART.PROFILE.FLANGE_THICKNESS_U"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_FLANGE_WIDTH { get { return "CAST_UNIT.MAINPART.PROFILE.FLANGE_WIDTH"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_FLANGE_WIDTH_1 { get { return "CAST_UNIT.MAINPART.PROFILE.FLANGE_WIDTH_1"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_FLANGE_WIDTH_2 { get { return "CAST_UNIT.MAINPART.PROFILE.FLANGE_WIDTH_2"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_FLANGE_WIDTH_B { get { return "CAST_UNIT.MAINPART.PROFILE.FLANGE_WIDTH_B"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_FLANGE_WIDTH_U { get { return "CAST_UNIT.MAINPART.PROFILE.FLANGE_WIDTH_U"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_FOLD_ANGLE { get { return "CAST_UNIT.MAINPART.PROFILE.FOLD_ANGLE"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_HEIGHT { get { return "CAST_UNIT.MAINPART.PROFILE.HEIGHT"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_HEIGHT_1 { get { return "CAST_UNIT.MAINPART.PROFILE.HEIGHT_1"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_HEIGHT_2 { get { return "CAST_UNIT.MAINPART.PROFILE.HEIGHT_2"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_HEIGHT_3 { get { return "CAST_UNIT.MAINPART.PROFILE.HEIGHT_3"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_HEIGHT_4 { get { return "CAST_UNIT.MAINPART.PROFILE.HEIGHT_4"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_MAJOR_AXIS_LENGTH_1 { get { return "CAST_UNIT.MAINPART.PROFILE.MAJOR_AXIS_LENGTH_1"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_MAJOR_AXIS_LENGTH_2 { get { return "CAST_UNIT.MAINPART.PROFILE.MAJOR_AXIS_LENGTH_2"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_MINOR_AXIS_LENGTH_1 { get { return "CAST_UNIT.MAINPART.PROFILE.MINOR_AXIS_LENGTH_1"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_MINOR_AXIS_LENGTH_2 { get { return "CAST_UNIT.MAINPART.PROFILE.MINOR_AXIS_LENGTH_2"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_MOMENT_OF_INERTIA_X { get { return "CAST_UNIT.MAINPART.PROFILE.MOMENT_OF_INERTIA_X"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_MOMENT_OF_INERTIA_Y { get { return "CAST_UNIT.MAINPART.PROFILE.MOMENT_OF_INERTIA_Y"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_ELASTIC_X { get { return "CAST_UNIT.MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_ELASTIC_X"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_ELASTIC_Y { get { return "CAST_UNIT.MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_ELASTIC_Y"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_PLASTIC_X { get { return "CAST_UNIT.MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_PLASTIC_X"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_NEUTRAL_AXIS_LOCATION_PLASTIC_Y { get { return "CAST_UNIT.MAINPART.PROFILE.NEUTRAL_AXIS_LOCATION_PLASTIC_Y"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_NORMALIZED_WARPING_CONSTANT { get { return "CAST_UNIT.MAINPART.PROFILE.NORMALIZED_WARPING_CONSTANT"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_PLASTIC_MODULUS_X { get { return "CAST_UNIT.MAINPART.PROFILE.PLASTIC_MODULUS_X"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_PLASTIC_MODULUS_Y { get { return "CAST_UNIT.MAINPART.PROFILE.PLASTIC_MODULUS_Y"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_PLATE_THICKNESS { get { return "CAST_UNIT.MAINPART.PROFILE.PLATE_THICKNESS"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_POLAR_RADIUS_OF_GYRATION { get { return "CAST_UNIT.MAINPART.PROFILE.POLAR_RADIUS_OF_GYRATION"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_RADIUS_OF_GYRATION_X { get { return "CAST_UNIT.MAINPART.PROFILE.RADIUS_OF_GYRATION_X"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_RADIUS_OF_GYRATION_Y { get { return "CAST_UNIT.MAINPART.PROFILE.RADIUS_OF_GYRATION_Y"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_ROUNDING_RADIUS { get { return "CAST_UNIT.MAINPART.PROFILE.ROUNDING_RADIUS"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_ROUNDING_RADIUS_1 { get { return "CAST_UNIT.MAINPART.PROFILE.ROUNDING_RADIUS_1"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_ROUNDING_RADIUS_2 { get { return "CAST_UNIT.MAINPART.PROFILE.ROUNDING_RADIUS_2"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_SECTION_MODULUS_X { get { return "CAST_UNIT.MAINPART.PROFILE.SECTION_MODULUS_X"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_SECTION_MODULUS_Y { get { return "CAST_UNIT.MAINPART.PROFILE.SECTION_MODULUS_Y"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_SHEAR_CENTER_LOCATION { get { return "CAST_UNIT.MAINPART.PROFILE.SHEAR_CENTER_LOCATION"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_SORT_OF_E_x_Cw_PER_G_x_J { get { return "CAST_UNIT.MAINPART.PROFILE.SORT_OF_E_x_Cw_PER_G_x_J"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_STATICAL_MOMENT_Qf { get { return "CAST_UNIT.MAINPART.PROFILE.STATICAL_MOMENT_Qf"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_STATICAL_MOMENT_Qw { get { return "CAST_UNIT.MAINPART.PROFILE.STATICAL_MOMENT_Qw"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_STIFFENER_DIMENSION { get { return "CAST_UNIT.MAINPART.PROFILE.STIFFENER_DIMENSION"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_STIFFENER_DIMENSION_1 { get { return "CAST_UNIT.MAINPART.PROFILE.STIFFENER_DIMENSION_1"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_STIFFENER_DIMENSION_2 { get { return "CAST_UNIT.MAINPART.PROFILE.STIFFENER_DIMENSION_2"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_STIFFENER_DIMENSION_3 { get { return "CAST_UNIT.MAINPART.PROFILE.STIFFENER_DIMENSION_3"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_SUBTYPE { get { return "CAST_UNIT.MAINPART.PROFILE.SUBTYPE"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_TANGENT_OF_PRINCIPAL_AXIS_ANGLE { get { return "CAST_UNIT.MAINPART.PROFILE.TANGENT_OF_PRINCIPAL_AXIS_ANGLE"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_TORSIONAL_CONSTANT { get { return "CAST_UNIT.MAINPART.PROFILE.TORSIONAL_CONSTANT"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_WARPING_CONSTANT { get { return "CAST_UNIT.MAINPART.PROFILE.WARPING_CONSTANT"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_WARPING_STATICAL_MOMENT { get { return "CAST_UNIT.MAINPART.PROFILE.WARPING_STATICAL_MOMENT"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_WEB_THICKNESS { get { return "CAST_UNIT.MAINPART.PROFILE.WEB_THICKNESS"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_WEB_THICKNESS_1 { get { return "CAST_UNIT.MAINPART.PROFILE.WEB_THICKNESS_1"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_WEB_THICKNESS_2 { get { return "CAST_UNIT.MAINPART.PROFILE.WEB_THICKNESS_2"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_WEIGHT_PER_UNIT_LENGTH { get { return "CAST_UNIT.MAINPART.PROFILE.WEIGHT_PER_UNIT_LENGTH"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_WIDTH { get { return "CAST_UNIT.MAINPART.PROFILE.WIDTH"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_WIDTH_1 { get { return "CAST_UNIT.MAINPART.PROFILE.WIDTH_1"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_WIDTH_2 { get { return "CAST_UNIT.MAINPART.PROFILE.WIDTH_2"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_TYPE { get { return "CAST_UNIT.MAINPART.PROFILE_TYPE"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_WEIGHT { get { return "CAST_UNIT.MAINPART.PROFILE_WEIGHT"; } }
-            public static string CAST_UNIT_MAINPART_PROFILE_WEIGHT_NET { get { return "CAST_UNIT.MAINPART.PROFILE_WEIGHT_NET"; } }
-            public static string CAST_UNIT_MAINPART_SAWING_ITEM { get { return "CAST_UNIT.MAINPART.SAWING_ITEM"; } }
-            public static string CAST_UNIT_MAINPART_START_X { get { return "CAST_UNIT.MAINPART.START_X"; } }
-            public static string CAST_UNIT_MAINPART_START_Y { get { return "CAST_UNIT.MAINPART.START_Y"; } }
-            public static string CAST_UNIT_MAINPART_START_Z { get { return "CAST_UNIT.MAINPART.START_Z"; } }
-            public static string CAST_UNIT_MAINPART_START_X_IN_WORK_PLANE { get { return "CAST_UNIT.MAINPART.START_X_IN_WORK_PLANE"; } }
-            public static string CAST_UNIT_MAINPART_START_Y_IN_WORK_PLANE { get { return "CAST_UNIT.MAINPART.START_Y_IN_WORK_PLANE"; } }
-            public static string CAST_UNIT_MAINPART_START_Z_IN_WORK_PLANE { get { return "CAST_UNIT.MAINPART.START_Z_IN_WORK_PLANE"; } }
-            public static string CAST_UNIT_MAINPART_SUPPLEMENT_PART_WEIGHT { get { return "CAST_UNIT.MAINPART.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string CAST_UNIT_MAINPART_TOP_LEVEL { get { return "CAST_UNIT.MAINPART.TOP_LEVEL"; } }
-            public static string CAST_UNIT_MAINPART_TOP_LEVEL_GLOBAL { get { return "CAST_UNIT.MAINPART.TOP_LEVEL_GLOBAL"; } }
-            public static string CAST_UNIT_MAINPART_TOP_LEVEL_UNFORMATTED { get { return "CAST_UNIT.MAINPART.TOP_LEVEL_UNFORMATTED"; } }
-            public static string CAST_UNIT_MAINPART_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "CAST_UNIT.MAINPART.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string CAST_UNIT_MAINPART_WEB_LENGTH { get { return "CAST_UNIT.MAINPART.WEB_LENGTH"; } }
-            public static string CAST_UNIT_MAINPART_WEIGHT { get { return "CAST_UNIT.MAINPART.WEIGHT"; } }
-            public static string CAST_UNIT_MAINPART_WEIGHT_GROSS { get { return "CAST_UNIT.MAINPART.WEIGHT_GROSS"; } }
-            public static string CAST_UNIT_MAINPART_WEIGHT_M { get { return "CAST_UNIT.MAINPART.WEIGHT_M"; } }
-            public static string CAST_UNIT_MAINPART_WEIGHT_NET { get { return "CAST_UNIT.MAINPART.WEIGHT_NET"; } }
-            public static string CAST_UNIT_MAINPART_WIDTH { get { return "CAST_UNIT.MAINPART.WIDTH"; } }
-            public static string CAST_UNIT_MAINPART_VOLUME { get { return "CAST_UNIT.MAINPART.VOLUME"; } }
-            public static string CAST_UNIT_MAINPART_VOLUME_GROSS { get { return "CAST_UNIT.MAINPART.VOLUME_GROSS"; } }
-            public static string CAST_UNIT_MAINPART_VOLUME_NET { get { return "CAST_UNIT.MAINPART.VOLUME_NET"; } }
-
-            public static string DRAWING_CONTENTTYPE { get { return "DRAWING.CONTENTTYPE"; } }
-            public static string DRAWING_DATE_CREATE { get { return "DRAWING.DATE_CREATE"; } }
-            public static string DRAWING_DATE_ISSUE { get { return "DRAWING.DATE_ISSUE"; } }
-            public static string DRAWING_DATE_MODIFY { get { return "DRAWING.DATE_MODIFY"; } }
-            public static string DRAWING_DATE_PLOT { get { return "DRAWING.DATE_PLOT"; } }
-            public static string DRAWING_DR_DEFAULT_HOLE_SIZE { get { return "DRAWING.DR_DEFAULT_HOLE_SIZE"; } }
-            public static string DRAWING_DR_DEFAULT_WELD_SIZE { get { return "DRAWING.DR_DEFAULT_WELD_SIZE"; } }
-            public static string DRAWING_DR_PART_POS { get { return "DRAWING.DR_PART_POS"; } }
-            public static string DRAWING_HEIGHT { get { return "DRAWING.HEIGHT"; } }
-            public static string DRAWING_ID { get { return "DRAWING.ID"; } }
-            public static string DRAWING_NAME { get { return "DRAWING.NAME"; } }
-            public static string DRAWING_NAME_BASE { get { return "DRAWING.NAME_BASE"; } }
-            public static string DRAWING_PLOTFILE { get { return "DRAWING.PLOTFILE"; } }
-            public static string DRAWING_SCALE1 { get { return "DRAWING.SCALE1"; } }
-            public static string DRAWING_SCALE2 { get { return "DRAWING.SCALE2"; } }
-            public static string DRAWING_SCALE3 { get { return "DRAWING.SCALE3"; } }
-            public static string DRAWING_SCALE4 { get { return "DRAWING.SCALE4"; } }
-            public static string DRAWING_SCALE5 { get { return "DRAWING.SCALE5"; } }
-            public static string DRAWING_SIZE { get { return "DRAWING.SIZE"; } }
-            public static string DRAWING_TITLE { get { return "DRAWING.TITLE"; } }
-            public static string DRAWING_TITLE1 { get { return "DRAWING.TITLE1"; } }
-            public static string DRAWING_TITLE2 { get { return "DRAWING.TITLE2"; } }
-            public static string DRAWING_TITLE3 { get { return "DRAWING.TITLE3"; } }
-            public static string DRAWING_TYPE { get { return "DRAWING.TYPE"; } }
-            public static string DRAWING_WELD_DEFAULT { get { return "DRAWING.WELD_DEFAULT"; } }
-            public static string DRAWING_WIDTH { get { return "DRAWING.WIDTH"; } }
-
-            public static string DRAWING_REVISION_CHECKED_BY { get { return "DRAWING.REVISION.CHECKED_BY"; } }
-            public static string DRAWING_REVISION_CREATED_BY { get { return "DRAWING.REVISION.CREATED_BY"; } }
-            public static string DRAWING_REVISION_DATE_CHECKED { get { return "DRAWING.REVISION.DATE_CHECKED"; } }
-            public static string DRAWING_REVISION_DATE_CREATE { get { return "DRAWING.REVISION.DATE_CREATE"; } }
-            public static string DRAWING_REVISION_DATE_APPROVED { get { return "DRAWING.REVISION.DATE_APPROVED"; } }
-            public static string DRAWING_REVISION_DELIVERY { get { return "DRAWING.REVISION.DELIVERY"; } }
-            public static string DRAWING_REVISION_DESCRIPTION { get { return "DRAWING.REVISION.DESCRIPTION"; } }
-            public static string DRAWING_REVISION_INFO1 { get { return "DRAWING.REVISION.INFO1"; } }
-            public static string DRAWING_REVISION_INFO2 { get { return "DRAWING.REVISION.INFO2"; } }
-            public static string DRAWING_REVISION_LAST { get { return "DRAWING.REVISION.LAST"; } }
-            public static string DRAWING_REVISION_LAST_CHECKED_BY { get { return "DRAWING.REVISION.LAST_CHECKED_BY"; } }
-            public static string DRAWING_REVISION_LAST_CREATED_BY { get { return "DRAWING.REVISION.LAST_CREATED_BY"; } }
-            public static string DRAWING_REVISION_LAST_DATE_CHECKED { get { return "DRAWING.REVISION.LAST_DATE_CHECKED"; } }
-            public static string DRAWING_REVISION_LAST_DATE_CREATE { get { return "DRAWING.REVISION.LAST_DATE_CREATE"; } }
-            public static string DRAWING_REVISION_LAST_DATE_APPROVED { get { return "DRAWING.REVISION.LAST_DATE_APPROVED"; } }
-            public static string DRAWING_REVISION_LAST_DELIVERY { get { return "DRAWING.REVISION.LAST_DELIVERY"; } }
-            public static string DRAWING_REVISION_LAST_DESCRIPTION { get { return "DRAWING.REVISION.LAST_DESCRIPTION"; } }
-            public static string DRAWING_REVISION_LAST_INFO1 { get { return "DRAWING.REVISION.LAST_INFO1"; } }
-            public static string DRAWING_REVISION_LAST_INFO2 { get { return "DRAWING.REVISION.LAST_INFO2"; } }
-            public static string DRAWING_REVISION_LAST_MARK { get { return "DRAWING.REVISION.LAST_MARK"; } }
-            public static string DRAWING_REVISION_LAST_APPROVED_BY { get { return "DRAWING.REVISION.LAST_APPROVED_BY"; } }
-            public static string DRAWING_REVISION_MARK { get { return "DRAWING.REVISION.MARK"; } }
-            public static string DRAWING_REVISION_NUMBER_1 { get { return "DRAWING.REVISION.NUMBER#1"; } }
-            public static string DRAWING_REVISION_APPROVED_BY { get { return "DRAWING.REVISION.APPROVED_BY"; } }
-
-            public static string HISTORY_CREATED { get { return "HISTORY.CREATED"; } }
-            public static string HISTORY_CREATED_BY { get { return "HISTORY.CREATED_BY"; } }
-            public static string HISTORY_MODIFIED { get { return "HISTORY.MODIFIED"; } }
-            public static string HISTORY_MODIFIED_ACTION { get { return "HISTORY.MODIFIED_ACTION"; } }
-            public static string HISTORY_MODIFIED_BY { get { return "HISTORY.MODIFIED_BY"; } }
-            public static string HISTORY_OWNER { get { return "HISTORY.OWNER"; } }
-            public static string HISTORY_TOUCHED { get { return "HISTORY.TOUCHED"; } }
-            public static string HISTORY_TOUCHED_ACTION { get { return "HISTORY.TOUCHED_ACTION"; } }
-            public static string HISTORY_TOUCHED_BY { get { return "HISTORY.TOUCHED_BY"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-
-
-
-            public static string ANG_S { get { return "ANG_S"; } }
-            public static string ANG_T { get { return "ANG_T"; } }
-            public static string ANG_U { get { return "ANG_U"; } }
-            public static string ANG_V { get { return "ANG_V"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string DIM_A { get { return "DIM_A"; } }
-            public static string DIM_B { get { return "DIM_B"; } }
-            public static string DIM_C { get { return "DIM_C"; } }
-            public static string DIM_D { get { return "DIM_D"; } }
-            public static string DIM_E { get { return "DIM_E"; } }
-            public static string DIM_F { get { return "DIM_F"; } }
-            public static string DIM_G { get { return "DIM_G"; } }
-            public static string DIM_H1 { get { return "DIM_H1"; } }
-            public static string DIM_H2 { get { return "DIM_H2"; } }
-            public static string DIM_I { get { return "DIM_I"; } }
-            public static string DIM_J { get { return "DIM_J"; } }
-            public static string DIM_K1 { get { return "DIM_K1"; } }
-            public static string DIM_K2 { get { return "DIM_K2"; } }
-            public static string DIM_O { get { return "DIM_O"; } }
-            public static string DIM_R { get { return "DIM_R"; } }
-            public static string DIM_R_ALL { get { return "DIM_R_ALL"; } }
-            public static string DIM_TD { get { return "DIM_TD"; } }
-            public static string DIM_X { get { return "DIM_X"; } }
-            public static string DIM_Y { get { return "DIM_Y"; } }
-            public static string DIAMETER_ACTUAL { get { return "DIAMETER_ACTUAL"; } }
-            public static string DIAMETER_NOMINAL { get { return "DIAMETER_NOMINAL"; } }
-            public static string ID { get { return "ID"; } }
-            public static string LENGTH { get { return "LENGTH"; } }
-            public static string LENGTH_GROSS { get { return "LENGTH_GROSS"; } }
-            public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
-            public static string PULLOUT { get { return "PULLOUT"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string SHAPE { get { return "SHAPE"; } }
-            public static string SHAPE_INTERNAL { get { return "SHAPE_INTERNAL"; } }
             public static string SUB_ID { get { return "SUB_ID"; } }
-            public static string WEIGHT { get { return "WEIGHT"; } }
-
             public static string REBAR_CAST_UNIT_POS { get { return "REBAR.CAST_UNIT_POS"; } }
             public static string REBAR_CC { get { return "REBAR.CC"; } }
             public static string REBAR_CC_EXACT { get { return "REBAR.CC_EXACT"; } }
@@ -14969,7 +12408,6 @@
             public static string REBAR_TITLE1 { get { return "REBAR.TITLE1"; } }
             public static string REBAR_TITLE2 { get { return "REBAR.TITLE2"; } }
             public static string REBAR_TITLE3 { get { return "REBAR.TITLE3"; } }
-
             public static string REBAR_HISTORY_CREATED { get { return "REBAR.HISTORY.CREATED"; } }
             public static string REBAR_HISTORY_CREATED_BY { get { return "REBAR.HISTORY.CREATED_BY"; } }
             public static string REBAR_HISTORY_MODIFIED { get { return "REBAR.HISTORY.MODIFIED"; } }
@@ -14979,7 +12417,6 @@
             public static string REBAR_HISTORY_TOUCHED { get { return "REBAR.HISTORY.TOUCHED"; } }
             public static string REBAR_HISTORY_TOUCHED_ACTION { get { return "REBAR.HISTORY.TOUCHED_ACTION"; } }
             public static string REBAR_HISTORY_TOUCHED_BY { get { return "REBAR.HISTORY.TOUCHED_BY"; } }
-
             public static string REBAR_PROJECT_ADDRESS { get { return "REBAR.PROJECT.ADDRESS"; } }
             public static string REBAR_PROJECT_BUILDER { get { return "REBAR.PROJECT.BUILDER"; } }
             public static string REBAR_PROJECT_DATE_END { get { return "REBAR.PROJECT.DATE_END"; } }
@@ -14992,7 +12429,6 @@
             public static string REBAR_PROJECT_NAME { get { return "REBAR.PROJECT.NAME"; } }
             public static string REBAR_PROJECT_NUMBER_2 { get { return "REBAR.PROJECT.NUMBER#2"; } }
             public static string REBAR_PROJECT_OBJECT { get { return "REBAR.PROJECT.OBJECT"; } }
-
             public static string REBAR_PART_ACN { get { return "REBAR.PART.ACN"; } }
             public static string REBAR_PART_AREA { get { return "REBAR.PART.AREA"; } }
             public static string REBAR_PART_AREA_GROSS { get { return "REBAR.PART.AREA_GROSS"; } }
@@ -15210,28 +12646,11 @@
             public static string REBAR_PART_VOLUME { get { return "REBAR.PART.VOLUME"; } }
             public static string REBAR_PART_VOLUME_GROSS { get { return "REBAR.PART.VOLUME_GROSS"; } }
             public static string REBAR_PART_VOLUME_NET { get { return "REBAR.PART.VOLUME_NET"; } }
-
-
-
-
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string LENGTH { get { return "LENGTH"; } }
-            public static string LENGTH_GROSS { get { return "LENGTH_GROSS"; } }
             public static string STRAND_UNBONDED { get { return "STRAND_UNBONDED"; } }
             public static string STRAND_DEBOND_LEN_FROM_START_1 { get { return "STRAND_DEBOND_LEN_FROM_START_1"; } }
             public static string STRAND_DEBOND_LEN_MIDDLE_TO_START_1 { get { return "STRAND_DEBOND_LEN_MIDDLE_TO_START_1"; } }
             public static string STRAND_DEBOND_LEN_MIDDLE_TO_END_1 { get { return "STRAND_DEBOND_LEN_MIDDLE_TO_END_1"; } }
             public static string STRAND_DEBOND_LEN_FROM_END_1 { get { return "STRAND_DEBOND_LEN_FROM_END_1"; } }
-            public static string WEIGHT { get { return "WEIGHT"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PULLOUT { get { return "PULLOUT"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-
             public static string STRAND_CAST_UNIT_POS { get { return "STRAND.CAST_UNIT_POS"; } }
             public static string STRAND_CLASS { get { return "STRAND.CLASS"; } }
             public static string STRAND_CURRENT_PHASE { get { return "STRAND.CURRENT_PHASE"; } }
@@ -15258,7 +12677,6 @@
             public static string STRAND_STRAND_PULL_FORCE { get { return "STRAND.STRAND_PULL_FORCE"; } }
             public static string STRAND_WEIGHT { get { return "STRAND.WEIGHT"; } }
             public static string STRAND_WEIGHT_TOTAL { get { return "STRAND.WEIGHT_TOTAL"; } }
-
             public static string STRAND_PROJECT_ADDRESS { get { return "STRAND.PROJECT.ADDRESS"; } }
             public static string STRAND_PROJECT_BUILDER { get { return "STRAND.PROJECT.BUILDER"; } }
             public static string STRAND_PROJECT_DATE_END { get { return "STRAND.PROJECT.DATE_END"; } }
@@ -15271,117 +12689,10 @@
             public static string STRAND_PROJECT_NAME { get { return "STRAND.PROJECT.NAME"; } }
             public static string STRAND_PROJECT_NUMBER_2 { get { return "STRAND.PROJECT.NUMBER#2"; } }
             public static string STRAND_PROJECT_OBJECT { get { return "STRAND.PROJECT.OBJECT"; } }
-
-
-
-
-            public static string ANG_S { get { return "ANG_S"; } }
-            public static string ANG_T { get { return "ANG_T"; } }
-            public static string ANG_U { get { return "ANG_U"; } }
-            public static string ANG_U_MAX { get { return "ANG_U_MAX"; } }
-            public static string ANG_U_MIN { get { return "ANG_U_MIN"; } }
-            public static string ANG_V { get { return "ANG_V"; } }
-            public static string ANG_V_MAX { get { return "ANG_V_MAX"; } }
-            public static string ANG_V_MIN { get { return "ANG_V_MIN"; } }
-            public static string AREA { get { return "AREA"; } }
-            public static string AREA_GROSS { get { return "AREA_GROSS"; } }
-            public static string AREA_NET { get { return "AREA_NET"; } }
-            public static string CAST_UNIT_POS { get { return "CAST_UNIT_POS"; } }
-            public static string CLASS { get { return "CLASS"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string DIM_A { get { return "DIM_A"; } }
-            public static string DIM_B { get { return "DIM_B"; } }
-            public static string DIM_C { get { return "DIM_C"; } }
-            public static string DIM_D { get { return "DIM_D"; } }
-            public static string DIM_E { get { return "DIM_E"; } }
-            public static string DIM_F { get { return "DIM_F"; } }
-            public static string DIM_G { get { return "DIM_G"; } }
-            public static string DIM_H1 { get { return "DIM_H1"; } }
-            public static string DIM_H2 { get { return "DIM_H2"; } }
-            public static string DIM_I { get { return "DIM_I"; } }
-            public static string DIM_J { get { return "DIM_J"; } }
-            public static string DIM_K1 { get { return "DIM_K1"; } }
-            public static string DIM_K2 { get { return "DIM_K2"; } }
-            public static string DIM_O { get { return "DIM_O"; } }
-            public static string DIM_R { get { return "DIM_R"; } }
-            public static string DIM_TD { get { return "DIM_TD"; } }
-            public static string DIM_X { get { return "DIM_X"; } }
-            public static string DIM_Y { get { return "DIM_Y"; } }
-            public static string DIM_R_ALL { get { return "DIM_R_ALL"; } }
-            public static string DIM_A_MAX { get { return "DIM_A_MAX"; } }
-            public static string DIM_B_MAX { get { return "DIM_B_MAX"; } }
-            public static string DIM_C_MAX { get { return "DIM_C_MAX"; } }
-            public static string DIM_D_MAX { get { return "DIM_D_MAX"; } }
-            public static string DIM_E_MAX { get { return "DIM_E_MAX"; } }
-            public static string DIM_F_MAX { get { return "DIM_F_MAX"; } }
-            public static string DIM_G_MAX { get { return "DIM_G_MAX"; } }
-            public static string DIM_H1_MAX { get { return "DIM_H1_MAX"; } }
-            public static string DIM_H2_MAX { get { return "DIM_H2_MAX"; } }
-            public static string DIM_I_MAX { get { return "DIM_I_MAX"; } }
-            public static string DIM_J_MAX { get { return "DIM_J_MAX"; } }
-            public static string DIM_K1_MAX { get { return "DIM_K1_MAX"; } }
-            public static string DIM_K2_MAX { get { return "DIM_K2_MAX"; } }
-            public static string DIM_O_MAX { get { return "DIM_O_MAX"; } }
-            public static string DIM_R_MAX { get { return "DIM_R_MAX"; } }
-            public static string DIM_TD_MAX { get { return "DIM_TD_MAX"; } }
-            public static string DIM_X_MAX { get { return "DIM_X_MAX"; } }
-            public static string DIM_Y_MAX { get { return "DIM_Y_MAX"; } }
-            public static string DIM_A_MIN { get { return "DIM_A_MIN"; } }
-            public static string DIM_B_MIN { get { return "DIM_B_MIN"; } }
-            public static string DIM_C_MIN { get { return "DIM_C_MIN"; } }
-            public static string DIM_D_MIN { get { return "DIM_D_MIN"; } }
-            public static string DIM_E_MIN { get { return "DIM_E_MIN"; } }
-            public static string DIM_F_MIN { get { return "DIM_F_MIN"; } }
-            public static string DIM_G_MIN { get { return "DIM_G_MIN"; } }
-            public static string DIM_H1_MIN { get { return "DIM_H1_MIN"; } }
-            public static string DIM_H2_MIN { get { return "DIM_H2_MIN"; } }
-            public static string DIM_I_MIN { get { return "DIM_I_MIN"; } }
-            public static string DIM_J_MIN { get { return "DIM_J_MIN"; } }
-            public static string DIM_K1_MIN { get { return "DIM_K1_MIN"; } }
-            public static string DIM_K2_MIN { get { return "DIM_K2_MIN"; } }
-            public static string DIM_O_MIN { get { return "DIM_O_MIN"; } }
-            public static string DIM_R_MIN { get { return "DIM_R_MIN"; } }
-            public static string DIM_TD_MIN { get { return "DIM_TD_MIN"; } }
-            public static string DIM_X_MIN { get { return "DIM_X_MIN"; } }
-            public static string DIM_Y_MIN { get { return "DIM_Y_MIN"; } }
-            public static string FATHER_ID { get { return "FATHER_ID"; } }
-            public static string GRADE { get { return "GRADE"; } }
-            public static string GROUP_TYPE { get { return "GROUP_TYPE"; } }
-            public static string GUID { get { return "GUID"; } }
-            public static string ID { get { return "ID"; } }
-            public static string IS_CONCEPTUAL { get { return "IS_CONCEPTUAL"; } }
-            public static string LENGTH { get { return "LENGTH"; } }
-            public static string LENGTH_GROSS { get { return "LENGTH_GROSS"; } }
-            public static string LENGTH_MAX { get { return "LENGTH_MAX"; } }
-            public static string LENGTH_MIN { get { return "LENGTH_MIN"; } }
-            public static string MATERIAL { get { return "MATERIAL"; } }
-            public static string MODEL_TOTAL { get { return "MODEL_TOTAL"; } }
-            public static string NAME { get { return "NAME"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
-            public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
-            public static string OBJECT_LOCKED { get { return "OBJECT_LOCKED"; } }
-            public static string OBJECT_TYPE { get { return "OBJECT_TYPE"; } }
-            public static string OWNER { get { return "OWNER"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
-            public static string PULLOUT { get { return "PULLOUT"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string SHAPE { get { return "SHAPE"; } }
-            public static string SIZE { get { return "SIZE"; } }
             public static string STRAND_N_PATTERN { get { return "STRAND_N_PATTERN"; } }
             public static string STRAND_N_STRAND { get { return "STRAND_N_STRAND"; } }
             public static string STRAND_POS { get { return "STRAND_POS"; } }
-            public static string STRAND_PULL_FORCE { get { return "STRAND_PULL_FORCE"; } }
-            public static string STRAND_UNBONDED { get { return "STRAND_UNBONDED"; } }
             public static string STRAND_DEBONDED_STRANDS_1 { get { return "STRAND_DEBONDED_STRANDS_1"; } }
-            public static string STRAND_DEBOND_LEN_FROM_START_1 { get { return "STRAND_DEBOND_LEN_FROM_START_1"; } }
-            public static string STRAND_DEBOND_LEN_MIDDLE_TO_START_1 { get { return "STRAND_DEBOND_LEN_MIDDLE_TO_START_1"; } }
-            public static string STRAND_DEBOND_LEN_MIDDLE_TO_END_1 { get { return "STRAND_DEBOND_LEN_MIDDLE_TO_END_1"; } }
-            public static string STRAND_DEBOND_LEN_FROM_END_1 { get { return "STRAND_DEBOND_LEN_FROM_END_1"; } }
             public static string STRAND_DEBONDED_STRANDS_2 { get { return "STRAND_DEBONDED_STRANDS_2"; } }
             public static string STRAND_DEBOND_LEN_FROM_START_2 { get { return "STRAND_DEBOND_LEN_FROM_START_2"; } }
             public static string STRAND_DEBOND_LEN_MIDDLE_TO_START_2 { get { return "STRAND_DEBOND_LEN_MIDDLE_TO_START_2"; } }
@@ -15402,347 +12713,66 @@
             public static string STRAND_DEBOND_LEN_MIDDLE_TO_START_5 { get { return "STRAND_DEBOND_LEN_MIDDLE_TO_START_5"; } }
             public static string STRAND_DEBOND_LEN_MIDDLE_TO_END_5 { get { return "STRAND_DEBOND_LEN_MIDDLE_TO_END_5"; } }
             public static string STRAND_DEBOND_LEN_FROM_END_5 { get { return "STRAND_DEBOND_LEN_FROM_END_5"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-            public static string WEIGHT { get { return "WEIGHT"; } }
-            public static string WEIGHT_MAX { get { return "WEIGHT_MAX"; } }
-            public static string WEIGHT_MIN { get { return "WEIGHT_MIN"; } }
-            public static string WEIGHT_TOTAL { get { return "WEIGHT_TOTAL"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-
-
-
-            public static string BOLT_STANDARD { get { return "BOLT_STANDARD"; } }
             public static string CONNECTED_PARTS { get { return "CONNECTED_PARTS"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string DIAMETER { get { return "DIAMETER"; } }
-            public static string GRADE { get { return "GRADE"; } }
-            public static string GUID { get { return "GUID"; } }
             public static string HEAD_DIAMETER { get { return "HEAD_DIAMETER"; } }
             public static string HEAD_THICKNESS { get { return "HEAD_THICKNESS"; } }
-            public static string ID { get { return "ID"; } }
-            public static string LENGTH { get { return "LENGTH"; } }
-            public static string MATERIAL { get { return "MATERIAL"; } }
-            public static string MODEL_TOTAL { get { return "MODEL_TOTAL"; } }
-            public static string NAME { get { return "NAME"; } }
-            public static string NAME_SHORT { get { return "NAME_SHORT"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
-            public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
-            public static string OBJECT_TYPE { get { return "OBJECT_TYPE"; } }
-            public static string OBJECT_LOCKED { get { return "OBJECT_LOCKED"; } }
-            public static string OWNER { get { return "OWNER"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
             public static string SITE_WORKSHOP { get { return "SITE_WORKSHOP"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-            public static string WEIGHT { get { return "WEIGHT"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-
-
-
-            public static string AREA { get { return "AREA"; } }
             public static string CODE { get { return "CODE"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string GUID { get { return "GUID"; } }
-            public static string ID { get { return "ID"; } }
             public static string MORTAR_VOLUME { get { return "MORTAR_VOLUME"; } }
-            public static string NAME { get { return "NAME"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
             public static string SURFACING_NAME { get { return "SURFACING_NAME"; } }
             public static string TILE_VOLUME { get { return "TILE_VOLUME"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-            public static string TYPE { get { return "TYPE"; } }
-            public static string WEIGHT { get { return "WEIGHT"; } }
-            public static string VOLUME { get { return "VOLUME"; } }
-
-            public static string HISTORY_CREATED { get { return "HISTORY.CREATED"; } }
-            public static string HISTORY_CREATED_BY { get { return "HISTORY.CREATED_BY"; } }
-            public static string HISTORY_MODIFIED { get { return "HISTORY.MODIFIED"; } }
-            public static string HISTORY_MODIFIED_ACTION { get { return "HISTORY.MODIFIED_ACTION"; } }
-            public static string HISTORY_MODIFIED_BY { get { return "HISTORY.MODIFIED_BY"; } }
-            public static string HISTORY_OWNER { get { return "HISTORY.OWNER"; } }
-            public static string HISTORY_TOUCHED { get { return "HISTORY.TOUCHED"; } }
-            public static string HISTORY_TOUCHED_ACTION { get { return "HISTORY.TOUCHED_ACTION"; } }
-            public static string HISTORY_TOUCHED_BY { get { return "HISTORY.TOUCHED_BY"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
             public static string pattern { get { return "pattern"; } }
             public static string NUMBER_OF_TILE_TYPES { get { return "NUMBER_OF_TILE_TYPES"; } }
-
             public static string TILE_1_NUMBER { get { return "TILE_1.NUMBER"; } }
             public static string TILE_1_WIDTH { get { return "TILE_1.WIDTH"; } }
             public static string TILE_1_HEIGHT { get { return "TILE_1.HEIGHT"; } }
             public static string TILE_1_THICKNESS { get { return "TILE_1.THICKNESS"; } }
             public static string TILE_1_COLOR { get { return "TILE_1.COLOR"; } }
-
             public static string TILE_2_NUMBER { get { return "TILE_2.NUMBER"; } }
             public static string TILE_2_WIDTH { get { return "TILE_2.WIDTH"; } }
             public static string TILE_2_HEIGHT { get { return "TILE_2.HEIGHT"; } }
             public static string TILE_2_THICKNESS { get { return "TILE_2.THICKNESS"; } }
             public static string TILE_2_COLOR { get { return "TILE_2.COLOR"; } }
-
             public static string TILE_3_NUMBER { get { return "TILE_3.NUMBER"; } }
             public static string TILE_3_WIDTH { get { return "TILE_3.WIDTH"; } }
             public static string TILE_3_HEIGHT { get { return "TILE_3.HEIGHT"; } }
             public static string TILE_3_THICKNESS { get { return "TILE_3.THICKNESS"; } }
             public static string TILE_3_COLOR { get { return "TILE_3.COLOR"; } }
-
             public static string TILE_4_NUMBER { get { return "TILE_4.NUMBER"; } }
             public static string TILE_4_WIDTH { get { return "TILE_4.WIDTH"; } }
             public static string TILE_4_HEIGHT { get { return "TILE_4.HEIGHT"; } }
             public static string TILE_4_THICKNESS { get { return "TILE_4.THICKNESS"; } }
             public static string TILE_4_COLOR { get { return "TILE_4.COLOR"; } }
-
             public static string TILE_5_NUMBER { get { return "TILE_5.NUMBER"; } }
             public static string TILE_5_WIDTH { get { return "TILE_5.WIDTH"; } }
             public static string TILE_5_HEIGHT { get { return "TILE_5.HEIGHT"; } }
             public static string TILE_5_THICKNESS { get { return "TILE_5.THICKNESS"; } }
             public static string TILE_5_COLOR { get { return "TILE_5.COLOR"; } }
-
             public static string TILE_6_NUMBER { get { return "TILE_6.NUMBER"; } }
             public static string TILE_6_WIDTH { get { return "TILE_6.WIDTH"; } }
             public static string TILE_6_HEIGHT { get { return "TILE_6.HEIGHT"; } }
             public static string TILE_6_THICKNESS { get { return "TILE_6.THICKNESS"; } }
             public static string TILE_6_COLOR { get { return "TILE_6.COLOR"; } }
-
             public static string TILE_7_NUMBER { get { return "TILE_7.NUMBER"; } }
             public static string TILE_7_WIDTH { get { return "TILE_7.WIDTH"; } }
             public static string TILE_7_HEIGHT { get { return "TILE_7.HEIGHT"; } }
             public static string TILE_7_THICKNESS { get { return "TILE_7.THICKNESS"; } }
             public static string TILE_7_COLOR { get { return "TILE_7.COLOR"; } }
-
             public static string TILE_8_NUMBER { get { return "TILE_8.NUMBER"; } }
             public static string TILE_8_WIDTH { get { return "TILE_8.WIDTH"; } }
             public static string TILE_8_HEIGHT { get { return "TILE_8.HEIGHT"; } }
             public static string TILE_8_THICKNESS { get { return "TILE_8.THICKNESS"; } }
             public static string TILE_8_COLOR { get { return "TILE_8.COLOR"; } }
-
             public static string TILE_9_NUMBER { get { return "TILE_9.NUMBER"; } }
             public static string TILE_9_WIDTH { get { return "TILE_9.WIDTH"; } }
             public static string TILE_9_HEIGHT { get { return "TILE_9.HEIGHT"; } }
             public static string TILE_9_THICKNESS { get { return "TILE_9.THICKNESS"; } }
             public static string TILE_9_COLOR { get { return "TILE_9.COLOR"; } }
-
             public static string TILE_10_NUMBER { get { return "TILE_10.NUMBER"; } }
             public static string TILE_10_WIDTH { get { return "TILE_10.WIDTH"; } }
             public static string TILE_10_HEIGHT { get { return "TILE_10.HEIGHT"; } }
             public static string TILE_10_THICKNESS { get { return "TILE_10.THICKNESS"; } }
             public static string TILE_10_COLOR { get { return "TILE_10.COLOR"; } }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            public static string BOLT_STANDARD { get { return "BOLT_STANDARD"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string DIAMETER { get { return "DIAMETER"; } }
-            public static string GUID { get { return "GUID"; } }
-            public static string ID { get { return "ID"; } }
-            public static string INNER_DIAMETER { get { return "INNER_DIAMETER"; } }
-            public static string MATERIAL { get { return "MATERIAL"; } }
-            public static string NAME { get { return "NAME"; } }
-            public static string NAME_SHORT { get { return "NAME_SHORT"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
-            public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
-            public static string OBJECT_LOCKED { get { return "OBJECT_LOCKED"; } }
-            public static string OBJECT_TYPE { get { return "OBJECT_TYPE"; } }
-            public static string OWNER { get { return "OWNER"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
-            public static string TYPE { get { return "TYPE"; } }
-            public static string WEIGHT { get { return "WEIGHT"; } }
-
-            public static string BOLT_BOLT_EDGE_DISTANCE { get { return "BOLT.BOLT_EDGE_DISTANCE"; } }
-            public static string BOLT_BOLT_EDGE_DISTANCE_MIN { get { return "BOLT.BOLT_EDGE_DISTANCE_MIN"; } }
-            public static string BOLT_BOLT_MATERIAL_LENGTH { get { return "BOLT.BOLT_MATERIAL_LENGTH"; } }
-            public static string BOLT_BOLT_NPARTS { get { return "BOLT.BOLT_NPARTS"; } }
-            public static string BOLT_BOLT_STANDARD { get { return "BOLT.BOLT_STANDARD"; } }
-            public static string BOLT_CONNECTED_ASSEMBLIES { get { return "BOLT.CONNECTED_ASSEMBLIES"; } }
-            public static string BOLT_CONNECTED_PARTS { get { return "BOLT.CONNECTED_PARTS"; } }
-            public static string BOLT_CURRENT_PHASE { get { return "BOLT.CURRENT_PHASE"; } }
-            public static string BOLT_DIAMETER { get { return "BOLT.DIAMETER"; } }
-            public static string BOLT_FINISH { get { return "BOLT.FINISH"; } }
-            public static string BOLT_GRADE { get { return "BOLT.GRADE"; } }
-            public static string BOLT_GUID { get { return "BOLT.GUID"; } }
-            public static string BOLT_ID { get { return "BOLT.ID"; } }
-            public static string BOLT_LENGTH { get { return "BOLT.LENGTH"; } }
-            public static string BOLT_LENGTH_GROSS { get { return "BOLT.LENGTH_GROSS"; } }
-            public static string BOLT_MATERIAL { get { return "BOLT.MATERIAL"; } }
-            public static string BOLT_MODEL_TOTAL { get { return "BOLT.MODEL_TOTAL"; } }
-            public static string BOLT_NAME { get { return "BOLT.NAME"; } }
-            public static string BOLT_NAME_FULL { get { return "BOLT.NAME_FULL"; } }
-            public static string BOLT_NAME_SHORT { get { return "BOLT.NAME_SHORT"; } }
-            public static string BOLT_NUMBER_1 { get { return "BOLT.NUMBER#1"; } }
-            public static string BOLT_NUMBER_IN_PHASE_X_ { get { return "BOLT.NUMBER_IN_PHASE(X)"; } }
-            public static string BOLT_OBJECT_DESCRIPTION { get { return "BOLT.OBJECT_DESCRIPTION"; } }
-            public static string BOLT_OBJECT_LOCKED { get { return "BOLT.OBJECT_LOCKED"; } }
-            public static string BOLT_OBJECT_TYPE { get { return "BOLT.OBJECT_TYPE"; } }
-            public static string BOLT_OWNER { get { return "BOLT.OWNER"; } }
-            public static string BOLT_PHASE { get { return "BOLT.PHASE"; } }
-            public static string BOLT_PHASE_COMMENT { get { return "BOLT.PHASE.COMMENT"; } }
-            public static string BOLT_PHASE_NAME { get { return "BOLT.PHASE.NAME"; } }
-            public static string BOLT_SITE_WORKSHOP { get { return "BOLT.SITE_WORKSHOP"; } }
-            public static string BOLT_THREAD_IN_MATERIAL { get { return "BOLT.THREAD_IN_MATERIAL"; } }
-            public static string BOLT_TYPE { get { return "BOLT.TYPE"; } }
-            public static string BOLT_TYPE1 { get { return "BOLT.TYPE1"; } }
-            public static string BOLT_TYPE2 { get { return "BOLT.TYPE2"; } }
-            public static string BOLT_TYPE3 { get { return "BOLT.TYPE3"; } }
-            public static string BOLT_TYPE4 { get { return "BOLT.TYPE4"; } }
-            public static string BOLT_WEIGHT { get { return "BOLT.WEIGHT"; } }
-
-            public static string HOLE_DIAMETER { get { return "HOLE.DIAMETER"; } }
-            public static string HOLE_DIAMETER_X { get { return "HOLE.DIAMETER_X"; } }
-            public static string HOLE_DIAMETER_Y { get { return "HOLE.DIAMETER_Y"; } }
-            public static string HOLE_GUID { get { return "HOLE.GUID"; } }
-            public static string HOLE_HOLE_TOLERANCE { get { return "HOLE.HOLE_TOLERANCE"; } }
-            public static string HOLE_ID { get { return "HOLE.ID"; } }
-            public static string HOLE_LONGHOLE_MAX { get { return "HOLE.LONGHOLE_MAX"; } }
-            public static string HOLE_LONGHOLE_MIN { get { return "HOLE.LONGHOLE_MIN"; } }
-            public static string HOLE_LONG_HOLE_X { get { return "HOLE.LONG_HOLE_X"; } }
-            public static string HOLE_LONG_HOLE_Y { get { return "HOLE.LONG_HOLE_Y"; } }
-            public static string HOLE_NUMBER_1 { get { return "HOLE.NUMBER#1"; } }
-            public static string HOLE_OBJECT_DESCRIPTION { get { return "HOLE.OBJECT_DESCRIPTION"; } }
-            public static string HOLE_OBJECT_LOCKED { get { return "HOLE.OBJECT_LOCKED"; } }
-            public static string HOLE_OBJECT_TYPE { get { return "HOLE.OBJECT_TYPE"; } }
-            public static string HOLE_OWNER { get { return "HOLE.OWNER"; } }
-            public static string HOLE_PHASE { get { return "HOLE.PHASE"; } }
-            public static string HOLE_PHASE_COMMENT { get { return "HOLE.PHASE.COMMENT"; } }
-            public static string HOLE_PHASE_NAME { get { return "HOLE.PHASE.NAME"; } }
-
-            public static string NUT_DIAMETER { get { return "NUT.DIAMETER"; } }
-            public static string NUT_GUID { get { return "NUT.GUID"; } }
-            public static string NUT_ID { get { return "NUT.ID"; } }
-            public static string NUT_INNER_DIAMETER { get { return "NUT.INNER_DIAMETER"; } }
-            public static string NUT_NAME { get { return "NUT.NAME"; } }
-            public static string NUT_NAME_SHORT { get { return "NUT.NAME_SHORT"; } }
-            public static string NUT_NUMBER_1 { get { return "NUT.NUMBER#1"; } }
-            public static string NUT_OBJECT_DESCRIPTION { get { return "NUT.OBJECT_DESCRIPTION"; } }
-            public static string NUT_OBJECT_LOCKED { get { return "NUT.OBJECT_LOCKED"; } }
-            public static string NUT_OBJECT_TYPE { get { return "NUT.OBJECT_TYPE"; } }
-            public static string NUT_OWNER { get { return "NUT.OWNER"; } }
-            public static string NUT_PHASE { get { return "NUT.PHASE"; } }
-            public static string NUT_PHASE_COMMENT { get { return "NUT.PHASE.COMMENT"; } }
-            public static string NUT_PHASE_NAME { get { return "NUT.PHASE.NAME"; } }
-            public static string NUT_TYPE { get { return "NUT.TYPE"; } }
-            public static string NUT_WEIGHT { get { return "NUT.WEIGHT"; } }
-
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
-
-            public static string COG_X { get { return "COG_X"; } }
-            public static string COG_Y { get { return "COG_Y"; } }
-            public static string COG_Z { get { return "COG_Z"; } }
-            public static string CONNECTED_PARTS { get { return "CONNECTED_PARTS"; } }
-            public static string CONTENTTYPE { get { return "CONTENTTYPE"; } }
-            public static string CURRENT_PHASE { get { return "CURRENT_PHASE"; } }
-            public static string DATE { get { return "DATE"; } }
-            public static string GUID { get { return "GUID"; } }
-            public static string ID { get { return "ID"; } }
-            public static string LENGTH { get { return "LENGTH"; } }
-            public static string MODEL_TOTAL { get { return "MODEL_TOTAL"; } }
-            public static string NUMBER_1 { get { return "NUMBER#1"; } }
-            public static string OBJECT_DESCRIPTION { get { return "OBJECT_DESCRIPTION"; } }
-            public static string OBJECT_LOCKED { get { return "OBJECT_LOCKED"; } }
-            public static string OBJECT_TYPE { get { return "OBJECT_TYPE"; } }
-            public static string OWNER { get { return "OWNER"; } }
-            public static string PAGE { get { return "PAGE"; } }
-            public static string PHASE { get { return "PHASE"; } }
-            public static string PHASE_COMMENT { get { return "PHASE.COMMENT"; } }
-            public static string PHASE_NAME { get { return "PHASE.NAME"; } }
-            public static string ROW_IN_PAGE { get { return "ROW_IN_PAGE"; } }
-            public static string TIME { get { return "TIME"; } }
-            public static string TITLE1 { get { return "TITLE1"; } }
-            public static string TITLE2 { get { return "TITLE2"; } }
-            public static string TITLE3 { get { return "TITLE3"; } }
             public static string WELD_ACTUAL_LENGTH1 { get { return "WELD_ACTUAL_LENGTH1"; } }
             public static string WELD_ACTUAL_LENGTH2 { get { return "WELD_ACTUAL_LENGTH2"; } }
             public static string WELD_ANGLE1 { get { return "WELD_ANGLE1"; } }
@@ -15793,212 +12823,9 @@
             public static string WELD_TYPE1 { get { return "WELD_TYPE1"; } }
             public static string WELD_TYPE2 { get { return "WELD_TYPE2"; } }
             public static string WELD_VOLUME { get { return "WELD_VOLUME"; } }
-
-            public static string PRIMARY_ACN { get { return "PRIMARY.ACN"; } }
-            public static string PRIMARY_AREA { get { return "PRIMARY.AREA"; } }
-            public static string PRIMARY_AREA_GROSS { get { return "PRIMARY.AREA_GROSS"; } }
-            public static string PRIMARY_AREA_NET { get { return "PRIMARY.AREA_NET"; } }
-            public static string PRIMARY_AREA_PER_TONS { get { return "PRIMARY.AREA_PER_TONS"; } }
-            public static string PRIMARY_AREA_PLAN { get { return "PRIMARY.AREA_PLAN"; } }
-            public static string PRIMARY_AREA_PROJECTION_GXY_NET { get { return "PRIMARY.AREA_PROJECTION_GXY_NET"; } }
-            public static string PRIMARY_AREA_PROJECTION_GXZ_NET { get { return "PRIMARY.AREA_PROJECTION_GXZ_NET"; } }
-            public static string PRIMARY_AREA_PROJECTION_GYZ_NET { get { return "PRIMARY.AREA_PROJECTION_GYZ_NET"; } }
-            public static string PRIMARY_AREA_PROJECTION_GXY_GROSS { get { return "PRIMARY.AREA_PROJECTION_GXY_GROSS"; } }
-            public static string PRIMARY_AREA_PROJECTION_GXZ_GROSS { get { return "PRIMARY.AREA_PROJECTION_GXZ_GROSS"; } }
-            public static string PRIMARY_AREA_PROJECTION_GYZ_GROSS { get { return "PRIMARY.AREA_PROJECTION_GYZ_GROSS"; } }
-            public static string PRIMARY_AREA_PROJECTION_XY_NET { get { return "PRIMARY.AREA_PROJECTION_XY_NET"; } }
-            public static string PRIMARY_AREA_PROJECTION_XZ_NET { get { return "PRIMARY.AREA_PROJECTION_XZ_NET"; } }
-            public static string PRIMARY_AREA_PROJECTION_YZ_NET { get { return "PRIMARY.AREA_PROJECTION_YZ_NET"; } }
-            public static string PRIMARY_AREA_PROJECTION_XY_GROSS { get { return "PRIMARY.AREA_PROJECTION_XY_GROSS"; } }
-            public static string PRIMARY_AREA_PROJECTION_XZ_GROSS { get { return "PRIMARY.AREA_PROJECTION_XZ_GROSS"; } }
-            public static string PRIMARY_AREA_PROJECTION_YZ_GROSS { get { return "PRIMARY.AREA_PROJECTION_YZ_GROSS"; } }
-            public static string PRIMARY_AREA_PGZ { get { return "PRIMARY.AREA_PGZ"; } }
-            public static string PRIMARY_AREA_NGZ { get { return "PRIMARY.AREA_NGZ"; } }
-            public static string PRIMARY_AREA_PGX { get { return "PRIMARY.AREA_PGX"; } }
-            public static string PRIMARY_AREA_NGX { get { return "PRIMARY.AREA_NGX"; } }
-            public static string PRIMARY_AREA_PGY { get { return "PRIMARY.AREA_PGY"; } }
-            public static string PRIMARY_AREA_NGY { get { return "PRIMARY.AREA_NGY"; } }
-            public static string PRIMARY_AREA_PZ { get { return "PRIMARY.AREA_PZ"; } }
-            public static string PRIMARY_AREA_NZ { get { return "PRIMARY.AREA_NZ"; } }
-            public static string PRIMARY_AREA_PX { get { return "PRIMARY.AREA_PX"; } }
-            public static string PRIMARY_AREA_NX { get { return "PRIMARY.AREA_NX"; } }
-            public static string PRIMARY_AREA_PY { get { return "PRIMARY.AREA_PY"; } }
-            public static string PRIMARY_AREA_NY { get { return "PRIMARY.AREA_NY"; } }
-            public static string PRIMARY_ASSEMBLY_BOTTOM_LEVEL { get { return "PRIMARY.ASSEMBLY_BOTTOM_LEVEL"; } }
-            public static string PRIMARY_ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "PRIMARY.ASSEMBLY_BOTTOM_LEVEL_GLOBAL"; } }
-            public static string PRIMARY_ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "PRIMARY.ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string PRIMARY_ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "PRIMARY.ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string PRIMARY_ASSEMBLY_DEFAULT_PREFIX { get { return "PRIMARY.ASSEMBLY_DEFAULT_PREFIX"; } }
-            public static string PRIMARY_ASSEMBLY_POS { get { return "PRIMARY.ASSEMBLY_POS"; } }
             public static string PRIMARY_ASSEMBLY_START_NUMBER { get { return "PRIMARY.ASSEMBLY_START_NUMBER"; } }
-            public static string PRIMARY_ASSEMBLY_TOP_LEVEL { get { return "PRIMARY.ASSEMBLY_TOP_LEVEL"; } }
-            public static string PRIMARY_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "PRIMARY.ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
-            public static string PRIMARY_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "PRIMARY.ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
-            public static string PRIMARY_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "PRIMARY.ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string PRIMARY_BOTTOM_LEVEL { get { return "PRIMARY.BOTTOM_LEVEL"; } }
-            public static string PRIMARY_BOTTOM_LEVEL_GLOBAL { get { return "PRIMARY.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string PRIMARY_BOTTOM_LEVEL_UNFORMATTED { get { return "PRIMARY.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string PRIMARY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "PRIMARY.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string PRIMARY_CLASS_ATTR { get { return "PRIMARY.CLASS_ATTR"; } }
-            public static string PRIMARY_COG_X { get { return "PRIMARY.COG_X"; } }
-            public static string PRIMARY_COG_Y { get { return "PRIMARY.COG_Y"; } }
-            public static string PRIMARY_COG_Z { get { return "PRIMARY.COG_Z"; } }
             public static string PRIMARY_CURVED_SEGMENTS { get { return "PRIMARY.CURVED_SEGMENTS"; } }
-            public static string PRIMARY_CONTENTTYPE { get { return "PRIMARY.CONTENTTYPE"; } }
-            public static string PRIMARY_CURRENT_PHASE { get { return "PRIMARY.CURRENT_PHASE"; } }
-            public static string PRIMARY_DR_PART_POS { get { return "PRIMARY.DR_PART_POS"; } }
-            public static string PRIMARY_END_X { get { return "PRIMARY.END_X"; } }
-            public static string PRIMARY_END_Y { get { return "PRIMARY.END_Y"; } }
-            public static string PRIMARY_END_Z { get { return "PRIMARY.END_Z"; } }
-            public static string PRIMARY_END_X_IN_WORK_PLANE { get { return "PRIMARY.END_X_IN_WORK_PLANE"; } }
-            public static string PRIMARY_END_Y_IN_WORK_PLANE { get { return "PRIMARY.END_Y_IN_WORK_PLANE"; } }
-            public static string PRIMARY_END_Z_IN_WORK_PLANE { get { return "PRIMARY.END_Z_IN_WORK_PLANE"; } }
-            public static string PRIMARY_END1_ANGLE_Y { get { return "PRIMARY.END1_ANGLE_Y"; } }
-            public static string PRIMARY_END1_ANGLE_Z { get { return "PRIMARY.END1_ANGLE_Z"; } }
-            public static string PRIMARY_END1_CODE { get { return "PRIMARY.END1_CODE"; } }
-            public static string PRIMARY_END1_SKEW { get { return "PRIMARY.END1_SKEW"; } }
-            public static string PRIMARY_END2_ANGLE_Y { get { return "PRIMARY.END2_ANGLE_Y"; } }
-            public static string PRIMARY_END2_ANGLE_Z { get { return "PRIMARY.END2_ANGLE_Z"; } }
-            public static string PRIMARY_END2_CODE { get { return "PRIMARY.END2_CODE"; } }
-            public static string PRIMARY_END2_SKEW { get { return "PRIMARY.END2_SKEW"; } }
-            public static string PRIMARY_FINISH { get { return "PRIMARY.FINISH"; } }
-            public static string PRIMARY_FLANGE_LENGTH_B { get { return "PRIMARY.FLANGE_LENGTH_B"; } }
-            public static string PRIMARY_FLANGE_LENGTH_U { get { return "PRIMARY.FLANGE_LENGTH_U"; } }
-            public static string PRIMARY_GUID { get { return "PRIMARY.GUID"; } }
-            public static string PRIMARY_HAS_CONNECTIONS { get { return "PRIMARY.HAS_CONNECTIONS"; } }
-            public static string PRIMARY_HAS_HOLES { get { return "PRIMARY.HAS_HOLES"; } }
-            public static string PRIMARY_HEIGHT { get { return "PRIMARY.HEIGHT"; } }
-            public static string PRIMARY_ID { get { return "PRIMARY.ID"; } }
-            public static string PRIMARY_LENGTH { get { return "PRIMARY.LENGTH"; } }
-            public static string PRIMARY_LENGTH_GROSS { get { return "PRIMARY.LENGTH_GROSS"; } }
-            public static string PRIMARY_LENGTH_NET { get { return "PRIMARY.LENGTH_NET"; } }
-            public static string PRIMARY_MAIN_PART { get { return "PRIMARY.MAIN_PART"; } }
-            public static string PRIMARY_MATERIAL { get { return "PRIMARY.MATERIAL"; } }
-            public static string PRIMARY_MATERIAL_TYPE { get { return "PRIMARY.MATERIAL_TYPE"; } }
-            public static string PRIMARY_MATERIAL_ACTIVE_DESIGN_CODE { get { return "PRIMARY.MATERIAL.ACTIVE_DESIGN_CODE"; } }
-            public static string PRIMARY_MATERIAL_ALIAS_NAME1 { get { return "PRIMARY.MATERIAL.ALIAS_NAME1"; } }
-            public static string PRIMARY_MATERIAL_ALIAS_NAME2 { get { return "PRIMARY.MATERIAL.ALIAS_NAME2"; } }
-            public static string PRIMARY_MATERIAL_ALIAS_NAME3 { get { return "PRIMARY.MATERIAL.ALIAS_NAME3"; } }
-            public static string PRIMARY_MATERIAL_MODULUS_OF_ELASTICITY { get { return "PRIMARY.MATERIAL.MODULUS_OF_ELASTICITY"; } }
-            public static string PRIMARY_MATERIAL_PLATE_DENSITY { get { return "PRIMARY.MATERIAL.PLATE_DENSITY"; } }
-            public static string PRIMARY_MATERIAL_POISSONS_RATIO { get { return "PRIMARY.MATERIAL.POISSONS_RATIO"; } }
-            public static string PRIMARY_MATERIAL_PROFILE_DENSITY { get { return "PRIMARY.MATERIAL.PROFILE_DENSITY"; } }
-            public static string PRIMARY_MATERIAL_THERMAL_DILATATION { get { return "PRIMARY.MATERIAL.THERMAL_DILATATION"; } }
-            public static string PRIMARY_MODEL_TOTAL { get { return "PRIMARY.MODEL_TOTAL"; } }
-            public static string PRIMARY_NAME { get { return "PRIMARY.NAME"; } }
-            public static string PRIMARY_NUMBER_1 { get { return "PRIMARY.NUMBER#1"; } }
-            public static string PRIMARY_OBJECT_DESCRIPTION { get { return "PRIMARY.OBJECT_DESCRIPTION"; } }
-            public static string PRIMARY_OBJECT_LOCKED { get { return "PRIMARY.OBJECT_LOCKED"; } }
-            public static string PRIMARY_OBJECT_TYPE { get { return "PRIMARY.OBJECT_TYPE"; } }
-            public static string PRIMARY_OWNER { get { return "PRIMARY.OWNER"; } }
-            public static string PRIMARY_PAGE { get { return "PRIMARY.PAGE"; } }
-            public static string PRIMARY_PART_POS { get { return "PRIMARY.PART_POS"; } }
-            public static string PRIMARY_PART_PREFIX { get { return "PRIMARY.PART_PREFIX"; } }
-            public static string PRIMARY_PART_SERIAL_NUMBER { get { return "PRIMARY.PART_SERIAL_NUMBER"; } }
-            public static string PRIMARY_PART_START_NUMBER { get { return "PRIMARY.PART_START_NUMBER"; } }
-            public static string PRIMARY_PHASE { get { return "PRIMARY.PHASE"; } }
-            public static string PRIMARY_PHASE_COMMENT { get { return "PRIMARY.PHASE.COMMENT"; } }
-            public static string PRIMARY_PHASE_NAME { get { return "PRIMARY.PHASE.NAME"; } }
-            public static string PRIMARY_PRELIM_MARK { get { return "PRIMARY.PRELIM_MARK"; } }
-            public static string PRIMARY_PROFILE { get { return "PRIMARY.PROFILE"; } }
-            public static string PRIMARY_PROFILE_CANTILEVER { get { return "PRIMARY.PROFILE.CANTILEVER"; } }
-            public static string PRIMARY_PROFILE_COVER_AREA { get { return "PRIMARY.PROFILE.COVER_AREA"; } }
-            public static string PRIMARY_PROFILE_CROSS_SECTION_AREA { get { return "PRIMARY.PROFILE.CROSS_SECTION_AREA"; } }
-            public static string PRIMARY_PROFILE_ECCENTRICITY_X { get { return "PRIMARY.PROFILE.ECCENTRICITY_X"; } }
-            public static string PRIMARY_PROFILE_ECCENTRICITY_Y { get { return "PRIMARY.PROFILE.ECCENTRICITY_Y"; } }
-            public static string PRIMARY_PROFILE_EDGE_FOLD { get { return "PRIMARY.PROFILE.EDGE_FOLD"; } }
-            public static string PRIMARY_PROFILE_EDGE_FOLD_1 { get { return "PRIMARY.PROFILE.EDGE_FOLD_1"; } }
-            public static string PRIMARY_PROFILE_EDGE_FOLD_2 { get { return "PRIMARY.PROFILE.EDGE_FOLD_2"; } }
-            public static string PRIMARY_PROFILE_DIAMETER { get { return "PRIMARY.PROFILE.DIAMETER"; } }
-            public static string PRIMARY_PROFILE_DIAMETER_1 { get { return "PRIMARY.PROFILE.DIAMETER_1"; } }
-            public static string PRIMARY_PROFILE_DIAMETER_2 { get { return "PRIMARY.PROFILE.DIAMETER_2"; } }
-            public static string PRIMARY_PROFILE_FLANGE_SLOPE_RATIO { get { return "PRIMARY.PROFILE.FLANGE_SLOPE_RATIO"; } }
-            public static string PRIMARY_PROFILE_FLANGE_THICKNESS { get { return "PRIMARY.PROFILE.FLANGE_THICKNESS"; } }
-            public static string PRIMARY_PROFILE_FLANGE_THICKNESS_1 { get { return "PRIMARY.PROFILE.FLANGE_THICKNESS_1"; } }
-            public static string PRIMARY_PROFILE_FLANGE_THICKNESS_2 { get { return "PRIMARY.PROFILE.FLANGE_THICKNESS_2"; } }
-            public static string PRIMARY_PROFILE_FLANGE_THICKNESS_B { get { return "PRIMARY.PROFILE.FLANGE_THICKNESS_B"; } }
-            public static string PRIMARY_PROFILE_FLANGE_THICKNESS_U { get { return "PRIMARY.PROFILE.FLANGE_THICKNESS_U"; } }
-            public static string PRIMARY_PROFILE_FLANGE_WIDTH { get { return "PRIMARY.PROFILE.FLANGE_WIDTH"; } }
-            public static string PRIMARY_PROFILE_FLANGE_WIDTH_1 { get { return "PRIMARY.PROFILE.FLANGE_WIDTH_1"; } }
-            public static string PRIMARY_PROFILE_FLANGE_WIDTH_2 { get { return "PRIMARY.PROFILE.FLANGE_WIDTH_2"; } }
-            public static string PRIMARY_PROFILE_FLANGE_WIDTH_B { get { return "PRIMARY.PROFILE.FLANGE_WIDTH_B"; } }
-            public static string PRIMARY_PROFILE_FLANGE_WIDTH_U { get { return "PRIMARY.PROFILE.FLANGE_WIDTH_U"; } }
-            public static string PRIMARY_PROFILE_FOLD_ANGLE { get { return "PRIMARY.PROFILE.FOLD_ANGLE"; } }
-            public static string PRIMARY_PROFILE_HEIGHT { get { return "PRIMARY.PROFILE.HEIGHT"; } }
-            public static string PRIMARY_PROFILE_HEIGHT_1 { get { return "PRIMARY.PROFILE.HEIGHT_1"; } }
-            public static string PRIMARY_PROFILE_HEIGHT_2 { get { return "PRIMARY.PROFILE.HEIGHT_2"; } }
-            public static string PRIMARY_PROFILE_HEIGHT_3 { get { return "PRIMARY.PROFILE.HEIGHT_3"; } }
-            public static string PRIMARY_PROFILE_HEIGHT_4 { get { return "PRIMARY.PROFILE.HEIGHT_4"; } }
-            public static string PRIMARY_PROFILE_MAJOR_AXIS_LENGTH_1 { get { return "PRIMARY.PROFILE.MAJOR_AXIS_LENGTH_1"; } }
-            public static string PRIMARY_PROFILE_MAJOR_AXIS_LENGTH_2 { get { return "PRIMARY.PROFILE.MAJOR_AXIS_LENGTH_2"; } }
-            public static string PRIMARY_PROFILE_MINOR_AXIS_LENGTH_1 { get { return "PRIMARY.PROFILE.MINOR_AXIS_LENGTH_1"; } }
-            public static string PRIMARY_PROFILE_MINOR_AXIS_LENGTH_2 { get { return "PRIMARY.PROFILE.MINOR_AXIS_LENGTH_2"; } }
-            public static string PRIMARY_PROFILE_MOMENT_OF_INERTIA_X { get { return "PRIMARY.PROFILE.MOMENT_OF_INERTIA_X"; } }
-            public static string PRIMARY_PROFILE_MOMENT_OF_INERTIA_Y { get { return "PRIMARY.PROFILE.MOMENT_OF_INERTIA_Y"; } }
-            public static string PRIMARY_PROFILE_NEUTRAL_AXIS_LOCATION_ELASTIC_X { get { return "PRIMARY.PROFILE.NEUTRAL_AXIS_LOCATION_ELASTIC_X"; } }
-            public static string PRIMARY_PROFILE_NEUTRAL_AXIS_LOCATION_ELASTIC_Y { get { return "PRIMARY.PROFILE.NEUTRAL_AXIS_LOCATION_ELASTIC_Y"; } }
-            public static string PRIMARY_PROFILE_NEUTRAL_AXIS_LOCATION_PLASTIC_X { get { return "PRIMARY.PROFILE.NEUTRAL_AXIS_LOCATION_PLASTIC_X"; } }
-            public static string PRIMARY_PROFILE_NEUTRAL_AXIS_LOCATION_PLASTIC_Y { get { return "PRIMARY.PROFILE.NEUTRAL_AXIS_LOCATION_PLASTIC_Y"; } }
-            public static string PRIMARY_PROFILE_NORMALIZED_WARPING_CONSTANT { get { return "PRIMARY.PROFILE.NORMALIZED_WARPING_CONSTANT"; } }
-            public static string PRIMARY_PROFILE_PLASTIC_MODULUS_X { get { return "PRIMARY.PROFILE.PLASTIC_MODULUS_X"; } }
-            public static string PRIMARY_PROFILE_PLASTIC_MODULUS_Y { get { return "PRIMARY.PROFILE.PLASTIC_MODULUS_Y"; } }
-            public static string PRIMARY_PROFILE_PLATE_THICKNESS { get { return "PRIMARY.PROFILE.PLATE_THICKNESS"; } }
-            public static string PRIMARY_PROFILE_POLAR_RADIUS_OF_GYRATION { get { return "PRIMARY.PROFILE.POLAR_RADIUS_OF_GYRATION"; } }
-            public static string PRIMARY_PROFILE_RADIUS_OF_GYRATION_X { get { return "PRIMARY.PROFILE.RADIUS_OF_GYRATION_X"; } }
-            public static string PRIMARY_PROFILE_RADIUS_OF_GYRATION_Y { get { return "PRIMARY.PROFILE.RADIUS_OF_GYRATION_Y"; } }
-            public static string PRIMARY_PROFILE_ROUNDING_RADIUS { get { return "PRIMARY.PROFILE.ROUNDING_RADIUS"; } }
-            public static string PRIMARY_PROFILE_ROUNDING_RADIUS_1 { get { return "PRIMARY.PROFILE.ROUNDING_RADIUS_1"; } }
-            public static string PRIMARY_PROFILE_ROUNDING_RADIUS_2 { get { return "PRIMARY.PROFILE.ROUNDING_RADIUS_2"; } }
-            public static string PRIMARY_PROFILE_SECTION_MODULUS_X { get { return "PRIMARY.PROFILE.SECTION_MODULUS_X"; } }
-            public static string PRIMARY_PROFILE_SECTION_MODULUS_Y { get { return "PRIMARY.PROFILE.SECTION_MODULUS_Y"; } }
-            public static string PRIMARY_PROFILE_SHEAR_CENTER_LOCATION { get { return "PRIMARY.PROFILE.SHEAR_CENTER_LOCATION"; } }
-            public static string PRIMARY_PROFILE_SORT_OF_E_x_Cw_PER_G_x_J { get { return "PRIMARY.PROFILE.SORT_OF_E_x_Cw_PER_G_x_J"; } }
-            public static string PRIMARY_PROFILE_STATICAL_MOMENT_Qf { get { return "PRIMARY.PROFILE.STATICAL_MOMENT_Qf"; } }
-            public static string PRIMARY_PROFILE_STATICAL_MOMENT_Qw { get { return "PRIMARY.PROFILE.STATICAL_MOMENT_Qw"; } }
-            public static string PRIMARY_PROFILE_STIFFENER_DIMENSION { get { return "PRIMARY.PROFILE.STIFFENER_DIMENSION"; } }
-            public static string PRIMARY_PROFILE_STIFFENER_DIMENSION_1 { get { return "PRIMARY.PROFILE.STIFFENER_DIMENSION_1"; } }
-            public static string PRIMARY_PROFILE_STIFFENER_DIMENSION_2 { get { return "PRIMARY.PROFILE.STIFFENER_DIMENSION_2"; } }
-            public static string PRIMARY_PROFILE_STIFFENER_DIMENSION_3 { get { return "PRIMARY.PROFILE.STIFFENER_DIMENSION_3"; } }
-            public static string PRIMARY_PROFILE_SUBTYPE { get { return "PRIMARY.PROFILE.SUBTYPE"; } }
-            public static string PRIMARY_PROFILE_TANGENT_OF_PRINCIPAL_AXIS_ANGLE { get { return "PRIMARY.PROFILE.TANGENT_OF_PRINCIPAL_AXIS_ANGLE"; } }
-            public static string PRIMARY_PROFILE_TORSIONAL_CONSTANT { get { return "PRIMARY.PROFILE.TORSIONAL_CONSTANT"; } }
-            public static string PRIMARY_PROFILE_WARPING_CONSTANT { get { return "PRIMARY.PROFILE.WARPING_CONSTANT"; } }
-            public static string PRIMARY_PROFILE_WARPING_STATICAL_MOMENT { get { return "PRIMARY.PROFILE.WARPING_STATICAL_MOMENT"; } }
-            public static string PRIMARY_PROFILE_WEB_THICKNESS { get { return "PRIMARY.PROFILE.WEB_THICKNESS"; } }
-            public static string PRIMARY_PROFILE_WEB_THICKNESS_1 { get { return "PRIMARY.PROFILE.WEB_THICKNESS_1"; } }
-            public static string PRIMARY_PROFILE_WEB_THICKNESS_2 { get { return "PRIMARY.PROFILE.WEB_THICKNESS_2"; } }
-            public static string PRIMARY_PROFILE_WEIGHT_PER_UNIT_LENGTH { get { return "PRIMARY.PROFILE.WEIGHT_PER_UNIT_LENGTH"; } }
-            public static string PRIMARY_PROFILE_WIDTH { get { return "PRIMARY.PROFILE.WIDTH"; } }
-            public static string PRIMARY_PROFILE_WIDTH_1 { get { return "PRIMARY.PROFILE.WIDTH_1"; } }
-            public static string PRIMARY_PROFILE_WIDTH_2 { get { return "PRIMARY.PROFILE.WIDTH_2"; } }
-            public static string PRIMARY_PROFILE_TYPE { get { return "PRIMARY.PROFILE_TYPE"; } }
-            public static string PRIMARY_PROFILE_WEIGHT { get { return "PRIMARY.PROFILE_WEIGHT"; } }
-            public static string PRIMARY_PROFILE_WEIGHT_NET { get { return "PRIMARY.PROFILE_WEIGHT_NET"; } }
-            public static string PRIMARY_ROW_IN_PAGE { get { return "PRIMARY.ROW_IN_PAGE"; } }
-            public static string PRIMARY_SIMILAR_TO_MAIN_PART { get { return "PRIMARY.SIMILAR_TO_MAIN_PART"; } }
             public static string PRIMARY_RADIUS { get { return "PRIMARY.RADIUS"; } }
-            public static string PRIMARY_SAWING_ITEM { get { return "PRIMARY.SAWING_ITEM"; } }
-            public static string PRIMARY_START_X { get { return "PRIMARY.START_X"; } }
-            public static string PRIMARY_START_Y { get { return "PRIMARY.START_Y"; } }
-            public static string PRIMARY_START_Z { get { return "PRIMARY.START_Z"; } }
-            public static string PRIMARY_START_X_IN_WORK_PLANE { get { return "PRIMARY.START_X_IN_WORK_PLANE"; } }
-            public static string PRIMARY_START_Y_IN_WORK_PLANE { get { return "PRIMARY.START_Y_IN_WORK_PLANE"; } }
-            public static string PRIMARY_START_Z_IN_WORK_PLANE { get { return "PRIMARY.START_Z_IN_WORK_PLANE"; } }
-            public static string PRIMARY_SUPPLEMENT_PART_WEIGHT { get { return "PRIMARY.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string PRIMARY_TOP_LEVEL { get { return "PRIMARY.TOP_LEVEL"; } }
-            public static string PRIMARY_TOP_LEVEL_GLOBAL { get { return "PRIMARY.TOP_LEVEL_GLOBAL"; } }
-            public static string PRIMARY_TOP_LEVEL_UNFORMATTED { get { return "PRIMARY.TOP_LEVEL_UNFORMATTED"; } }
-            public static string PRIMARY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "PRIMARY.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string PRIMARY_WEB_LENGTH { get { return "PRIMARY.WEB_LENGTH"; } }
-            public static string PRIMARY_WEIGHT { get { return "PRIMARY.WEIGHT"; } }
-            public static string PRIMARY_WEIGHT_GROSS { get { return "PRIMARY.WEIGHT_GROSS"; } }
-            public static string PRIMARY_WEIGHT_M { get { return "PRIMARY.WEIGHT_M"; } }
-            public static string PRIMARY_WEIGHT_NET { get { return "PRIMARY.WEIGHT_NET"; } }
-            public static string PRIMARY_WIDTH { get { return "PRIMARY.WIDTH"; } }
-            public static string PRIMARY_VOLUME { get { return "PRIMARY.VOLUME"; } }
-            public static string PRIMARY_VOLUME_GROSS { get { return "PRIMARY.VOLUME_GROSS"; } }
-            public static string PRIMARY_VOLUME_NET { get { return "PRIMARY.VOLUME_NET"; } }
-
             public static string SECONDARY_ACN { get { return "SECONDARY.ACN"; } }
             public static string SECONDARY_AREA { get { return "SECONDARY.AREA"; } }
             public static string SECONDARY_AREA_GROSS { get { return "SECONDARY.AREA_GROSS"; } }
@@ -16202,20 +13029,3203 @@
             public static string SECONDARY_VOLUME { get { return "SECONDARY.VOLUME"; } }
             public static string SECONDARY_VOLUME_GROSS { get { return "SECONDARY.VOLUME_GROSS"; } }
             public static string SECONDARY_VOLUME_NET { get { return "SECONDARY.VOLUME_NET"; } }
+        }
+    }
 
-            public static string PROJECT_ADDRESS { get { return "PROJECT.ADDRESS"; } }
-            public static string PROJECT_BUILDER { get { return "PROJECT.BUILDER"; } }
-            public static string PROJECT_DATE_END { get { return "PROJECT.DATE_END"; } }
-            public static string PROJECT_DATE_START { get { return "PROJECT.DATE_START"; } }
-            public static string PROJECT_DESCRIPTION { get { return "PROJECT.DESCRIPTION"; } }
-            public static string PROJECT_DESIGNER { get { return "PROJECT.DESIGNER"; } }
-            public static string PROJECT_INFO1 { get { return "PROJECT.INFO1"; } }
-            public static string PROJECT_INFO2 { get { return "PROJECT.INFO2"; } }
-            public static string PROJECT_MODEL { get { return "PROJECT.MODEL"; } }
-            public static string PROJECT_NAME { get { return "PROJECT.NAME"; } }
-            public static string PROJECT_NUMBER_2 { get { return "PROJECT.NUMBER#2"; } }
-            public static string PROJECT_OBJECT { get { return "PROJECT.OBJECT"; } }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    class Test
+    {
+        public Test()
+        {
+            TeklaProperties.Connection.ASSEMBLY_BOTTOM_LEVEL;
         }
     }
 }
+
+

@@ -2480,10 +2480,7 @@
             public static string PRIMARY_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "PRIMARY.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
             public static string PRIMARY_ASSEMBLY_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "PRIMARY.ASSEMBLY.ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
             public static string PRIMARY_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "PRIMARY.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string PRIMARY_ASSEMBLY_BOTTOM_LEVEL { get { return "PRIMARY.ASSEMBLY.BOTTOM_LEVEL"; } }
-            public static string PRIMARY_ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "PRIMARY.ASSEMBLY.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string PRIMARY_ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "PRIMARY.ASSEMBLY.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string PRIMARY_ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "PRIMARY.ASSEMBLY.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string PRIMARY_ASSEMBLY_COG_X { get { return "PRIMARY.ASSEMBLY.COG_X"; } }
             public static string PRIMARY_ASSEMBLY_COG_Y { get { return "PRIMARY.ASSEMBLY.COG_Y"; } }
             public static string PRIMARY_ASSEMBLY_COG_Z { get { return "PRIMARY.ASSEMBLY.COG_Z"; } }
@@ -2502,10 +2499,7 @@
             public static string PRIMARY_ASSEMBLY_PHASE_NAME { get { return "PRIMARY.ASSEMBLY.PHASE.NAME"; } }
             public static string PRIMARY_ASSEMBLY_PRELIM_ASSEM_MARK { get { return "PRIMARY.ASSEMBLY.PRELIM_ASSEM_MARK"; } }
             public static string PRIMARY_ASSEMBLY_SUPPLEMENT_PART_WEIGHT { get { return "PRIMARY.ASSEMBLY.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string PRIMARY_ASSEMBLY_TOP_LEVEL { get { return "PRIMARY.ASSEMBLY.TOP_LEVEL"; } }
-            public static string PRIMARY_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "PRIMARY.ASSEMBLY.TOP_LEVEL_GLOBAL"; } }
-            public static string PRIMARY_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "PRIMARY.ASSEMBLY.TOP_LEVEL_UNFORMATTED"; } }
-            public static string PRIMARY_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "PRIMARY.ASSEMBLY.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string PRIMARY_ASSEMBLY_WEIGHT { get { return "PRIMARY.ASSEMBLY.WEIGHT"; } }
             public static string PRIMARY_ASSEMBLY_WEIGHT_GROSS { get { return "PRIMARY.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string PRIMARY_ASSEMBLY_WEIGHT_NET { get { return "PRIMARY.ASSEMBLY.WEIGHT_NET"; } }
@@ -3255,14 +3249,7 @@
             public static string SECONDARY_1_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_1.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
             public static string SECONDARY_1_ASSEMBLY_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_1.ASSEMBLY.ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
             public static string SECONDARY_1_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_1.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string SECONDARY_1_ASSEMBLY_BOTTOM_LEVEL { get { return "SECONDARY_1.ASSEMBLY.BOTTOM_LEVEL"; } }
-            public static string SECONDARY_1_ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "SECONDARY_1.ASSEMBLY.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_1_ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "SECONDARY_1.ASSEMBLY.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_1_ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_1.ASSEMBLY.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string SECONDARY_1_ASSEMBLY_TOP_LEVEL { get { return "SECONDARY_1.ASSEMBLY.TOP_LEVEL"; } }
-            public static string SECONDARY_1_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_1.ASSEMBLY.TOP_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_1_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_1.ASSEMBLY.TOP_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_1_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_1.ASSEMBLY.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_1_ASSEMBLY_COG_X { get { return "SECONDARY_1.ASSEMBLY.COG_X"; } }
             public static string SECONDARY_1_ASSEMBLY_COG_Y { get { return "SECONDARY_1.ASSEMBLY.COG_Y"; } }
             public static string SECONDARY_1_ASSEMBLY_COG_Z { get { return "SECONDARY_1.ASSEMBLY.COG_Z"; } }
@@ -4030,10 +4017,7 @@
             public static string SECONDARY_2_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_2.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
             public static string SECONDARY_2_ASSEMBLY_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_2.ASSEMBLY.ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
             public static string SECONDARY_2_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_2.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string SECONDARY_2_ASSEMBLY_BOTTOM_LEVEL { get { return "SECONDARY_2.ASSEMBLY.BOTTOM_LEVEL"; } }
-            public static string SECONDARY_2_ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "SECONDARY_2.ASSEMBLY.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_2_ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "SECONDARY_2.ASSEMBLY.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_2_ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_2.ASSEMBLY.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_2_ASSEMBLY_COG_X { get { return "SECONDARY_2.ASSEMBLY.COG_X"; } }
             public static string SECONDARY_2_ASSEMBLY_COG_Y { get { return "SECONDARY_2.ASSEMBLY.COG_Y"; } }
             public static string SECONDARY_2_ASSEMBLY_COG_Z { get { return "SECONDARY_2.ASSEMBLY.COG_Z"; } }
@@ -4052,10 +4036,7 @@
             public static string SECONDARY_2_ASSEMBLY_PHASE_NAME { get { return "SECONDARY_2.ASSEMBLY.PHASE.NAME"; } }
             public static string SECONDARY_2_ASSEMBLY_PRELIM_ASSEM_MARK { get { return "SECONDARY_2.ASSEMBLY.PRELIM_ASSEM_MARK"; } }
             public static string SECONDARY_2_ASSEMBLY_SUPPLEMENT_PART_WEIGHT { get { return "SECONDARY_2.ASSEMBLY.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string SECONDARY_2_ASSEMBLY_TOP_LEVEL { get { return "SECONDARY_2.ASSEMBLY.TOP_LEVEL"; } }
-            public static string SECONDARY_2_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_2.ASSEMBLY.TOP_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_2_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_2.ASSEMBLY.TOP_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_2_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_2.ASSEMBLY.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_2_ASSEMBLY_WEIGHT { get { return "SECONDARY_2.ASSEMBLY.WEIGHT"; } }
             public static string SECONDARY_2_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_2.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_2_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_2.ASSEMBLY.WEIGHT_NET"; } }
@@ -4805,10 +4786,7 @@
             public static string SECONDARY_3_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_3.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
             public static string SECONDARY_3_ASSEMBLY_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_3.ASSEMBLY.ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
             public static string SECONDARY_3_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_3.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string SECONDARY_3_ASSEMBLY_BOTTOM_LEVEL { get { return "SECONDARY_3.ASSEMBLY.BOTTOM_LEVEL"; } }
-            public static string SECONDARY_3_ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "SECONDARY_3.ASSEMBLY.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_3_ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "SECONDARY_3.ASSEMBLY.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_3_ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_3.ASSEMBLY.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_3_ASSEMBLY_COG_X { get { return "SECONDARY_3.ASSEMBLY.COG_X"; } }
             public static string SECONDARY_3_ASSEMBLY_COG_Y { get { return "SECONDARY_3.ASSEMBLY.COG_Y"; } }
             public static string SECONDARY_3_ASSEMBLY_COG_Z { get { return "SECONDARY_3.ASSEMBLY.COG_Z"; } }
@@ -4827,10 +4805,7 @@
             public static string SECONDARY_3_ASSEMBLY_PHASE_NAME { get { return "SECONDARY_3.ASSEMBLY.PHASE.NAME"; } }
             public static string SECONDARY_3_ASSEMBLY_PRELIM_ASSEM_MARK { get { return "SECONDARY_3.ASSEMBLY.PRELIM_ASSEM_MARK"; } }
             public static string SECONDARY_3_ASSEMBLY_SUPPLEMENT_PART_WEIGHT { get { return "SECONDARY_3.ASSEMBLY.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string SECONDARY_3_ASSEMBLY_TOP_LEVEL { get { return "SECONDARY_3.ASSEMBLY.TOP_LEVEL"; } }
-            public static string SECONDARY_3_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_3.ASSEMBLY.TOP_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_3_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_3.ASSEMBLY.TOP_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_3_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_3.ASSEMBLY.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_3_ASSEMBLY_WEIGHT { get { return "SECONDARY_3.ASSEMBLY.WEIGHT"; } }
             public static string SECONDARY_3_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_3.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_3_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_3.ASSEMBLY.WEIGHT_NET"; } }
@@ -5580,10 +5555,7 @@
             public static string SECONDARY_4_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_4.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
             public static string SECONDARY_4_ASSEMBLY_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_4.ASSEMBLY.ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
             public static string SECONDARY_4_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_4.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string SECONDARY_4_ASSEMBLY_BOTTOM_LEVEL { get { return "SECONDARY_4.ASSEMBLY.BOTTOM_LEVEL"; } }
-            public static string SECONDARY_4_ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "SECONDARY_4.ASSEMBLY.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_4_ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "SECONDARY_4.ASSEMBLY.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_4_ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_4.ASSEMBLY.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_4_ASSEMBLY_COG_X { get { return "SECONDARY_4.ASSEMBLY.COG_X"; } }
             public static string SECONDARY_4_ASSEMBLY_COG_Y { get { return "SECONDARY_4.ASSEMBLY.COG_Y"; } }
             public static string SECONDARY_4_ASSEMBLY_COG_Z { get { return "SECONDARY_4.ASSEMBLY.COG_Z"; } }
@@ -5602,10 +5574,7 @@
             public static string SECONDARY_4_ASSEMBLY_PHASE_NAME { get { return "SECONDARY_4.ASSEMBLY.PHASE.NAME"; } }
             public static string SECONDARY_4_ASSEMBLY_PRELIM_ASSEM_MARK { get { return "SECONDARY_4.ASSEMBLY.PRELIM_ASSEM_MARK"; } }
             public static string SECONDARY_4_ASSEMBLY_SUPPLEMENT_PART_WEIGHT { get { return "SECONDARY_4.ASSEMBLY.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string SECONDARY_4_ASSEMBLY_TOP_LEVEL { get { return "SECONDARY_4.ASSEMBLY.TOP_LEVEL"; } }
-            public static string SECONDARY_4_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_4.ASSEMBLY.TOP_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_4_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_4.ASSEMBLY.TOP_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_4_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_4.ASSEMBLY.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_4_ASSEMBLY_WEIGHT { get { return "SECONDARY_4.ASSEMBLY.WEIGHT"; } }
             public static string SECONDARY_4_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_4.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_4_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_4.ASSEMBLY.WEIGHT_NET"; } }
@@ -6355,10 +6324,7 @@
             public static string SECONDARY_5_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_5.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
             public static string SECONDARY_5_ASSEMBLY_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_5.ASSEMBLY.ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
             public static string SECONDARY_5_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_5.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string SECONDARY_5_ASSEMBLY_BOTTOM_LEVEL { get { return "SECONDARY_5.ASSEMBLY.BOTTOM_LEVEL"; } }
-            public static string SECONDARY_5_ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "SECONDARY_5.ASSEMBLY.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_5_ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "SECONDARY_5.ASSEMBLY.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_5_ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_5.ASSEMBLY.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_5_ASSEMBLY_COG_X { get { return "SECONDARY_5.ASSEMBLY.COG_X"; } }
             public static string SECONDARY_5_ASSEMBLY_COG_Y { get { return "SECONDARY_5.ASSEMBLY.COG_Y"; } }
             public static string SECONDARY_5_ASSEMBLY_COG_Z { get { return "SECONDARY_5.ASSEMBLY.COG_Z"; } }
@@ -6377,10 +6343,7 @@
             public static string SECONDARY_5_ASSEMBLY_PHASE_NAME { get { return "SECONDARY_5.ASSEMBLY.PHASE.NAME"; } }
             public static string SECONDARY_5_ASSEMBLY_PRELIM_ASSEM_MARK { get { return "SECONDARY_5.ASSEMBLY.PRELIM_ASSEM_MARK"; } }
             public static string SECONDARY_5_ASSEMBLY_SUPPLEMENT_PART_WEIGHT { get { return "SECONDARY_5.ASSEMBLY.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string SECONDARY_5_ASSEMBLY_TOP_LEVEL { get { return "SECONDARY_5.ASSEMBLY.TOP_LEVEL"; } }
-            public static string SECONDARY_5_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_5.ASSEMBLY.TOP_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_5_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_5.ASSEMBLY.TOP_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_5_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_5.ASSEMBLY.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_5_ASSEMBLY_WEIGHT { get { return "SECONDARY_5.ASSEMBLY.WEIGHT"; } }
             public static string SECONDARY_5_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_5.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_5_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_5.ASSEMBLY.WEIGHT_NET"; } }
@@ -7130,10 +7093,7 @@
             public static string SECONDARY_6_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_6.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
             public static string SECONDARY_6_ASSEMBLY_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_6.ASSEMBLY.ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
             public static string SECONDARY_6_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_6.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string SECONDARY_6_ASSEMBLY_BOTTOM_LEVEL { get { return "SECONDARY_6.ASSEMBLY.BOTTOM_LEVEL"; } }
-            public static string SECONDARY_6_ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "SECONDARY_6.ASSEMBLY.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_6_ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "SECONDARY_6.ASSEMBLY.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_6_ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_6.ASSEMBLY.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_6_ASSEMBLY_COG_X { get { return "SECONDARY_6.ASSEMBLY.COG_X"; } }
             public static string SECONDARY_6_ASSEMBLY_COG_Y { get { return "SECONDARY_6.ASSEMBLY.COG_Y"; } }
             public static string SECONDARY_6_ASSEMBLY_COG_Z { get { return "SECONDARY_6.ASSEMBLY.COG_Z"; } }
@@ -7152,10 +7112,7 @@
             public static string SECONDARY_6_ASSEMBLY_PHASE_NAME { get { return "SECONDARY_6.ASSEMBLY.PHASE.NAME"; } }
             public static string SECONDARY_6_ASSEMBLY_PRELIM_ASSEM_MARK { get { return "SECONDARY_6.ASSEMBLY.PRELIM_ASSEM_MARK"; } }
             public static string SECONDARY_6_ASSEMBLY_SUPPLEMENT_PART_WEIGHT { get { return "SECONDARY_6.ASSEMBLY.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string SECONDARY_6_ASSEMBLY_TOP_LEVEL { get { return "SECONDARY_6.ASSEMBLY.TOP_LEVEL"; } }
-            public static string SECONDARY_6_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_6.ASSEMBLY.TOP_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_6_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_6.ASSEMBLY.TOP_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_6_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_6.ASSEMBLY.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_6_ASSEMBLY_WEIGHT { get { return "SECONDARY_6.ASSEMBLY.WEIGHT"; } }
             public static string SECONDARY_6_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_6.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_6_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_6.ASSEMBLY.WEIGHT_NET"; } }
@@ -7905,10 +7862,7 @@
             public static string SECONDARY_7_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_7.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
             public static string SECONDARY_7_ASSEMBLY_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_7.ASSEMBLY.ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
             public static string SECONDARY_7_ASSEMBLY_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_7.ASSEMBLY.ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
-            public static string SECONDARY_7_ASSEMBLY_BOTTOM_LEVEL { get { return "SECONDARY_7.ASSEMBLY.BOTTOM_LEVEL"; } }
-            public static string SECONDARY_7_ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "SECONDARY_7.ASSEMBLY.BOTTOM_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_7_ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "SECONDARY_7.ASSEMBLY.BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_7_ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_7.ASSEMBLY.BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_7_ASSEMBLY_COG_X { get { return "SECONDARY_7.ASSEMBLY.COG_X"; } }
             public static string SECONDARY_7_ASSEMBLY_COG_Y { get { return "SECONDARY_7.ASSEMBLY.COG_Y"; } }
             public static string SECONDARY_7_ASSEMBLY_COG_Z { get { return "SECONDARY_7.ASSEMBLY.COG_Z"; } }
@@ -7927,10 +7881,7 @@
             public static string SECONDARY_7_ASSEMBLY_PHASE_NAME { get { return "SECONDARY_7.ASSEMBLY.PHASE.NAME"; } }
             public static string SECONDARY_7_ASSEMBLY_PRELIM_ASSEM_MARK { get { return "SECONDARY_7.ASSEMBLY.PRELIM_ASSEM_MARK"; } }
             public static string SECONDARY_7_ASSEMBLY_SUPPLEMENT_PART_WEIGHT { get { return "SECONDARY_7.ASSEMBLY.SUPPLEMENT_PART_WEIGHT"; } }
-            public static string SECONDARY_7_ASSEMBLY_TOP_LEVEL { get { return "SECONDARY_7.ASSEMBLY.TOP_LEVEL"; } }
-            public static string SECONDARY_7_ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "SECONDARY_7.ASSEMBLY.TOP_LEVEL_GLOBAL"; } }
-            public static string SECONDARY_7_ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "SECONDARY_7.ASSEMBLY.TOP_LEVEL_UNFORMATTED"; } }
-            public static string SECONDARY_7_ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "SECONDARY_7.ASSEMBLY.TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
+            
             public static string SECONDARY_7_ASSEMBLY_WEIGHT { get { return "SECONDARY_7.ASSEMBLY.WEIGHT"; } }
             public static string SECONDARY_7_ASSEMBLY_WEIGHT_GROSS { get { return "SECONDARY_7.ASSEMBLY.WEIGHT_GROSS"; } }
             public static string SECONDARY_7_ASSEMBLY_WEIGHT_NET { get { return "SECONDARY_7.ASSEMBLY.WEIGHT_NET"; } }
@@ -11303,17 +11254,9 @@
             public static string AREA_NX { get { return "AREA_NX"; } }
             public static string AREA_PY { get { return "AREA_PY"; } }
             public static string AREA_NY { get { return "AREA_NY"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL { get { return "ASSEMBLY_BOTTOM_LEVEL"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL_GLOBAL { get { return "ASSEMBLY_BOTTOM_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED { get { return "ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED"; } }
             public static string ASSEMBLY_DEFAULT_PREFIX { get { return "ASSEMBLY_DEFAULT_PREFIX"; } }
             public static string ASSEMBLY_POS { get { return "ASSEMBLY_POS"; } }
             public static string ASSEMBLY_START_NUMBER { get { return "ASSEMBLY_START_NUMBER"; } }
-            public static string ASSEMBLY_TOP_LEVEL { get { return "ASSEMBLY_TOP_LEVEL"; } }
-            public static string ASSEMBLY_TOP_LEVEL_GLOBAL { get { return "ASSEMBLY_TOP_LEVEL_GLOBAL"; } }
-            public static string ASSEMBLY_TOP_LEVEL_UNFORMATTED { get { return "ASSEMBLY_TOP_LEVEL_UNFORMATTED"; } }
-            public static string ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED { get { return "ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED"; } }
             public static string BOTTOM_LEVEL { get { return "BOTTOM_LEVEL"; } }
             public static string BOTTOM_LEVEL_GLOBAL { get { return "BOTTOM_LEVEL_GLOBAL"; } }
             public static string BOTTOM_LEVEL_UNFORMATTED { get { return "BOTTOM_LEVEL_UNFORMATTED"; } }
@@ -16223,7 +16166,7 @@
     {
         public Test()
         {
-            TeklaProperties.Connection.ASSEMBLY_BOTTOM_LEVEL;
+            
         }
     }
 }

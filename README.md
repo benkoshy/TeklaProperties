@@ -18,7 +18,9 @@ Typical use cases:
 
             Enjoy!
 
-            WARNING: this .cs file has been produced by parsin Tekla's properties file. There may be bugs existing. There are thousands of properties and I didn't have the opportunity to test them all.
+            // WARNING: this .cs file has been produced by parsin Tekla's properties file.
+            // There may be bugs existing. There are thousands of properties and I didn't 
+            // have the opportunity to test them all - or at least any.
 
             Enjoy!
 ```
